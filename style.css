@@ -1,133 +1,44 @@
-#avatar img:hover {
-    transform: scale(1.05);
-    -webkit-transform: scale(1.05);
-    -moz-transform: scale(1.05);
-    -o-transform: scale(1.05);
-  }
-
-#avatar img {
-    transition: all 300ms;
-    -webkit-transition: all 300ms;
-    -moz-transition: all 300ms;
-    -o-transition: all 300ms;
-    margin-right: 5%;
-    margin-left: 0;
-    margin-top: 5%;
-}  
-
-#button-home {
-  margin-top: 10px;
-  margin-right: 5px;
-  margin-bottom: 10px;
+/* Custom Animations */
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 15px rgba(240, 171, 0, 0.4); }
+  50% { box-shadow: 0 0 30px rgba(240, 171, 0, 0.8); }
 }
 
-@media only screen and (max-width: 767px) {
-  #avatar img{
-    margin-right: auto;
-    margin-top: 10%;
-  }
-
-  #knowledge-img {
-    display: none;
-  }
-
-  #welcome {
-    margin-top: 10%;
-  }
-
-  #cd-bot-img {
-    margin-top: 5%;
-  }
-
-  #sudoku-video {
-    margin-bottom: 3%;
-  }
-
-  #snake-video {
-    margin-bottom: 3%;
-  }
+.pulse-glow {
+  animation: pulse-glow 2s infinite;
 }
 
-#education {
-  margin-top: 2%;
+/* Larger text and centered content */
+html {
+  font-size: 18px;
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
 }
 
-#education-section {
-  margin-top: 2%;
-  margin-bottom: 2%;
+
+/* Scale up all text sizes */
+p, li, a {
+  font-size: 1.25rem;
 }
 
-#discord-bot img {
-  transition: all 300ms;
-  -webkit-transition: all 300ms;
-  -moz-transition: all 300ms;
-  -o-transition: all 300ms;
+h1 {
+  font-size: 3rem;
 }
 
-#discord-bot img:hover {
-  transform: scale(1.03);
-  -webkit-transform: scale(1.03);
-  -moz-transform: scale(1.03);
-  -o-transform: scale(1.03);
+h2 {
+  font-size: 2.5rem;
 }
 
-#snake-game video {
-  transition: all 300ms;
-  -webkit-transition: all 300ms;
-  -moz-transition: all 300ms;
-  -o-transition: all 300ms;
+h3 {
+  font-size: 2rem;
 }
 
-#snake-game video:hover {
-  transform: scale(1.03);
-  -webkit-transform: scale(1.03);
-  -moz-transform: scale(1.03);
-  -o-transform: scale(1.03);
+h4, h5 {
+  font-size: 1.5rem;
 }
 
-#sudoku video {
-  transition: all 300ms;
-  -webkit-transition: all 300ms;
-  -moz-transition: all 300ms;
-  -o-transition: all 300ms;
+/* Radial gradient for mouse glow */
+.bg-gradient-radial {
+  background: radial-gradient(circle, var(--tw-gradient-from) 0%, var(--tw-gradient-to) 70%);
 }
 
-#sudoku video:hover {
-  transform: scale(1.03);
-  -webkit-transform: scale(1.03);
-  -moz-transform: scale(1.03);
-  -o-transform: scale(1.03);
-}
-
-#linked-in-icon {
-  margin-right: 1.5%;
-  margin-top: 2.5%;
-}
-
-#email-icon {
-  margin-right: 1.5%;
-}
-
-#kontact-icons a:link {
-  color: rgb(248, 249, 250);
-}
-
-#kontact-icons a:visited {
-  color: rgb(248, 249, 250);
-}
-
-#knowledge div {
-  color: rgb(33, 37, 41);
-}
-
-#knowledge h3 {
-  color: rgb(248, 249, 250);
-}
-
-#languages {
-  margin-top: 2%;
-}
-
-#hobbies {
-  margin-top: 2%;
-}
