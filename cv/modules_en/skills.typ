@@ -1,43 +1,32 @@
 // Imports
 #import "@preview/brilliant-cv:3.1.2": cv-section, cv-skill, cv-skill-with-level, cv-skill-tag, h-bar
+#let metadata = toml("../metadata.toml")
+#let cv-section = cv-section.with(metadata: metadata)
 
 
 #cv-section("Skills")
 
-#cv-skill-with-level(
+#cv-skill(
   type: [Languages],
-  level: 4,
-  info: [English (Native) #h-bar() French (Fluent) #h-bar() Chinese (Conversational)],
+  info: [German (Native) #h-bar() English (Fluent) #h-bar() Spanish (Basic)],
 )
 
-#cv-skill-with-level(
+#cv-skill(
   type: [Programming],
-  level: 5,
-  info: [Python #h-bar() SQL #h-bar() R],
+  info: [Java #h-bar() Python #h-bar() TypeScript/JavaScript #h-bar() HTML/CSS #h-bar() C\# (Unity)],
 )
 
 #cv-skill(
-  type: [Tech Stack],
-  info: [Tableau #h-bar() Snowflake #h-bar() AWS #h-bar() Docker #h-bar() Git],
+  type: [Technologies],
+  info: [Next.js #h-bar() React #h-bar() PostgreSQL #h-bar() Git #h-bar() Tailwind CSS],
 )
 
 #cv-skill(
-  type: [Frameworks & Libraries],
-  info: [Pandas #h-bar() NumPy #h-bar() Scikit-learn #h-bar() TensorFlow #h-bar() FastAPI],
-)
-
-// Skill tags example
-#cv-skill(
-  type: [Certifications],
-  info: [
-    #cv-skill-tag([AWS Certified])
-    #cv-skill-tag([Google Analytics])
-    #cv-skill-tag([Tableau Desktop])
-    #cv-skill-tag([Scrum Master])
-  ],
+  type: [IT Skills],
+  info: [Microsoft 365 #h-bar() Photoshop/GIMP #h-bar() DaVinci Resolve #h-bar() Windows/Linux/macOS],
 )
 
 #cv-skill(
-  type: [Personal Interests],
-  info: [Swimming #h-bar() Cooking #h-bar() Reading #h-bar() Photography],
+  type: [Interests],
+  info: [Table Tennis (Regional League) #h-bar() Piano],
 )

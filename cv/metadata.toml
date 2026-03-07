@@ -2,7 +2,7 @@
 
 # Set the output language
 # INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
-language = "de"
+language = "en"
 
 [layout]
     # Optional values: skyblue, red, nephritis, concrete, darknight
@@ -65,7 +65,7 @@ language = "de"
         linkedin = "max-meinel"
         github = "max-meinel"
         homepage = "max-meinel.de"
-        location = "Mannheim, Deutschland"
+        location = "Mannheim, Germany"
 
 [lang.de]
     header_quote = "Dualer Student Wirtschaftsinformatik (Software Engineering) bei SAP & DHBW Mannheim"

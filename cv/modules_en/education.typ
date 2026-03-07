@@ -1,46 +1,37 @@
 // Imports
 #import "@preview/brilliant-cv:3.1.2": cv-section, cv-entry, h-bar
+#let metadata = toml("../metadata.toml")
+#let cv-section = cv-section.with(metadata: metadata)
+#let cv-entry = cv-entry.with(metadata: metadata)
 
 
 #cv-section("Education")
 
 #cv-entry(
-  title: [Master of Data Science],
-  society: [University of California, Los Angeles],
-  date: [2018 - 2020],
-  location: [USA],
-  logo: image("../assets/logos/ucla.png"),
+  title: [Dual Study Program in Business Informatics (Software Engineering)],
+  society: [DHBW Mannheim & SAP SE],
+  date: [2023 - present],
+  location: [Mannheim],
   description: list(
-    [Thesis: Predicting Customer Churn in Telecommunications Industry using Machine Learning Algorithms and Network Analysis],
-    [Course: Big Data Systems and Technologies #h-bar() Data Mining and Exploration #h-bar() Natural Language Processing],
+    [Bachelor of Science in Business Informatics with focus on Software Engineering],
+    [Practical phases at SAP SE in various departments],
   ),
 )
 
 #cv-entry(
-  title: [Bachelors of Science in Computer Science],
-  society: [University of California, Los Angeles],
-  date: [2014 - 2018],
-  location: [USA],
-  logo: image("../assets/logos/ucla.png"),
+  title: [General Higher Education Entrance Qualification (Abitur)],
+  society: [Landrat-Gruber-Schule],
+  date: [2020 - 2023],
+  location: [Dieburg],
   description: list(
-    [Thesis: Exploring the Use of Machine Learning Algorithms for Predicting Stock Prices: A Comparative Study of Regression and Time-Series Models],
-    [Course: Database Systems #h-bar() Computer Networks #h-bar() Software Engineering #h-bar() Artificial Intelligence],
-    [GPA: 3.8/4.0, Magna Cum Laude],
+    [High school with focus on natural sciences and computer science],
   ),
-  tags: ("Computer Science", "Machine Learning", "Statistics"),
 )
 
-// Example with multiple date periods (study abroad program)
 #cv-entry(
-  title: [Exchange Student Program],
-  society: [Technical University of Munich],
-  date: list(
-    [Fall 2016],
-    [Spring 2017],
-  ),
-  location: [Germany],
-  description: list(
-    [Specialized courses in Advanced Algorithms and Data Structures],
-    [Research project on Distributed Computing Systems],
-  ),
+  title: [Secondary School],
+  society: [Schule auf der Aue],
+  date: [2014 - 2020],
+  location: [Münster (Hessen)],
+  description: none,
 )
