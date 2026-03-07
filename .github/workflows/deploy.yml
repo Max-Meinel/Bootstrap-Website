@@ -26,7 +26,9 @@ jobs:
 
       - name: Compile CV
         working-directory: cv
-        run: typst compile cv.typ cv.pdf
+        run: |
+          typst compile cv.typ cv.pdf
+          ls -la cv.pdf
 
       - name: Prepare deployment
         run: |
@@ -35,6 +37,9 @@ jobs:
           cp -r index.html style.css components.js i18n.js favicon.svg img impressum _site/
           # Copy CV PDF to root
           cp cv/cv.pdf _site/cv.pdf
+          # Debug: List _site contents
+          echo "Contents of _site:"
+          ls -la _site/
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
