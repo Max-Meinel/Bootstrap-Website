@@ -1,1 +1,0 @@
-// No certificates to display

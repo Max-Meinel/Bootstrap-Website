@@ -27,7 +27,7 @@ jobs:
       - name: Compile CV
         working-directory: cv
         run: |
-          typst compile cv.typ cv.pdf
+          typst compile main.typ cv.pdf
           ls -la cv.pdf
 
       - name: Prepare deployment
