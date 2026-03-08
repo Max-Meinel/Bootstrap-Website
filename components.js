@@ -2,7 +2,7 @@
 const navbarHTML = `
 <nav class="bg-neutral-900 py-4 md:py-5 fixed top-0 w-full z-50">
     <div class="max-w-container mx-auto px-4 md:px-8 flex justify-between items-center">
-        <a href="index.html" class="text-xl md:text-2xl font-bold">Max Meinel</a>
+        <a href="./" class="text-xl md:text-2xl font-bold">Max Meinel</a>
 
         <!-- Mobile Menu Button -->
         <button id="mobile-menu-btn" class="md:hidden text-2xl text-neutral-400 hover:text-accent transition">
@@ -11,9 +11,9 @@ const navbarHTML = `
 
         <!-- Desktop Menu -->
         <div class="hidden md:flex gap-10 items-center">
-            <a href="index.html#education" class="text-neutral-400 hover:text-accent transition text-lg" data-i18n="nav.education">Ausbildung</a>
-            <a href="index.html#praxis" class="text-neutral-400 hover:text-accent transition text-lg" data-i18n="nav.praxis">Praxisphasen</a>
-            <a href="index.html#projects" class="text-neutral-400 hover:text-accent transition text-lg" data-i18n="nav.projects">Meine Projekte</a>
+            <a href="#education" class="text-neutral-400 hover:text-accent transition text-lg" data-i18n="nav.education">Ausbildung</a>
+            <a href="#praxis" class="text-neutral-400 hover:text-accent transition text-lg" data-i18n="nav.praxis">Praxisphasen</a>
+            <a href="#projects" class="text-neutral-400 hover:text-accent transition text-lg" data-i18n="nav.projects">Meine Projekte</a>
 
             <!-- Language Dropdown -->
             <div class="relative lang-selector">
@@ -39,9 +39,9 @@ const navbarHTML = `
     <!-- Mobile Menu -->
     <div id="mobile-menu" class="hidden md:hidden bg-neutral-900 border-t border-neutral-800 mt-4">
         <div class="flex flex-col px-4 py-4 gap-4">
-            <a href="index.html#education" class="text-neutral-400 hover:text-accent transition text-lg py-2 mobile-link" data-i18n="nav.education">Ausbildung</a>
-            <a href="index.html#praxis" class="text-neutral-400 hover:text-accent transition text-lg py-2 mobile-link" data-i18n="nav.praxis">Praxisphasen</a>
-            <a href="index.html#projects" class="text-neutral-400 hover:text-accent transition text-lg py-2 mobile-link" data-i18n="nav.projects">Meine Projekte</a>
+            <a href="#education" class="text-neutral-400 hover:text-accent transition text-lg py-2 mobile-link" data-i18n="nav.education">Ausbildung</a>
+            <a href="#praxis" class="text-neutral-400 hover:text-accent transition text-lg py-2 mobile-link" data-i18n="nav.praxis">Praxisphasen</a>
+            <a href="#projects" class="text-neutral-400 hover:text-accent transition text-lg py-2 mobile-link" data-i18n="nav.projects">Meine Projekte</a>
 
             <!-- Mobile Language Dropdown -->
             <div class="relative lang-selector">
@@ -75,9 +75,9 @@ const footerHTML = `
             <div>
                 <h4 class="text-accent font-semibold mb-4">Navigation</h4>
                 <ul class="space-y-2">
-                    <li><a href="index.html#education" class="text-neutral-400 hover:text-accent transition text-sm" data-i18n="nav.education">Ausbildung</a></li>
-                    <li><a href="index.html#praxis" class="text-neutral-400 hover:text-accent transition text-sm" data-i18n="nav.praxis">Praxisphasen</a></li>
-                    <li><a href="index.html#projects" class="text-neutral-400 hover:text-accent transition text-sm" data-i18n="nav.projects">Meine Projekte</a></li>
+                    <li><a href="#education" class="text-neutral-400 hover:text-accent transition text-sm" data-i18n="nav.education">Ausbildung</a></li>
+                    <li><a href="#praxis" class="text-neutral-400 hover:text-accent transition text-sm" data-i18n="nav.praxis">Praxisphasen</a></li>
+                    <li><a href="#projects" class="text-neutral-400 hover:text-accent transition text-sm" data-i18n="nav.projects">Meine Projekte</a></li>
                 </ul>
             </div>
             <!-- Contact -->

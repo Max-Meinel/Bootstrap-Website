@@ -43,17 +43,19 @@
             <div class="md:max-w-xl text-center md:text-left order-2 md:order-2">
                 <h1 class="text-4xl md:text-5xl font-bold mb-4 md:mb-6 text-accent" data-i18n="home.welcome">Willkommen</h1>
                 <p class="text-lg md:text-xl text-neutral-300 mb-6 md:mb-8" data-i18n="home.intro">Ich bin derzeit dualer Student an der DHBW Mannheim in Kooperation mit SAP. Ich bin sehr daran interessiert, Lösungen mit den neuesten Technologien zu entwickeln.</p>
-                <div class="flex flex-wrap gap-3 md:gap-4 mb-6 md:mb-8 justify-center md:justify-start">
-                    <a href="#education" class="px-6 md:px-8 py-3 md:py-4 bg-accent text-neutral-900 rounded-xl font-semibold text-base md:text-lg hover:bg-accent/80 transition" data-i18n="nav.education">Ausbildung</a>
-                    <a href="#praxis" class="px-6 md:px-8 py-3 md:py-4 bg-accent text-neutral-900 rounded-xl font-semibold text-base md:text-lg hover:bg-accent/80 transition" data-i18n="nav.praxis">Praxisphasen</a>
-                    <a href="#projects" class="px-6 md:px-8 py-3 md:py-4 bg-primary text-white rounded-xl font-semibold text-base md:text-lg hover:bg-primary/80 transition" data-i18n="nav.projects">Meine Projekte</a>
+                <div class="flex flex-wrap gap-2 md:gap-3 mb-6 md:mb-8 justify-center md:justify-start">
+                    <a href="#education" class="px-4 md:px-5 py-2 md:py-2.5 bg-accent text-neutral-900 rounded-lg font-semibold text-sm md:text-base hover:bg-accent/80 transition" data-i18n="nav.education">Ausbildung</a>
+                    <a href="#praxis" class="px-4 md:px-5 py-2 md:py-2.5 bg-accent text-neutral-900 rounded-lg font-semibold text-sm md:text-base hover:bg-accent/80 transition" data-i18n="nav.praxis">Praxisphasen</a>
+                    <a href="#projects" class="px-4 md:px-5 py-2 md:py-2.5 bg-primary text-white rounded-lg font-semibold text-sm md:text-base hover:bg-primary/80 transition" data-i18n="nav.projects">Meine Projekte</a>
+                    <a href="cv.pdf" target="_blank" class="px-4 md:px-5 py-2 md:py-2.5 bg-neutral-700 text-white rounded-lg font-semibold text-sm md:text-base hover:bg-neutral-600 transition inline-flex items-center gap-2">
+                        <i class="fa-solid fa-file-pdf"></i> CV
+                    </a>
                 </div>
-                <h4 class="text-accent font-semibold mb-4 text-lg md:text-2xl" data-i18n="home.contact">Kontakt</h4>
-                <div class="flex gap-10 justify-center md:justify-start items-center">
-                    <a href="https://www.linkedin.com/in/max-meinel" target="_blank" class="text-neutral-400 hover:text-accent transition"><i class="fa-brands fa-linkedin-in fa-2x md:fa-3x"></i></a>
-                    <a href="mailto:max.meinel@sap.com" class="text-neutral-400 hover:text-accent transition"><i class="fa-solid fa-envelope fa-2x md:fa-3x"></i></a>
-                    <a href="https://github.com/max-meinel" target="_blank" class="text-neutral-400 hover:text-accent transition"><i class="fa-brands fa-github fa-2x md:fa-3x"></i></a>
-                    <a href="cv.pdf" target="_blank" class="text-neutral-400 hover:text-accent transition"><i class="fa-solid fa-file-pdf fa-2x md:fa-3x"></i></a>
+                <h4 class="text-accent font-semibold mb-3 text-base md:text-lg" data-i18n="home.contact">Kontakt</h4>
+                <div class="flex gap-6 md:gap-8 justify-center md:justify-start items-center">
+                    <a href="https://www.linkedin.com/in/max-meinel" target="_blank" class="text-neutral-400 hover:text-accent transition"><i class="fa-brands fa-linkedin-in fa-xl md:fa-2x"></i></a>
+                    <a href="mailto:max.meinel@sap.com" class="text-neutral-400 hover:text-accent transition"><i class="fa-solid fa-envelope fa-xl md:fa-2x"></i></a>
+                    <a href="https://github.com/max-meinel" target="_blank" class="text-neutral-400 hover:text-accent transition"><i class="fa-brands fa-github fa-xl md:fa-2x"></i></a>
                 </div>
             </div>
         </div>
@@ -69,42 +71,27 @@
       <div class="max-w-6xl mx-auto">
         <div class="relative">
           <!-- Timeline Line -->
-          <div class="absolute left-2 md:left-36 top-0 bottom-0 w-px bg-gradient-to-b from-neutral-700 via-neutral-600 to-accent"></div>
+          <div class="absolute left-2 md:left-36 top-0 bottom-0 w-px bg-gradient-to-b from-accent via-neutral-600 to-neutral-700"></div>
 
-          <!-- Primary School -->
+          <!-- Dual Studies -->
           <div class="relative flex items-center mb-8">
             <div class="hidden md:block w-32 pr-6 text-right">
-              <span class="text-xl font-bold text-neutral-500">2010 – 2014</span>
+              <span class="text-xl font-bold text-accent" data-i18n="edu.today">2023 – heute</span>
             </div>
-            <div class="absolute left-2 md:left-36 -translate-x-1/2 w-4 h-4 bg-neutral-600 rounded-full z-10"></div>
+            <div class="absolute left-2 md:left-36 -translate-x-1/2 w-4 h-4 bg-accent rounded-full z-10 pulse-glow"></div>
             <div class="pl-8 md:pl-12 flex-1">
-              <div class="bg-neutral-900 rounded-2xl overflow-hidden flex flex-col md:flex-row relative">
-                <img class="w-full md:w-52 h-40 md:h-auto object-cover" src="img/jfk-schule.jpg" alt="JFK Schule">
-                <div class="p-5 md:p-6 flex flex-col justify-center flex-1">
-                  <h4 class="text-xl font-semibold mb-1" data-i18n="edu.primary">Grundschule</h4>
-                  <p class="text-neutral-400">John-F.-Kennedy Schule</p>
-                  <p class="text-neutral-500 text-sm">Münster (Hessen)</p>
+              <div class="bg-neutral-900 rounded-2xl overflow-hidden flex flex-col md:flex-row border border-accent/20 relative">
+                <img class="w-full md:w-52 h-40 md:h-auto object-cover" src="img/sap-headquater.png" alt="SAP Headquarter">
+                <div class="absolute top-3 right-3 md:top-4 md:right-4 flex items-center gap-3">
+                  <img src="img/dhbw.png" alt="DHBW" class="h-8 md:h-10 object-contain">
+                  <img src="img/sap.png" alt="SAP" class="h-6 md:h-8 object-contain">
                 </div>
-                <a href="#" class="hidden md:block absolute bottom-4 right-6 text-accent hover:text-accent/80 transition text-sm font-medium" data-i18n="common.readMore">Mehr erfahren <i class="fa-solid fa-arrow-right ml-1"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <!-- Secondary School -->
-          <div class="relative flex items-center mb-8">
-            <div class="hidden md:block w-32 pr-6 text-right">
-              <span class="text-xl font-bold text-neutral-500">2014 – 2020</span>
-            </div>
-            <div class="absolute left-2 md:left-36 -translate-x-1/2 w-4 h-4 bg-neutral-600 rounded-full z-10"></div>
-            <div class="pl-8 md:pl-12 flex-1">
-              <div class="bg-neutral-900 rounded-2xl overflow-hidden flex flex-col md:flex-row relative">
-                <img class="w-full md:w-52 h-40 md:h-auto object-cover" src="img/aue-schule.jpg" alt="Aue Schule">
                 <div class="p-5 md:p-6 flex flex-col justify-center flex-1">
-                  <h4 class="text-xl font-semibold mb-1" data-i18n="edu.secondary">Weiterführende Schule</h4>
-                  <p class="text-neutral-400">Schule auf der Aue</p>
-                  <p class="text-neutral-500 text-sm">Münster (Hessen)</p>
+                  <h4 class="text-xl font-semibold mb-1" data-i18n="edu.dual">Duales Studium</h4>
+                  <p class="text-neutral-400" data-i18n="edu.dualDesc">Wirtschaftsinformatik (Software Engineering)</p>
+                  <p class="text-neutral-500 text-sm">DHBW Mannheim & SAP SE</p>
                 </div>
-                <a href="#" class="hidden md:block absolute bottom-4 right-6 text-accent hover:text-accent/80 transition text-sm font-medium" data-i18n="common.readMore">Mehr erfahren <i class="fa-solid fa-arrow-right ml-1"></i></a>
+                <a href="https://www.mannheim.dhbw.de" target="_blank" class="hidden md:block absolute bottom-4 right-6 text-accent hover:text-accent/80 transition text-sm font-medium" data-i18n="common.readMore">Mehr erfahren <i class="fa-solid fa-arrow-right ml-1"></i></a>
               </div>
             </div>
           </div>
@@ -123,30 +110,45 @@
                   <p class="text-neutral-400">Landrat-Gruber-Schule</p>
                   <p class="text-neutral-500 text-sm">Dieburg</p>
                 </div>
-                <a href="#" class="hidden md:block absolute bottom-4 right-6 text-accent hover:text-accent/80 transition text-sm font-medium" data-i18n="common.readMore">Mehr erfahren <i class="fa-solid fa-arrow-right ml-1"></i></a>
+                <a href="https://www.lgs-dieburg.de" target="_blank" class="hidden md:block absolute bottom-4 right-6 text-accent hover:text-accent/80 transition text-sm font-medium" data-i18n="common.readMore">Mehr erfahren <i class="fa-solid fa-arrow-right ml-1"></i></a>
               </div>
             </div>
           </div>
 
-          <!-- Dual Studies -->
+          <!-- Secondary School -->
+          <div class="relative flex items-center mb-8">
+            <div class="hidden md:block w-32 pr-6 text-right">
+              <span class="text-xl font-bold text-neutral-500">2014 – 2020</span>
+            </div>
+            <div class="absolute left-2 md:left-36 -translate-x-1/2 w-4 h-4 bg-neutral-600 rounded-full z-10"></div>
+            <div class="pl-8 md:pl-12 flex-1">
+              <div class="bg-neutral-900 rounded-2xl overflow-hidden flex flex-col md:flex-row relative">
+                <img class="w-full md:w-52 h-40 md:h-auto object-cover" src="img/aue-schule.jpg" alt="Aue Schule">
+                <div class="p-5 md:p-6 flex flex-col justify-center flex-1">
+                  <h4 class="text-xl font-semibold mb-1" data-i18n="edu.secondary">Weiterführende Schule</h4>
+                  <p class="text-neutral-400">Schule auf der Aue</p>
+                  <p class="text-neutral-500 text-sm">Münster (Hessen)</p>
+                </div>
+                <a href="https://aueschule.de/" target="_blank" class="hidden md:block absolute bottom-4 right-6 text-accent hover:text-accent/80 transition text-sm font-medium" data-i18n="common.readMore">Mehr erfahren <i class="fa-solid fa-arrow-right ml-1"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Primary School -->
           <div class="relative flex items-center">
             <div class="hidden md:block w-32 pr-6 text-right">
-              <span class="text-xl font-bold text-accent" data-i18n="edu.today">2023 – heute</span>
+              <span class="text-xl font-bold text-neutral-500">2010 – 2014</span>
             </div>
-            <div class="absolute left-2 md:left-36 -translate-x-1/2 w-4 h-4 bg-accent rounded-full z-10 pulse-glow"></div>
+            <div class="absolute left-2 md:left-36 -translate-x-1/2 w-4 h-4 bg-neutral-600 rounded-full z-10"></div>
             <div class="pl-8 md:pl-12 flex-1">
-              <div class="bg-neutral-900 rounded-2xl overflow-hidden flex flex-col md:flex-row border border-accent/20 relative">
-                <img class="w-full md:w-52 h-40 md:h-auto object-cover" src="img/sap-headquater.png" alt="SAP Headquarter">
-                <div class="absolute top-3 right-3 md:top-4 md:right-4 flex items-center gap-3">
-                  <img src="img/dhbw.png" alt="DHBW" class="h-8 md:h-10 object-contain">
-                  <img src="img/sap.png" alt="SAP" class="h-6 md:h-8 object-contain">
-                </div>
+              <div class="bg-neutral-900 rounded-2xl overflow-hidden flex flex-col md:flex-row relative">
+                <img class="w-full md:w-52 h-40 md:h-auto object-cover" src="img/jfk-schule.jpg" alt="JFK Schule">
                 <div class="p-5 md:p-6 flex flex-col justify-center flex-1">
-                  <h4 class="text-xl font-semibold mb-1" data-i18n="edu.dual">Duales Studium</h4>
-                  <p class="text-neutral-400" data-i18n="edu.dualDesc">Wirtschaftsinformatik (Software Engineering)</p>
-                  <p class="text-neutral-500 text-sm">DHBW Mannheim & SAP SE</p>
+                  <h4 class="text-xl font-semibold mb-1" data-i18n="edu.primary">Grundschule</h4>
+                  <p class="text-neutral-400">John-F.-Kennedy Schule</p>
+                  <p class="text-neutral-500 text-sm">Münster (Hessen)</p>
                 </div>
-                <a href="#" class="hidden md:block absolute bottom-4 right-6 text-accent hover:text-accent/80 transition text-sm font-medium" data-i18n="common.readMore">Mehr erfahren <i class="fa-solid fa-arrow-right ml-1"></i></a>
+                <a href="https://gs-jfk.edupage.org" target="_blank" class="hidden md:block absolute bottom-4 right-6 text-accent hover:text-accent/80 transition text-sm font-medium" data-i18n="common.readMore">Mehr erfahren <i class="fa-solid fa-arrow-right ml-1"></i></a>
               </div>
             </div>
           </div>
@@ -160,77 +162,28 @@
       <h1 class="text-3xl font-bold text-center" data-i18n="praxis.title">Praxisphasen</h1>
     </section>
 
-    <!-- Phase 1 -->
+    <!-- Phase 5 -->
     <section class="py-12 md:py-20 px-4 md:px-8 bg-neutral-900">
       <div class="max-w-container mx-auto flex flex-col md:flex-row items-center gap-8 md:gap-12">
         <div class="flex-1">
           <div class="flex items-center gap-4 mb-4">
             <div class="w-12 h-12 bg-accent/20 rounded-xl flex items-center justify-center flex-shrink-0">
-              <span class="text-accent font-bold text-lg">1</span>
+              <span class="text-accent font-bold text-lg">5</span>
             </div>
-            <span class="text-accent font-medium" data-i18n="praxis.phase1.date">Okt 2023 – Dez 2023</span>
+            <span class="text-accent font-medium" data-i18n="praxis.phase5.date">Feb 2026 – heute</span>
           </div>
-          <h2 class="text-2xl md:text-3xl font-bold mb-4" data-i18n="praxis.phase1.title">Team / Abteilung</h2>
-          <p class="text-neutral-300 text-lg md:text-xl mb-4" data-i18n="praxis.phase1.desc">Hier kannst du eine ausführliche Beschreibung deiner ersten Praxisphase schreiben. Erkläre, welche Aufgaben du übernommen hast, an welchen Projekten du gearbeitet hast und was du gelernt hast.</p>
-          <p class="text-neutral-500 mb-6 text-base md:text-lg" data-i18n="praxis.phase1.details">Weitere Details zu deinen Tätigkeiten, Herausforderungen und Erfolgen in dieser Phase.</p>
+          <h2 class="text-2xl md:text-3xl font-bold mb-4" data-i18n="praxis.phase5.title">CAP Tools & MTX</h2>
+          <p class="text-neutral-300 text-lg md:text-xl mb-4" data-i18n="praxis.phase5.desc">In meiner aktuellen Praxisphase entwickle ich eine VS Code Extension für domänenbasierte Navigation in SAP CAP Projekten.</p>
+          <p class="text-neutral-500 mb-6 text-base md:text-lg" data-i18n="praxis.phase5.details">Die Extension implementiert eine aggregierte Service-Übersicht, um die Navigationskomplexität in großen CAP-Projekten zu reduzieren. Entwickler können damit schneller zwischen zusammengehörigen Artefakten wie Services, Entities und Handlers navigieren.</p>
           <div class="flex flex-wrap gap-2">
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 1</span>
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 2</span>
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 3</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">TypeScript</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">VS Code Extension API</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Language Server Protocol</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">SAP CAP</span>
           </div>
         </div>
         <div class="w-full md:w-1/2">
-          <img src="img/placeholder.jpg" alt="Phase 1" class="w-full rounded-2xl">
-        </div>
-      </div>
-    </section>
-
-    <!-- Phase 2 -->
-    <section class="py-12 md:py-20 px-4 md:px-8">
-      <div class="max-w-container mx-auto flex flex-col md:flex-row-reverse items-center gap-8 md:gap-12">
-        <div class="flex-1">
-          <div class="flex items-center gap-4 mb-4">
-            <div class="w-12 h-12 bg-accent/20 rounded-xl flex items-center justify-center flex-shrink-0">
-              <span class="text-accent font-bold text-lg">2</span>
-            </div>
-            <span class="text-accent font-medium" data-i18n="praxis.phase2.date">Apr 2024 – Jun 2024</span>
-          </div>
-          <h2 class="text-2xl md:text-3xl font-bold mb-4" data-i18n="praxis.phase2.title">Team / Abteilung</h2>
-          <p class="text-neutral-300 text-lg md:text-xl mb-4" data-i18n="praxis.phase2.desc">Hier kannst du eine ausführliche Beschreibung deiner zweiten Praxisphase schreiben. Erkläre, welche Aufgaben du übernommen hast, an welchen Projekten du gearbeitet hast und was du gelernt hast.</p>
-          <p class="text-neutral-500 mb-6 text-base md:text-lg" data-i18n="praxis.phase2.details">Weitere Details zu deinen Tätigkeiten, Herausforderungen und Erfolgen in dieser Phase.</p>
-          <div class="flex flex-wrap gap-2">
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 1</span>
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 2</span>
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 3</span>
-          </div>
-        </div>
-        <div class="w-full md:w-1/2">
-          <img src="img/placeholder.jpg" alt="Phase 2" class="w-full rounded-2xl">
-        </div>
-      </div>
-    </section>
-
-    <!-- Phase 3 -->
-    <section class="py-12 md:py-20 px-4 md:px-8 bg-neutral-900">
-      <div class="max-w-container mx-auto flex flex-col md:flex-row items-center gap-8 md:gap-12">
-        <div class="flex-1">
-          <div class="flex items-center gap-4 mb-4">
-            <div class="w-12 h-12 bg-accent/20 rounded-xl flex items-center justify-center flex-shrink-0">
-              <span class="text-accent font-bold text-lg">3</span>
-            </div>
-            <span class="text-accent font-medium" data-i18n="praxis.phase3.date">Okt 2024 – Dez 2024</span>
-          </div>
-          <h2 class="text-2xl md:text-3xl font-bold mb-4" data-i18n="praxis.phase3.title">Team / Abteilung</h2>
-          <p class="text-neutral-300 text-lg md:text-xl mb-4" data-i18n="praxis.phase3.desc">Hier kannst du eine ausführliche Beschreibung deiner dritten Praxisphase schreiben. Erkläre, welche Aufgaben du übernommen hast, an welchen Projekten du gearbeitet hast und was du gelernt hast.</p>
-          <p class="text-neutral-500 mb-6 text-base md:text-lg" data-i18n="praxis.phase3.details">Weitere Details zu deinen Tätigkeiten, Herausforderungen und Erfolgen in dieser Phase.</p>
-          <div class="flex flex-wrap gap-2">
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 1</span>
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 2</span>
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 3</span>
-          </div>
-        </div>
-        <div class="w-full md:w-1/2">
-          <img src="img/placeholder.jpg" alt="Phase 3" class="w-full rounded-2xl">
+          <img src="img/placeholder.jpg" alt="Phase 5 - CAP Tools" class="w-full rounded-2xl">
         </div>
       </div>
     </section>
@@ -243,47 +196,100 @@
             <div class="w-12 h-12 bg-accent/20 rounded-xl flex items-center justify-center flex-shrink-0">
               <span class="text-accent font-bold text-lg">4</span>
             </div>
-            <span class="text-accent font-medium" data-i18n="praxis.phase4.date">Apr 2025 – Jun 2025</span>
+            <span class="text-accent font-medium" data-i18n="praxis.phase4.date">Aug 2025 – Nov 2025 · Singapur</span>
           </div>
-          <h2 class="text-2xl md:text-3xl font-bold mb-4" data-i18n="praxis.phase4.title">Team / Abteilung</h2>
-          <p class="text-neutral-300 text-lg md:text-xl mb-4" data-i18n="praxis.phase4.desc">Hier kannst du eine ausführliche Beschreibung deiner vierten Praxisphase schreiben. Erkläre, welche Aufgaben du übernommen hast, an welchen Projekten du gearbeitet hast und was du gelernt hast.</p>
-          <p class="text-neutral-500 mb-6 text-base md:text-lg" data-i18n="praxis.phase4.details">Weitere Details zu deinen Tätigkeiten, Herausforderungen und Erfolgen in dieser Phase.</p>
+          <h2 class="text-2xl md:text-3xl font-bold mb-4" data-i18n="praxis.phase4.title">Construction & Real Estate Industry GTM</h2>
+          <p class="text-neutral-300 text-lg md:text-xl mb-4" data-i18n="praxis.phase4.desc">Meine vierte Praxisphase absolvierte ich in Singapur, wo ich ein SAP Analytics Cloud Planning Dashboard für Projektkostenprognosen entwickelte.</p>
+          <p class="text-neutral-500 mb-6 text-base md:text-lg" data-i18n="praxis.phase4.details">Ich arbeitete mit SAP Business Data Cloud und Datenprodukten, um Echtzeit-Einblicke in Bauprojektkosten zu ermöglichen. Die internationale Erfahrung erweiterte meinen Horizont für globale Geschäftsprozesse.</p>
           <div class="flex flex-wrap gap-2">
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 1</span>
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 2</span>
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 3</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">SAP Analytics Cloud</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">SAP Business Data Cloud</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Planning Dashboard</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Data Products</span>
           </div>
         </div>
         <div class="w-full md:w-1/2">
-          <img src="img/placeholder.jpg" alt="Phase 4" class="w-full rounded-2xl">
+          <img src="img/placeholder.jpg" alt="Phase 4 - Singapore" class="w-full rounded-2xl">
         </div>
       </div>
     </section>
 
-    <!-- Phase 5 -->
+    <!-- Phase 3 -->
     <section class="py-12 md:py-20 px-4 md:px-8 bg-neutral-900">
       <div class="max-w-container mx-auto flex flex-col md:flex-row items-center gap-8 md:gap-12">
         <div class="flex-1">
           <div class="flex items-center gap-4 mb-4">
             <div class="w-12 h-12 bg-accent/20 rounded-xl flex items-center justify-center flex-shrink-0">
-              <span class="text-accent font-bold text-lg">5</span>
+              <span class="text-accent font-bold text-lg">3</span>
             </div>
-            <span class="text-accent font-medium" data-i18n="praxis.phase5.date">Okt 2025 – Dez 2025</span>
+            <span class="text-accent font-medium" data-i18n="praxis.phase3.date">Feb 2025 – Mai 2025</span>
           </div>
-          <h2 class="text-2xl md:text-3xl font-bold mb-4" data-i18n="praxis.phase5.title">Team / Abteilung</h2>
-          <p class="text-neutral-300 text-lg md:text-xl mb-4" data-i18n="praxis.phase5.desc">Hier kannst du eine ausführliche Beschreibung deiner fünften Praxisphase schreiben. Erkläre, welche Aufgaben du übernommen hast, an welchen Projekten du gearbeitet hast und was du gelernt hast.</p>
-          <p class="text-neutral-500 mb-6 text-base md:text-lg" data-i18n="praxis.phase5.details">Weitere Details zu deinen Tätigkeiten, Herausforderungen und Erfolgen in dieser Phase.</p>
+          <h2 class="text-2xl md:text-3xl font-bold mb-4" data-i18n="praxis.phase3.title">Platform CoE – SAP Analytics Cloud</h2>
+          <p class="text-neutral-300 text-lg md:text-xl mb-4" data-i18n="praxis.phase3.desc">In meiner dritten Praxisphase habe ich ein optimiertes Datenmodell für SAP Analytics Cloud Just Ask entwickelt, um League of Legends Esports-Daten zu analysieren.</p>
+          <p class="text-neutral-500 mb-6 text-base md:text-lg" data-i18n="praxis.phase3.details">Das Projekt ermöglichte es den Coaches von Team Liquid, komplexe Spielstatistiken über natürlichsprachliche Abfragen abzurufen. Ich wendete die CRISP-DM Methodik für Datentransformation und Modelloptimierung an.</p>
           <div class="flex flex-wrap gap-2">
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 1</span>
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 2</span>
-            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Tech 3</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">SAP Analytics Cloud</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Just Ask (NLP)</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">CRISP-DM</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Data Modeling</span>
           </div>
         </div>
         <div class="w-full md:w-1/2">
-          <img src="img/placeholder.jpg" alt="Phase 5" class="w-full rounded-2xl">
+          <img src="img/placeholder.jpg" alt="Phase 3 - Platform CoE" class="w-full rounded-2xl">
         </div>
       </div>
     </section>
+
+    <!-- Phase 2 -->
+    <section class="py-12 md:py-20 px-4 md:px-8">
+      <div class="max-w-container mx-auto flex flex-col md:flex-row-reverse items-center gap-8 md:gap-12">
+        <div class="flex-1">
+          <div class="flex items-center gap-4 mb-4">
+            <div class="w-12 h-12 bg-accent/20 rounded-xl flex items-center justify-center flex-shrink-0">
+              <span class="text-accent font-bold text-lg">2</span>
+            </div>
+            <span class="text-accent font-medium" data-i18n="praxis.phase2.date">Jul 2024 – Nov 2024</span>
+          </div>
+          <h2 class="text-2xl md:text-3xl font-bold mb-4" data-i18n="praxis.phase2.title">SAP Datasphere Data Marketplace</h2>
+          <p class="text-neutral-300 text-lg md:text-xl mb-4" data-i18n="praxis.phase2.desc">In meiner zweiten Praxisphase habe ich eine bestehende API für die Installation von Datenprodukten erweitert, um CLI-Funktionalität zu unterstützen.</p>
+          <p class="text-neutral-500 mb-6 text-base md:text-lg" data-i18n="praxis.phase2.details">Durch diese Erweiterung können Datenprodukte nun nahtlos über die Kommandozeile installiert werden. Dies verbessert die Developer Experience und ermöglicht die Automatisierung von Installationsprozessen in CI/CD-Pipelines.</p>
+          <div class="flex flex-wrap gap-2">
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">SAP Datasphere</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">REST API</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">CLI Development</span>
+          </div>
+        </div>
+        <div class="w-full md:w-1/2">
+          <img src="img/placeholder.jpg" alt="Phase 2 - SAP Datasphere" class="w-full rounded-2xl">
+        </div>
+      </div>
+    </section>
+
+    <!-- Phase 1 -->
+    <section class="py-12 md:py-20 px-4 md:px-8 bg-neutral-900">
+      <div class="max-w-container mx-auto flex flex-col md:flex-row items-center gap-8 md:gap-12">
+        <div class="flex-1">
+          <div class="flex items-center gap-4 mb-4">
+            <div class="w-12 h-12 bg-accent/20 rounded-xl flex items-center justify-center flex-shrink-0">
+              <span class="text-accent font-bold text-lg">1</span>
+            </div>
+            <span class="text-accent font-medium" data-i18n="praxis.phase1.date">Jan 2024 – Mai 2024</span>
+          </div>
+          <h2 class="text-2xl md:text-3xl font-bold mb-4" data-i18n="praxis.phase1.title">Product Lifecycle Management</h2>
+          <p class="text-neutral-300 text-lg md:text-xl mb-4" data-i18n="praxis.phase1.desc">In meiner ersten Praxisphase habe ich einen rekursiven Diffing-Algorithmus für Payloads entwickelt, die zwischen SAP und Siemens ausgetauscht werden.</p>
+          <p class="text-neutral-500 mb-6 text-base md:text-lg" data-i18n="praxis.phase1.details">Der Algorithmus ermöglicht einen Versionsvergleich ähnlich der GitHub Diff-Funktionalität. Damit können Änderungen zwischen verschiedenen Versionen von Datenpaketen schnell und übersichtlich identifiziert werden.</p>
+          <div class="flex flex-wrap gap-2">
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">ABAP</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">SAP PLM</span>
+            <span class="px-3 py-1 bg-neutral-700 rounded-full text-sm text-neutral-300">Siemens Integration</span>
+          </div>
+        </div>
+        <div class="w-full md:w-1/2">
+          <img src="img/abab.jpeg" alt="Phase 1 - Product Lifecycle Management" class="w-full rounded-2xl">
+        </div>
+      </div>
+    </section>
+
 
     <!-- Qualifications Header -->
     <section class="py-4 bg-primary">
@@ -301,7 +307,7 @@
           <h5 class="font-bold text-xl mb-4" data-i18n="qual.languages">Sprachen</h5>
           <ul class="space-y-2 text-neutral-300">
             <li><i class="fa-solid fa-check text-accent mr-2"></i><span data-i18n="qual.german">Deutsch (Muttersprache)</span></li>
-            <li><i class="fa-solid fa-check text-accent mr-2"></i><span data-i18n="qual.english">Englisch (sehr gut)</span></li>
+            <li><i class="fa-solid fa-check text-accent mr-2"></i><span data-i18n="qual.english">Englisch (fließend)</span></li>
             <li><i class="fa-solid fa-check text-accent mr-2"></i><span data-i18n="qual.spanish">Spanisch (Grundkenntnisse)</span></li>
           </ul>
         </div>
@@ -312,12 +318,45 @@
           </div>
           <h5 class="font-bold text-xl mb-4" data-i18n="qual.programming">Programmierung</h5>
           <ul class="space-y-2 text-neutral-300">
-            <li><i class="fa-solid fa-check text-accent mr-2"></i>Java (OOP)</li>
+            <li><i class="fa-solid fa-check text-accent mr-2"></i>Java</li>
             <li><i class="fa-solid fa-check text-accent mr-2"></i>Python</li>
-            <li><i class="fa-solid fa-check text-accent mr-2"></i>C# (Unity)</li>
-            <li><i class="fa-solid fa-check text-accent mr-2"></i>HTML, CSS, JS</li>
+            <li><i class="fa-solid fa-check text-accent mr-2"></i>TypeScript / JavaScript</li>
+            <li><i class="fa-solid fa-check text-accent mr-2"></i>HTML / CSS</li>
+            <li><i class="fa-solid fa-check text-accent mr-2"></i>ABAP</li>
           </ul>
         </div>
+
+        <div class="p-6 md:p-8 rounded-2xl bg-neutral-800 text-center">
+          <div class="mb-4">
+            <i class="fa-solid fa-layer-group text-4xl text-accent"></i>
+          </div>
+          <h5 class="font-bold text-xl mb-4">Technologies</h5>
+          <ul class="space-y-2 text-neutral-300">
+            <li><i class="fa-solid fa-check text-accent mr-2"></i>Next.js / React</li>
+            <li><i class="fa-solid fa-check text-accent mr-2"></i>PostgreSQL</li>
+            <li><i class="fa-solid fa-check text-accent mr-2"></i>Git</li>
+            <li><i class="fa-solid fa-check text-accent mr-2"></i>Tailwind CSS</li>
+          </ul>
+        </div>
+
+        <div class="p-6 md:p-8 rounded-2xl bg-neutral-800 text-center">
+          <div class="mb-4">
+            <i class="fa-solid fa-building text-4xl text-accent"></i>
+          </div>
+          <h5 class="font-bold text-xl mb-4">SAP</h5>
+          <ul class="space-y-2 text-neutral-300">
+            <li><i class="fa-solid fa-check text-accent mr-2"></i>SAP Analytics Cloud</li>
+            <li><i class="fa-solid fa-check text-accent mr-2"></i>SAP Datasphere</li>
+            <li><i class="fa-solid fa-check text-accent mr-2"></i>SAP CAP</li>
+          </ul>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Additional Info -->
+    <section class="py-10 md:py-16 px-4 md:px-8">
+      <div class="max-w-container mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
 
         <div class="p-6 md:p-8 rounded-2xl bg-neutral-800 text-center">
           <div class="mb-4">
@@ -325,10 +364,10 @@
           </div>
           <h5 class="font-bold text-xl mb-4" data-i18n="qual.computer">IT-Kenntnisse</h5>
           <ul class="space-y-2 text-neutral-300">
-            <li><i class="fa-solid fa-check text-accent mr-2"></i>M365 & MS-Office</li>
-            <li><i class="fa-solid fa-check text-accent mr-2"></i>Photoshop & Gimp</li>
+            <li><i class="fa-solid fa-check text-accent mr-2"></i>Microsoft 365</li>
+            <li><i class="fa-solid fa-check text-accent mr-2"></i>Photoshop / GIMP</li>
             <li><i class="fa-solid fa-check text-accent mr-2"></i>DaVinci Resolve</li>
-            <li><i class="fa-solid fa-check text-accent mr-2"></i>Win / Linux / Mac</li>
+            <li><i class="fa-solid fa-check text-accent mr-2"></i>Windows / Linux / macOS</li>
           </ul>
         </div>
 
@@ -339,10 +378,11 @@
           <h5 class="font-bold text-xl mb-4" data-i18n="qual.hobbies">Hobbys</h5>
           <ul class="space-y-2 text-neutral-300">
             <li><i class="fa-solid fa-check text-accent mr-2"></i><span data-i18n="qual.tabletennis">Tischtennis (Verbandsliga)</span></li>
-            <li><i class="fa-solid fa-check text-accent mr-2"></i><span data-i18n="qual.piano">Klavier</span></li>
           </ul>
         </div>
 
+      </div>
+    </section>
       </div>
     </section>
 
