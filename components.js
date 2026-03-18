@@ -150,3 +150,51 @@ function initMobileMenu() {
         });
     }
 }
+
+// Education details toggle functionality
+function toggleEducationDetails(id) {
+    const details = document.getElementById(`${id}-details`);
+    const icon = document.getElementById(`${id}-icon`);
+    const button = icon.closest('button');
+    const buttonText = button.querySelector('[data-i18n]');
+
+    const isHidden = details.classList.contains('hidden');
+
+    if (isHidden) {
+        // Expand
+        details.classList.remove('hidden');
+        // Get full height for smooth animation
+        const fullHeight = details.scrollHeight;
+        details.style.maxHeight = '0px';
+
+        requestAnimationFrame(() => {
+            details.classList.add('opacity-100');
+            details.style.maxHeight = fullHeight + 'px';
+            icon.style.transform = 'rotate(180deg)';
+        });
+
+        buttonText.setAttribute('data-i18n', 'edu.hideDetails');
+        if (typeof applyTranslations === 'function') {
+            applyTranslations();
+        }
+    } else {
+        // Collapse
+        details.style.maxHeight = details.scrollHeight + 'px';
+
+        requestAnimationFrame(() => {
+            details.classList.remove('opacity-100');
+            details.style.maxHeight = '0px';
+            icon.style.transform = 'rotate(0deg)';
+        });
+
+        setTimeout(() => {
+            details.classList.add('hidden');
+            details.style.maxHeight = '';
+        }, 400);
+
+        buttonText.setAttribute('data-i18n', 'edu.showDetails');
+        if (typeof applyTranslations === 'function') {
+            applyTranslations();
+        }
+    }
+}

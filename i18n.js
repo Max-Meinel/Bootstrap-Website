@@ -14,11 +14,18 @@ const translations = {
 
     // Education
     'edu.primary': 'Grundschule',
-    'edu.secondary': 'Weiterführende Schule',
-    'edu.highschool': 'Gymnasium',
+    'edu.secondary': 'Gymnasium Sekundarstufe I',
+    'edu.highschool': 'Gymnasium Sekundarstufe II',
     'edu.dual': 'Duales Studium',
     'edu.dualDesc': 'Wirtschaftsinformatik (Software Engineering)',
     'edu.today': '2023 – heute',
+    'edu.showDetails': 'Details anzeigen',
+    'edu.hideDetails': 'Details ausblenden',
+    'edu.performanceCourses': 'Leistungskurse',
+    'edu.grade': 'Abiturnote',
+    'edu.rotationsOverview': 'Praxisphasen Übersicht',
+    'edu.informatics': 'Informatik',
+    'edu.mathematics': 'Mathematik',
 
     // Practical Phases
     'praxis.title': 'Praxisphasen',
@@ -54,7 +61,7 @@ const translations = {
     'qual.sap': 'SAP',
     'qual.computer': 'IT-Kenntnisse',
     'qual.hobbies': 'Hobbys',
-    'qual.tabletennis': 'Tischtennis (Verbandsliga)',
+    'qual.tabletennis': 'Tischtennis',
 
     // Projects
     'proj.nextickets.desc': 'Ein Ticketsystem für kleine Vereine und Veranstalter, das den Ticketverkauf und die Verwaltung von Events vereinfacht.',
@@ -94,6 +101,13 @@ const translations = {
     'edu.dual': 'Dual Studies',
     'edu.dualDesc': 'Business Informatics (Software Engineering)',
     'edu.today': '2023 – today',
+    'edu.showDetails': 'Show details',
+    'edu.hideDetails': 'Hide details',
+    'edu.performanceCourses': 'Performance Courses',
+    'edu.grade': 'Grade',
+    'edu.rotationsOverview': 'Rotations Overview',
+    'edu.informatics': 'Informatics',
+    'edu.mathematics': 'Mathematics',
 
     // Practical Phases
     'praxis.title': 'Rotations',
@@ -129,7 +143,7 @@ const translations = {
     'qual.sap': 'SAP',
     'qual.computer': 'IT Skills',
     'qual.hobbies': 'Hobbies',
-    'qual.tabletennis': 'Table Tennis (Regional League)',
+    'qual.tabletennis': 'Table Tennis',
 
     // Projects
     'proj.nextickets.desc': 'A ticket system for small clubs and event organizers that simplifies ticket sales and event management.',

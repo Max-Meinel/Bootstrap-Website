@@ -81,18 +81,81 @@
             </div>
             <div class="absolute left-2 md:left-36 -translate-x-1/2 w-4 h-4 bg-accent rounded-full z-10 pulse-glow"></div>
             <div class="pl-8 md:pl-12 flex-1">
-              <div class="bg-neutral-900 rounded-2xl overflow-hidden flex flex-col md:flex-row border border-accent/20 relative">
-                <img class="w-full md:w-52 h-40 md:h-auto object-cover" src="img/sap-headquater.png" alt="SAP Headquarter">
-                <div class="absolute top-3 right-3 md:top-4 md:right-4 flex items-center gap-3">
-                  <img src="img/dhbw.png" alt="DHBW" class="h-8 md:h-10 object-contain">
-                  <img src="img/sap.png" alt="SAP" class="h-6 md:h-8 object-contain">
+              <div class="bg-neutral-900 rounded-2xl overflow-hidden border border-accent/20 relative">
+                <div class="flex flex-col md:flex-row">
+                  <img class="w-full md:w-52 h-40 md:h-auto object-cover" src="img/sap-headquater.png" alt="SAP Headquarter">
+                  <div class="absolute top-3 right-3 md:top-4 md:right-4 flex items-center gap-3">
+                    <img src="img/dhbw.png" alt="DHBW" class="h-8 md:h-10 object-contain">
+                    <img src="img/sap.png" alt="SAP" class="h-6 md:h-8 object-contain">
+                  </div>
+                  <div class="p-5 md:p-6 flex flex-col justify-center flex-1">
+                    <h4 class="text-xl font-semibold mb-1" data-i18n="edu.dual"></h4>
+                    <p class="text-neutral-400" data-i18n="edu.dualDesc"></p>
+                    <p class="text-neutral-500 text-sm">DHBW Mannheim & SAP SE</p>
+                    <button onclick="toggleEducationDetails('dual-studies')" class="text-accent text-sm mt-3 flex items-center gap-1 hover:text-accent/80 transition">
+                      <span data-i18n="edu.showDetails"></span>
+                      <i class="fa-solid fa-chevron-down transition-transform duration-200" id="dual-studies-icon"></i>
+                    </button>
+                  </div>
                 </div>
-                <div class="p-5 md:p-6 flex flex-col justify-center flex-1">
-                  <h4 class="text-xl font-semibold mb-1" data-i18n="edu.dual"></h4>
-                  <p class="text-neutral-400" data-i18n="edu.dualDesc"></p>
-                  <p class="text-neutral-500 text-sm">DHBW Mannheim & SAP SE</p>
+                <!-- Expandable content inside card -->
+                <div id="dual-studies-details" class="hidden transition-all duration-400 ease-in-out opacity-0 overflow-hidden">
+                  <div class="px-5 pb-5 md:px-6 md:pb-6 pt-4 border-t border-neutral-700">
+                    <h5 class="font-semibold text-accent mb-4 text-sm md:text-base" data-i18n="edu.rotationsOverview"></h5>
+                    <div class="space-y-2">
+                      <a href="#praxis-phase5" class="flex items-center gap-2 md:gap-3 p-2 md:p-3 rounded-lg bg-neutral-800 hover:bg-neutral-700 transition">
+                        <div class="w-7 h-7 md:w-8 md:h-8 bg-accent/20 rounded-lg flex items-center justify-center flex-shrink-0">
+                          <span class="text-accent font-bold text-xs md:text-sm">5</span>
+                        </div>
+                        <div class="flex-1 min-w-0">
+                          <p class="text-xs md:text-sm font-medium line-clamp-1 leading-tight" data-i18n="praxis.phase5.title"></p>
+                          <p class="text-[10px] md:text-xs text-neutral-500 leading-tight" data-i18n="praxis.phase5.date"></p>
+                        </div>
+                        <i class="fa-solid fa-arrow-right text-accent text-xs md:text-sm flex-shrink-0"></i>
+                      </a>
+                      <a href="#praxis-phase4" class="flex items-center gap-2 md:gap-3 p-2 md:p-3 rounded-lg bg-neutral-800 hover:bg-neutral-700 transition">
+                        <div class="w-7 h-7 md:w-8 md:h-8 bg-accent/20 rounded-lg flex items-center justify-center flex-shrink-0">
+                          <span class="text-accent font-bold text-xs md:text-sm">4</span>
+                        </div>
+                        <div class="flex-1 min-w-0">
+                          <p class="text-xs md:text-sm font-medium line-clamp-1 leading-tight" data-i18n="praxis.phase4.title"></p>
+                          <p class="text-[10px] md:text-xs text-neutral-500 leading-tight" data-i18n="praxis.phase4.date"></p>
+                        </div>
+                        <i class="fa-solid fa-arrow-right text-accent text-xs md:text-sm flex-shrink-0"></i>
+                      </a>
+                      <a href="#praxis-phase3" class="flex items-center gap-2 md:gap-3 p-2 md:p-3 rounded-lg bg-neutral-800 hover:bg-neutral-700 transition">
+                        <div class="w-7 h-7 md:w-8 md:h-8 bg-accent/20 rounded-lg flex items-center justify-center flex-shrink-0">
+                          <span class="text-accent font-bold text-xs md:text-sm">3</span>
+                        </div>
+                        <div class="flex-1 min-w-0">
+                          <p class="text-xs md:text-sm font-medium line-clamp-1 leading-tight" data-i18n="praxis.phase3.title"></p>
+                          <p class="text-[10px] md:text-xs text-neutral-500 leading-tight" data-i18n="praxis.phase3.date"></p>
+                        </div>
+                        <i class="fa-solid fa-arrow-right text-accent text-xs md:text-sm flex-shrink-0"></i>
+                      </a>
+                      <a href="#praxis-phase2" class="flex items-center gap-2 md:gap-3 p-2 md:p-3 rounded-lg bg-neutral-800 hover:bg-neutral-700 transition">
+                        <div class="w-7 h-7 md:w-8 md:h-8 bg-accent/20 rounded-lg flex items-center justify-center flex-shrink-0">
+                          <span class="text-accent font-bold text-xs md:text-sm">2</span>
+                        </div>
+                        <div class="flex-1 min-w-0">
+                          <p class="text-xs md:text-sm font-medium line-clamp-1 leading-tight" data-i18n="praxis.phase2.title"></p>
+                          <p class="text-[10px] md:text-xs text-neutral-500 leading-tight" data-i18n="praxis.phase2.date"></p>
+                        </div>
+                        <i class="fa-solid fa-arrow-right text-accent text-xs md:text-sm flex-shrink-0"></i>
+                      </a>
+                      <a href="#praxis-phase1" class="flex items-center gap-2 md:gap-3 p-2 md:p-3 rounded-lg bg-neutral-800 hover:bg-neutral-700 transition">
+                        <div class="w-7 h-7 md:w-8 md:h-8 bg-accent/20 rounded-lg flex items-center justify-center flex-shrink-0">
+                          <span class="text-accent font-bold text-xs md:text-sm">1</span>
+                        </div>
+                        <div class="flex-1 min-w-0">
+                          <p class="text-xs md:text-sm font-medium line-clamp-1 leading-tight" data-i18n="praxis.phase1.title"></p>
+                          <p class="text-[10px] md:text-xs text-neutral-500 leading-tight" data-i18n="praxis.phase1.date"></p>
+                        </div>
+                        <i class="fa-solid fa-arrow-right text-accent text-xs md:text-sm flex-shrink-0"></i>
+                      </a>
+                    </div>
+                  </div>
                 </div>
-                <a href="https://www.mannheim.dhbw.de" target="_blank" class="hidden md:block absolute bottom-4 right-6 text-accent hover:text-accent/80 transition text-sm font-medium" data-i18n="common.readMore"></a>
               </div>
             </div>
           </div>
@@ -104,14 +167,33 @@
             </div>
             <div class="absolute left-2 md:left-36 -translate-x-1/2 w-4 h-4 bg-neutral-600 rounded-full z-10"></div>
             <div class="pl-8 md:pl-12 flex-1">
-              <div class="bg-neutral-900 rounded-2xl overflow-hidden flex flex-col md:flex-row relative">
-                <img class="w-full md:w-52 h-40 md:h-auto object-cover" src="img/lgs-schule.jpg" alt="LGS Schule">
-                <div class="p-5 md:p-6 flex flex-col justify-center flex-1">
-                  <h4 class="text-xl font-semibold mb-1" data-i18n="edu.highschool"></h4>
-                  <p class="text-neutral-400">Landrat-Gruber-Schule</p>
-                  <p class="text-neutral-500 text-sm">Dieburg</p>
+              <div class="bg-neutral-900 rounded-2xl overflow-hidden border border-neutral-700 relative">
+                <div class="flex flex-col md:flex-row">
+                  <img class="w-full md:w-52 h-40 md:h-auto object-cover" src="img/lgs-schule.jpg" alt="LGS Schule">
+                  <div class="p-5 md:p-6 flex flex-col justify-center flex-1">
+                    <h4 class="text-xl font-semibold mb-1" data-i18n="edu.highschool"></h4>
+                    <p class="text-neutral-400">Landrat-Gruber-Schule</p>
+                    <p class="text-neutral-500 text-sm">Dieburg</p>
+                    <button onclick="toggleEducationDetails('gymnasium')" class="text-accent text-sm mt-3 flex items-center gap-1 hover:text-accent/80 transition">
+                      <span data-i18n="edu.showDetails"></span>
+                      <i class="fa-solid fa-chevron-down transition-transform duration-200" id="gymnasium-icon"></i>
+                    </button>
+                  </div>
                 </div>
-                              </div>
+                <!-- Expandable content inside card -->
+                <div id="gymnasium-details" class="hidden transition-all duration-400 ease-in-out opacity-0 overflow-hidden">
+                  <div class="px-5 pb-5 md:px-6 md:pb-6 pt-4 border-t border-neutral-700">
+                    <h5 class="font-semibold text-accent mb-4" data-i18n="edu.performanceCourses"></h5>
+                    <ul class="list-disc pl-5 text-neutral-400 mb-4">
+                      <li><span data-i18n="edu.informatics"></span></li>
+                      <li><span data-i18n="edu.mathematics"></span></li>
+                    </ul>
+                    <p class="text-neutral-400 text-sm">
+                      <span data-i18n="edu.grade"></span>: <strong class="text-accent">1,7</strong>
+                    </p>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
 
@@ -161,7 +243,7 @@
     </section>
 
     <!-- Phase 5 -->
-    <section class="py-12 md:py-20 px-4 md:px-8 bg-neutral-900">
+    <section class="py-12 md:py-20 px-4 md:px-8 bg-neutral-900" id="praxis-phase5">
       <div class="max-w-container mx-auto flex flex-col md:flex-row items-center gap-8 md:gap-12">
         <div class="flex-1">
           <div class="flex items-center gap-4 mb-4">
@@ -187,7 +269,7 @@
     </section>
 
     <!-- Phase 4 -->
-    <section class="py-12 md:py-20 px-4 md:px-8">
+    <section class="py-12 md:py-20 px-4 md:px-8" id="praxis-phase4">
       <div class="max-w-container mx-auto flex flex-col md:flex-row-reverse items-center gap-8 md:gap-12">
         <div class="flex-1">
           <div class="flex items-center gap-4 mb-4">
@@ -213,7 +295,7 @@
     </section>
 
     <!-- Phase 3 -->
-    <section class="py-12 md:py-20 px-4 md:px-8 bg-neutral-900">
+    <section class="py-12 md:py-20 px-4 md:px-8 bg-neutral-900" id="praxis-phase3">
       <div class="max-w-container mx-auto flex flex-col md:flex-row items-center gap-8 md:gap-12">
         <div class="flex-1">
           <div class="flex items-center gap-4 mb-4">
@@ -238,7 +320,7 @@
     </section>
 
     <!-- Phase 2 -->
-    <section class="py-12 md:py-20 px-4 md:px-8">
+    <section class="py-12 md:py-20 px-4 md:px-8" id="praxis-phase2">
       <div class="max-w-container mx-auto flex flex-col md:flex-row-reverse items-center gap-8 md:gap-12">
         <div class="flex-1">
           <div class="flex items-center gap-4 mb-4">
@@ -263,7 +345,7 @@
     </section>
 
     <!-- Phase 1 -->
-    <section class="py-12 md:py-20 px-4 md:px-8 bg-neutral-900">
+    <section class="py-12 md:py-20 px-4 md:px-8 bg-neutral-900" id="praxis-phase1">
       <div class="max-w-container mx-auto flex flex-col md:flex-row items-center gap-8 md:gap-12">
         <div class="flex-1">
           <div class="flex items-center gap-4 mb-4">
@@ -301,7 +383,7 @@
             <i class="fa-solid fa-language text-4xl text-accent"></i>
           </div>
           <h5 class="font-bold text-xl mb-4 text-center" data-i18n="qual.languages"></h5>
-          <ul class="space-y-2 text-neutral-300 list-disc list-inside">
+          <ul class="space-y-2 text-neutral-300 list-disc pl-5">
             <li><span data-i18n="qual.german"></span></li>
             <li><span data-i18n="qual.english"></span></li>
             <li><span data-i18n="qual.spanish"></span></li>
@@ -313,7 +395,7 @@
             <i class="fa-solid fa-code text-4xl text-accent"></i>
           </div>
           <h5 class="font-bold text-xl mb-4 text-center" data-i18n="qual.programming"></h5>
-          <ul class="space-y-2 text-neutral-300 list-disc list-inside">
+          <ul class="space-y-2 text-neutral-300 list-disc pl-5">
             <li>Java</li>
             <li>Python</li>
             <li>TypeScript / JavaScript</li>
@@ -327,7 +409,7 @@
             <i class="fa-solid fa-layer-group text-4xl text-accent"></i>
           </div>
           <h5 class="font-bold text-xl mb-4 text-center" data-i18n="qual.technologies"></h5>
-          <ul class="space-y-2 text-neutral-300 list-disc list-inside">
+          <ul class="space-y-2 text-neutral-300 list-disc pl-5">
             <li>Next.js / React</li>
             <li>PostgreSQL</li>
             <li>Git</li>
@@ -340,7 +422,7 @@
             <i class="fa-solid fa-building text-4xl text-accent"></i>
           </div>
           <h5 class="font-bold text-xl mb-4 text-center" data-i18n="qual.sap"></h5>
-          <ul class="space-y-2 text-neutral-300 list-disc list-inside">
+          <ul class="space-y-2 text-neutral-300 list-disc pl-5">
             <li>SAP Analytics Cloud</li>
             <li>SAP Datasphere</li>
             <li>SAP CAP</li>
@@ -359,7 +441,7 @@
             <i class="fa-solid fa-laptop text-4xl text-accent"></i>
           </div>
           <h5 class="font-bold text-xl mb-4 text-center" data-i18n="qual.computer"></h5>
-          <ul class="space-y-2 text-neutral-300 list-disc list-inside">
+          <ul class="space-y-2 text-neutral-300 list-disc pl-5">
             <li>Microsoft 365</li>
             <li>VS Code</li>
             <li>GitHub</li>
@@ -372,7 +454,7 @@
             <i class="fa-solid fa-heart text-4xl text-accent"></i>
           </div>
           <h5 class="font-bold text-xl mb-4 text-center" data-i18n="qual.hobbies"></h5>
-          <ul class="space-y-2 text-neutral-300 list-disc list-inside">
+          <ul class="space-y-2 text-neutral-300 list-disc pl-5">
             <li><span data-i18n="qual.tabletennis"></span></li>
           </ul>
         </div>
