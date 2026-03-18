@@ -8,7 +8,7 @@ const translations = {
 
     // Home Section
     'home.welcome': 'Willkommen',
-    'home.intro': 'Ich bin derzeit dualer Student an der DHBW Mannheim in Kooperation mit SAP. Mein duales Studium der Wirtschaftsinformatik mit Schwerpunkt Software Engineering werde ich im September 2026 an der DHBW Mannheim in Kooperation mit SAP abschließen. Mein Schwerpunkt liegt dabei auf der Entwicklung  innovativer Lösungen unter Einsatz neuester Technologien.',
+    'home.intro': 'Dualer Student der Wirtschaftsinformatik mit Schwerpunkt Software Engineering und Abschluss im September 2026. Ich suche eine Vollzeit-Stelle in der Softwareentwicklung und bringe durch fünf Praxisphasen umfassende Erfahrung in Full-Stack-Entwicklung, Cloud-Technologien und SAP-Ökosystemen mit – von Produktentwicklung über Datenplattformen bis hin zu internationalen Projekten.',
     'home.contact': 'Kontakt',
 
     // Education
@@ -77,12 +77,12 @@ const translations = {
     // Navigation
     'nav.home': 'Home',
     'nav.education': 'Education',
-    'nav.praxis': 'Practical Phases',
+    'nav.praxis': 'Rotations',
     'nav.projects': 'My Projects',
 
     // Home Section
     'home.welcome': 'Welcome',
-    'home.intro': 'I am currently a dual student at DHBW Mannheim in cooperation with SAP. I will complete my dual studies in Business Informatics with a focus on Software Engineering in September 2026 at DHBW Mannheim in cooperation with SAP. My focus is on developing innovative solutions using the latest technologies.',
+    'home.intro': 'Dual Studies student in Business Informatics (Software Engineering) graduating September 2026, seeking a full-time software development position. Experienced in full-stack development, cloud technologies, and SAP ecosystems through five rotations across product development, data platforms, and international projects.',
     'home.contact': 'Contact',
 
     // Education
@@ -94,26 +94,26 @@ const translations = {
     'edu.today': '2023 – today',
 
     // Practical Phases
-    'praxis.title': 'Practical Phases',
+    'praxis.title': 'Rotations',
     'praxis.phase1.date': 'Jan 2024 – May 2024',
     'praxis.phase1.title': 'Product Lifecycle Management',
-    'praxis.phase1.desc': 'In my first practical phase, I developed a recursive diffing algorithm for payloads exchanged between SAP and Siemens.',
+    'praxis.phase1.desc': 'In my first rotation, I developed a recursive diffing algorithm for payloads exchanged between SAP and Siemens.',
     'praxis.phase1.details': 'The algorithm enables version comparison similar to GitHub diff functionality. This allows changes between different versions of data packages to be identified quickly and clearly.',
     'praxis.phase2.date': 'Jul 2024 – Nov 2024',
     'praxis.phase2.title': 'SAP Datasphere Data Marketplace',
-    'praxis.phase2.desc': 'In my second practical phase, I extended an existing API for data product installation to support CLI functionality.',
+    'praxis.phase2.desc': 'In my second rotation, I extended an existing API for data product installation to support CLI functionality.',
     'praxis.phase2.details': 'Through this extension, data products can now be seamlessly installed via the command line. This improves the developer experience and enables automation of installation processes in CI/CD pipelines.',
     'praxis.phase3.date': 'Feb 2025 – May 2025',
     'praxis.phase3.title': 'Platform CoE – SAP Analytics Cloud',
-    'praxis.phase3.desc': 'In my third practical phase, I developed an optimized data model for SAP Analytics Cloud Just Ask to analyze League of Legends Esports data.',
+    'praxis.phase3.desc': 'In my third rotation, I developed an optimized data model for SAP Analytics Cloud Just Ask to analyze League of Legends Esports data.',
     'praxis.phase3.details': 'The project enabled Team Liquid coaches to access complex game statistics via natural language queries. I applied the CRISP-DM methodology for data transformation and model optimization.',
     'praxis.phase4.date': 'Aug 2025 – Nov 2025 · Singapore',
     'praxis.phase4.title': 'Construction & Real Estate Industry GTM',
-    'praxis.phase4.desc': 'I completed my fourth practical phase in Singapore, where I developed an SAP Analytics Cloud Planning Dashboard for project cost forecasting.',
+    'praxis.phase4.desc': 'I completed my fourth rotation in Singapore, where I developed an SAP Analytics Cloud Planning Dashboard for project cost forecasting.',
     'praxis.phase4.details': 'I worked with SAP Business Data Cloud and data products to enable real-time insights into construction project costs. The international experience broadened my horizon for global business processes.',
     'praxis.phase5.date': 'Feb 2026 – present',
     'praxis.phase5.title': 'CAP Tools & MTX',
-    'praxis.phase5.desc': 'In my current practical phase, I am developing a VS Code extension for domain-based navigation in SAP CAP projects.',
+    'praxis.phase5.desc': 'In my current rotation, I am developing a VS Code extension for domain-based navigation in SAP CAP projects.',
     'praxis.phase5.details': 'The extension implements an aggregated service overview to reduce navigation complexity in large CAP projects. Developers can navigate faster between related artifacts such as services, entities, and handlers.',
 
     // Qualifications
