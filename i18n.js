@@ -8,7 +8,7 @@ const translations = {
 
     // Home Section
     'home.welcome': 'Willkommen',
-    'home.intro': 'Ich bin derzeit dualer Student an der DHBW Mannheim in Kooperation mit SAP. Ich bin sehr daran interessiert, Lösungen mit den neuesten Technologien zu entwickeln.',
+    'home.intro': 'Ich bin derzeit dualer Student an der DHBW Mannheim in Kooperation mit SAP. Mein duales Studium der Wirtschaftsinformatik mit Schwerpunkt Software Engineering werde ich im September 2026 an der DHBW Mannheim in Kooperation mit SAP abschließen. Mein Schwerpunkt liegt dabei auf der Entwicklung  innovativer Lösungen unter Einsatz neuester Technologien.',
     'home.contact': 'Kontakt',
 
     // Education
@@ -28,7 +28,7 @@ const translations = {
     'praxis.phase2.date': 'Jul 2024 – Nov 2024',
     'praxis.phase2.title': 'SAP Datasphere Data Marketplace',
     'praxis.phase2.desc': 'In meiner zweiten Praxisphase habe ich eine bestehende API für die Installation von Datenprodukten erweitert, um CLI-Funktionalität zu unterstützen.',
-    'praxis.phase2.details': 'Durch diese Erweiterung können Datenprodukte nun nahtlos über die Kommandozeile installiert werden. Dies verbessert die Developer Experience und ermöglicht die Automatisierung von Installationsprozessen in CI/CD-Pipelines.',
+    'praxis.phase2.details': 'Durch diese Erweiterung können Datenprodukte nun über die Kommandozeile installiert werden. Dies verbessert die Developer Experience und ermöglicht die Automatisierung von Installationsprozessen in CI/CD-Pipelines.',
     'praxis.phase3.date': 'Feb 2025 – Mai 2025',
     'praxis.phase3.title': 'Platform CoE – SAP Analytics Cloud',
     'praxis.phase3.desc': 'In meiner dritten Praxisphase habe ich ein optimiertes Datenmodell für SAP Analytics Cloud Just Ask entwickelt, um League of Legends Esports-Daten zu analysieren.',
@@ -57,10 +57,11 @@ const translations = {
 
     // Projects
     'proj.nextickets.desc': 'Ein Ticketsystem für kleine Vereine und Veranstalter, das den Ticketverkauf und die Verwaltung von Events vereinfacht.',
-    'proj.nextickets.details': 'Die Plattform ermöglicht es Veranstaltern, Events zu erstellen, Tickets zu verkaufen und Teilnehmer zu verwalten. Entwickelt mit modernen Webtechnologien für eine optimale Benutzererfahrung.',
+    'proj.nextickets.details': 'Entstanden aus der Praxis: Vor drei Jahren habe ich für meinen Verein den Ticketverkauf für Fastnachtssitzungen mit insgesamt 1.600 Tickets pro Jahr organisiert. Diese Erfahrung war der Anstoß, gemeinsam mit Freunden eine professionelle Lösung zu entwickeln, die kleinen Vereinen den Ticketverkauf und die Eventverwaltung erleichtert.',
     'proj.sudoku.title': 'Sudoku Generator',
     'proj.sudoku.desc': 'Ich habe ein Java-Programm entwickelt, das eine Zahlenkombination als Grundlage für eine gültige Lösung innerhalb eines Sudoku-Gitters erstellt!',
     'proj.sudoku.details': 'Zunächst platziert das Programm die Zahlen 1-9 in jedem 3x3-Quadrat. Falls es Duplikate einer Zahl innerhalb einer Zeile oder Spalte gibt, werden Zahlen innerhalb des 3x3-Quadrats getauscht. Dieser Vorgang wird wiederholt, bis keine Duplikate mehr existieren. Die Benutzeroberfläche wurde mit Java Swing entwickelt.',
+    'proj.discord.title': 'Discord Bot',
     'proj.discord.desc': 'Ich habe einen Discord-Bot programmiert, der dir antwortet, wenn du ihm einen bestimmten Befehl schreibst!',
     'proj.discord.details': 'Das Programm verwendet die discord.py API, die für Discord-Bots wie diesen entwickelt wurde. Der Bot kann dir coole Informationen von anderen APIs liefern. Ich habe ein Level-System programmiert, bei dem du dein eigenes Level sehen kannst, das sich erhöht, je länger du online bist.',
     'proj.snake.title': 'Snake Spiel',
@@ -81,7 +82,7 @@ const translations = {
 
     // Home Section
     'home.welcome': 'Welcome',
-    'home.intro': 'I am currently a dual student at DHBW Mannheim in cooperation with SAP. I am very interested in developing solutions using latest technologies.',
+    'home.intro': 'I am currently a dual student at DHBW Mannheim in cooperation with SAP. I will complete my dual studies in Business Informatics with a focus on Software Engineering in September 2026 at DHBW Mannheim in cooperation with SAP. My focus is on developing innovative solutions using the latest technologies.',
     'home.contact': 'Contact',
 
     // Education
@@ -130,10 +131,11 @@ const translations = {
 
     // Projects
     'proj.nextickets.desc': 'A ticket system for small clubs and event organizers that simplifies ticket sales and event management.',
-    'proj.nextickets.details': 'The platform enables organizers to create events, sell tickets, and manage attendees. Developed with modern web technologies for an optimal user experience.',
+    'proj.nextickets.details': 'Born from practice: Three years ago, I organized ticket sales for carnival sessions with a total of 1,600 tickets per year for my club. This experience was the catalyst to develop a professional solution together with friends that makes ticket sales and event management easier for small clubs.',
     'proj.sudoku.title': 'Sudoku Generator',
     'proj.sudoku.desc': 'I developed a Java program that creates a number combination as the basis for a valid solution within a Sudoku grid!',
     'proj.sudoku.details': 'First, the program places the numbers 1-9 in each 3x3 square. If there are duplicates of a number within a row or column, numbers are swapped within the 3x3 square. This process is repeated until no duplicates exist. The user interface was developed with Java Swing.',
+    'proj.discord.title': 'Discord Bot',
     'proj.discord.desc': 'I programmed a Discord bot that responds when you write a specific command to it!',
     'proj.discord.details': 'The program uses the discord.py API, which was developed for Discord bots like this one. The bot can provide you with cool information from other APIs. I programmed a level system where you can see your own level, which increases the longer you are online.',
     'proj.snake.title': 'Snake Game',
