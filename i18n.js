@@ -5,6 +5,7 @@ const translations = {
     'nav.education': 'Ausbildung',
     'nav.praxis': 'Praxisphasen',
     'nav.projects': 'Meine Projekte',
+    'nav.qualifications': 'Qualifikationen',
 
     // Home Section
     'home.welcome': 'Willkommen',
@@ -79,6 +80,7 @@ const translations = {
     'nav.education': 'Education',
     'nav.praxis': 'Rotations',
     'nav.projects': 'My Projects',
+    'nav.qualifications': 'Qualifications',
 
     // Home Section
     'home.welcome': 'Welcome',
