@@ -9,7 +9,7 @@ const translations = {
 
     // Home Section
     'home.welcome': 'Willkommen',
-    'home.intro': 'Dualer Student der Wirtschaftsinformatik mit Schwerpunkt Software Engineering und Abschluss im September 2026. Ich suche eine Vollzeit-Stelle in der Softwareentwicklung und bringe durch fünf Praxisphasen umfassende Erfahrung in Full-Stack-Entwicklung, Cloud-Technologien und SAP-Ökosystemen mit – von Produktentwicklung über Datenplattformen bis hin zu internationalen Projekten.',
+    'home.intro': 'Dualer Student der Wirtschaftsinformatik mit Schwerpunkt Software Engineering und Abschluss im September 2026. Ich suche eine Vollzeit-Stelle in der Softwareentwicklung und bringe durch fünf Praxisphasen Erfahrung in Full-Stack-Entwicklung, Cloud-Technologien und SAP-Ökosystemen mit.',
     'home.contact': 'Kontakt',
 
     // Education
@@ -91,7 +91,7 @@ const translations = {
 
     // Home Section
     'home.welcome': 'Welcome',
-    'home.intro': 'Dual Studies student in Business Informatics (Software Engineering) graduating September 2026, seeking a full-time software development position. Experienced in full-stack development, cloud technologies, and SAP ecosystems through five rotations across product development, data platforms, and international projects.',
+    'home.intro': 'Dual Studies student in Business Informatics (Software Engineering) graduating September 2026, seeking a full-time software development position. Experienced in full-stack development, cloud technologies, and SAP ecosystems through five rotations across product development and international projects.',
     'home.contact': 'Contact',
 
     // Education

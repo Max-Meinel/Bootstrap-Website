@@ -15,7 +15,7 @@
 )
 
 == Objective
-Dual Studies student in Business Informatics (Software Engineering) graduating September 2026, seeking a full-time software development position. Experienced in full-stack development, cloud technologies, and SAP ecosystems through five rotations across product development, data platforms, and international projects.
+Dual Studies student in Business Informatics (Software Engineering) graduating September 2026, seeking a full-time software development position. Experienced in full-stack development, cloud technologies, and SAP ecosystems through five rotations across product development and international projects.
 
 
 == Experience
@@ -125,10 +125,10 @@ Dual Studies student in Business Informatics (Software Engineering) graduating S
 
 == Skills
 #multi-line-list(
-  single-line-entry("Programming:", [Java, Python, TypeScript/JavaScript, HTML/CSS, ABAP], []),
-  single-line-entry("Technologies:", [Next.js, React, PostgreSQL, Git, Tailwind CSS], []),
+  single-line-entry("Programming:", [Java, Python, JavaScript/TypeScript, HTML/CSS, ABAP], []),
+  single-line-entry("Technologies:", [Next.js, React, PostgreSQL, Git], []),
   single-line-entry("SAP:", [SAP Analytics Cloud, SAP Datasphere, SAP CAP], []),
-  single-line-entry("IT Skills:", [Microsoft 365, Photoshop/GIMP, DaVinci Resolve, Windows/Linux/macOS], []),
+  single-line-entry("IT Skills:", [Microsoft 365, Photoshop, GitHub, Windows/Linux/macOS], []),
 )
 
 == Additional Information
