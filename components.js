@@ -13,6 +13,7 @@ const navbarHTML = `
         <div class="hidden md:flex gap-10 items-center">
             <a href="#education" class="text-neutral-400 hover:text-accent transition text-lg" data-i18n="nav.education">Ausbildung</a>
             <a href="#praxis" class="text-neutral-400 hover:text-accent transition text-lg" data-i18n="nav.praxis">Praxisphasen</a>
+            <a href="#qualifications" class="text-neutral-400 hover:text-accent transition text-lg" data-i18n="nav.qualifications">Qualifikationen</a>
             <a href="#projects" class="text-neutral-400 hover:text-accent transition text-lg" data-i18n="nav.projects">Meine Projekte</a>
 
             <!-- Language Dropdown -->
@@ -41,6 +42,7 @@ const navbarHTML = `
         <div class="flex flex-col px-4 py-4 gap-4">
             <a href="#education" class="text-neutral-400 hover:text-accent transition text-lg py-2 mobile-link" data-i18n="nav.education">Ausbildung</a>
             <a href="#praxis" class="text-neutral-400 hover:text-accent transition text-lg py-2 mobile-link" data-i18n="nav.praxis">Praxisphasen</a>
+            <a href="#qualifications" class="text-neutral-400 hover:text-accent transition text-lg py-2 mobile-link" data-i18n="nav.qualifications">Qualifikationen</a>
             <a href="#projects" class="text-neutral-400 hover:text-accent transition text-lg py-2 mobile-link" data-i18n="nav.projects">Meine Projekte</a>
 
             <!-- Mobile Language Dropdown -->
@@ -77,6 +79,7 @@ const footerHTML = `
                 <ul class="space-y-2">
                     <li><a href="#education" class="text-neutral-400 hover:text-accent transition text-sm" data-i18n="nav.education">Ausbildung</a></li>
                     <li><a href="#praxis" class="text-neutral-400 hover:text-accent transition text-sm" data-i18n="nav.praxis">Praxisphasen</a></li>
+                    <li><a href="#qualifications" class="text-neutral-400 hover:text-accent transition text-sm" data-i18n="nav.qualifications">Qualifikationen</a></li>
                     <li><a href="#projects" class="text-neutral-400 hover:text-accent transition text-sm" data-i18n="nav.projects">Meine Projekte</a></li>
                 </ul>
             </div>
