@@ -22,7 +22,7 @@ Viele Grüße,
 Max Meinel
 
 Portfolio: max-meinel.github.io/Portfolio
-
 GitHub: github.com/max-meinel
+LinkedIn: linkedin.com/in/max-meinel
 
 *Anhang: Lebenslauf*
