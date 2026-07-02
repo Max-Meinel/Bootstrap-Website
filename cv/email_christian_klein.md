@@ -2,7 +2,7 @@
 
 **Von:** max.meinel@sap.com
 **An:** christian.klein@sap.com
-**Betreff:** Übernahme nach dualem Studium – Anschluss an Strategy Day
+**Betreff:** Übernahme nach dualem Studium – Anschluss an Next Gen Strategy Day
 
 ---
 
