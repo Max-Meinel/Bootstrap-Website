@@ -15,7 +15,7 @@
 )
 
 == Objective
-Dual Studies student in Business Informatics (Software Engineering) graduating September 2026, seeking a full-time software development position. Experienced in full-stack development, cloud technologies, and SAP ecosystems through five rotations across product development and international projects.
+Dual Studies student in Business Informatics (Software Engineering) graduating September 2026, seeking a full-time software development position. Five SAP rotations across full-stack, cloud, and analytics.
 
 
 == Experience
@@ -23,13 +23,12 @@ Dual Studies student in Business Informatics (Software Engineering) graduating S
   (
     entry-header-args:(
       top-left: [#link("https://www.sap.com")[SAP SE] - 5th Rotation],
-      top-right: [Feb 2026 - Present],
+      top-right: [Feb 2026 - Jun 2026],
       bottom-left: [CAP Tools & MTX],
       bottom-right: [Walldorf, Germany],
     ),
     list-items: (
-      [Developing VS Code extension for domain-based navigation in SAP CAP projects],
-      [Implementing aggregated service overview to reduce navigation complexity],
+      [Built VS Code extension for domain-based navigation in SAP CAP projects],
       [Technologies: TypeScript, VS Code Extension API, Language Server Protocol],
     )
   ),
@@ -38,11 +37,10 @@ Dual Studies student in Business Informatics (Software Engineering) graduating S
       top-left: [#link("https://nex-tickets.de")[NEXtickets]],
       top-right: [Oct 2025 - Present],
       bottom-left: [Co-Founder & Developer],
-      bottom-right: [Münster (Hessen), Germany],
+      bottom-right: [],
     ),
     list-items: (
-      [Developing a ticket system for small clubs and event organizers],
-      [Developing with Next.js, TypeScript and PostgreSQL],
+      [Developing a ticket system for small clubs and event organizers with Next.js, TypeScript and PostgreSQL],
       [Enabling event creation, ticket sales and ticket validation],
     )
   ),
@@ -54,8 +52,8 @@ Dual Studies student in Business Informatics (Software Engineering) graduating S
       bottom-right: [Singapore],
     ),
     list-items: (
-      [Building a SAP Analytics Cloud planning dashboard for project cost forecasting],
-      [Working with SAP Business Data Cloud and data products],
+      [Built a SAP Analytics Cloud planning dashboard for project cost forecasting],
+      [Worked with SAP Business Data Cloud and data products],
     )
   ),
   (
@@ -68,7 +66,6 @@ Dual Studies student in Business Informatics (Software Engineering) graduating S
     list-items: (
       [Developed optimized data model for SAP Analytics Cloud Just Ask to analyze League of Legends Esports data],
       [Enabled coaches of Team Liquid to access game statistics via natural language queries],
-      [Applied CRISP-DM methodology for data transformation and model optimization],
     )
   ),
   (
@@ -107,7 +104,6 @@ Dual Studies student in Business Informatics (Software Engineering) graduating S
       bottom-right: [Mannheim, Germany],
     ),
     list-items: (
-      [Dual study program combining theory and practice],
     ),
   ),
   (
@@ -125,10 +121,26 @@ Dual Studies student in Business Informatics (Software Engineering) graduating S
 
 == Skills
 #multi-line-list(
-  single-line-entry("Programming:", [Java, Python, JavaScript/TypeScript, HTML/CSS, ABAP], []),
-  single-line-entry("Technologies:", [Next.js, React, PostgreSQL, Git], []),
+  single-line-entry("Programming:", [TypeScript/JavaScript, Java, Python, HTML/CSS, ABAP], []),
+  single-line-entry("Technologies:", [Next.js, React, PostgreSQL, Git, Docker, CI/CD], []),
+  single-line-entry("AI:", [Agentic Coding, MCP, Claude Code, Prompt Engineering, Ollama, LLM-as-a-Judge], []),
   single-line-entry("SAP:", [SAP Analytics Cloud, SAP Datasphere, SAP CAP], []),
-  single-line-entry("IT Skills:", [Microsoft 365, Photoshop, GitHub, Windows/Linux/macOS], []),
+)
+
+== Projects
+#r2c2-entry-list(
+  (
+    entry-header-args:(
+      top-left: [AI Chat Moderation Model – University Project],
+      top-right: [2026],
+      bottom-left: [],
+      bottom-right: [],
+    ),
+    list-items: (
+      [Trained a multi-task classifier (XLM-RoBERTa) for Twitch chat moderation predicting severity and category],
+      [Cascade architecture: ML model as pre-filter, LLM-as-a-Judge with custom instructions for final verdict],
+    )
+  ),
 )
 
 == Additional Information
