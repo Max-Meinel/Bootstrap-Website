@@ -120,7 +120,7 @@ Dual Studies student in Business Informatics (Software Engineering) graduating S
 )
 
 == Skills
-#multi-line-list(
+#multi-line-text(
   single-line-entry("Programming:", [TypeScript/JavaScript, Java, Python, HTML/CSS, ABAP], []),
   single-line-entry("Technologies:", [Next.js, React, PostgreSQL, Git, Docker, CI/CD], []),
   single-line-entry("AI:", [Agentic Coding, MCP, Claude Code, Prompt Engineering, Ollama, LLM-as-a-Judge], []),
