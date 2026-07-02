@@ -131,9 +131,9 @@ Dual Studies student in Business Informatics (Software Engineering) graduating S
 #r2c2-entry-list(
   (
     entry-header-args:(
-      top-left: [AI Chat Moderation Model – University Project],
+      top-left: [AI Chat Moderation Model],
       top-right: [2026],
-      bottom-left: [],
+      bottom-left: [University Project],
       bottom-right: [],
     ),
     list-items: (
