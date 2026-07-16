@@ -1,0 +1,65 @@
+- generic [active] [ref=f17e1]:
+  - heading "Junior Software Entwickler (w/m/d)" [level=1] [ref=f17e2]
+  - generic [ref=f17e3]:
+    - region "Cookie Einstellungen" [ref=f17e4]:
+      - generic [ref=f17e5]:
+        - paragraph [ref=f17e6]: Wir verwenden Cookies, um unsere Webseite nutzerfreundlich zu gestalten und fortlaufend zu verbessern. Neben technisch notwendigen Diensten (Art. 6 Abs. 1 lit. f EU-DS-GVO, §25 Abs. 2 TTDSG) möchten wir dazu Dienste von Drittanbietern nutzen, die uns helfen, unser Werbeangebot zu verbessern und die statistische Nutzung unserer Internetseite auszuwerten. Um diese Dienste verwenden zu dürfen, benötigen wir Ihre Einwilligung (Art. 6 Abs. 1 lit. a EU-DS-GVO, §25 Abs. 1 TTDSG).
+        - paragraph [ref=f17e7]: Diese können Sie einfach durch einen Klick auf das Feld „Alle akzeptieren“ erteilen. Sollte Sie damit nicht eiverstanden sein, können Sie die Verwendung technisch nicht notwendiger Dienste durch einen Klick auf „Alle ablehnen“ verhindern. Selbstverständlich können Sie einzelne Dienste auch individuell konfigurieren.
+        - button "Privatsphäre-Einstellungen" [ref=f17e8] [cursor=pointer]
+        - generic [ref=f17e9]:
+          - button "Alle ablehnen" [ref=f17e10] [cursor=pointer]
+          - button "Alle akzeptieren" [ref=f17e11] [cursor=pointer]
+    - banner [ref=f17e12]:
+      - generic:
+        - link "Zum Hauptinhalt":
+          - /url: "#content"
+      - navigation "Header" [ref=f17e13]:
+        - generic [ref=f17e15]:
+          - link [ref=f17e18] [cursor=pointer]:
+            - /url: /
+            - img "Bechtle AG" [ref=f17e19]
+          - list [ref=f17e24]:
+            - listitem [ref=f17e25]:
+              - button "SPRACHE" [ref=f17e26] [cursor=pointer]
+            - listitem [ref=f17e28]:
+              - link "ACCOUNT" [ref=f17e30] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f17e31]:
+              - link "Mitarbeiter-Anmeldung" [ref=f17e33] [cursor=pointer]:
+                - /url: javascript:;
+    - main [ref=f17e36]:
+      - generic [ref=f17e41]:
+        - region "Stellenbeschreibung"
+    - contentinfo [ref=f17e44]:
+      - generic [ref=f17e47]:
+        - list [ref=f17e48]:
+          - listitem [ref=f17e49]:
+            - link "Über Bechtle" [ref=f17e50] [cursor=pointer]:
+              - /url: https://www.bechtle.com/ueber-bechtle
+          - listitem [ref=f17e51]:
+            - link "Impressum" [ref=f17e52] [cursor=pointer]:
+              - /url: https://www.bechtle.com/impressum
+          - listitem [ref=f17e53]:
+            - link "Datenschutzerklärung" [ref=f17e54] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/lp/Cookies_de/94c4c2dc7f51137f/?locale=de_DE
+          - listitem [ref=f17e55]:
+            - button "Cookie Consent Manager" [ref=f17e56] [cursor=pointer]
+        - list [ref=f17e58]:
+          - listitem [ref=f17e59]:
+            - link "Folgen Sie uns auf Instagram" [ref=f17e60] [cursor=pointer]:
+              - /url: https://www.instagram.com/bechtlekarriere/
+              - generic [ref=f17e61]: Wird auf einer neuen Registerkarte geöffnet.
+          - listitem [ref=f17e65]:
+            - link "Folgen Sie uns auf LinkedIn" [ref=f17e66] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/bechtle
+              - generic [ref=f17e67]: Wird auf einer neuen Registerkarte geöffnet.
+          - listitem [ref=f17e70]:
+            - link "Finden Sie uns auf Xing" [ref=f17e71] [cursor=pointer]:
+              - /url: https://www.xing.com/companies/bechtleag
+              - generic [ref=f17e72]: Wird auf einer neuen Registerkarte geöffnet.
+          - listitem [ref=f17e75]:
+            - link "Besuchen Sie unseren YouTube-Kanal" [ref=f17e76] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/BechtleAG
+              - generic [ref=f17e77]: Wird auf einer neuen Registerkarte geöffnet.
+      - paragraph [ref=f17e82]: © 2026 - Bechtle AG
+  - generic: Ja Nein   Ja Nein Ja Nein   Ja Nein Ja Nein   Ja Nein Ja Nein

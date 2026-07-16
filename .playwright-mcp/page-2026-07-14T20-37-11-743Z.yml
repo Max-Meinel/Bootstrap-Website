@@ -1,0 +1,334 @@
+- generic [active] [ref=f15e1]:
+  - generic [ref=f15e3]:
+    - generic [ref=f15e4]:
+      - 'heading "Bevor es weitergeht: Zur Verarbeitung Ihrer Daten" [level=2] [ref=f15e5]'
+      - paragraph [ref=f15e8]:
+        - link "Wir" [ref=f15e9] [cursor=pointer]:
+          - /url: https://schwarz-digits.de/datenschutz?hidebanner=true
+        - text: verarbeiten auf unserer Webseite Ihre Daten mittels verschiedener Techniken (u.a. Cookies), sofern dies technisch notwendig ist, um die Webseite und ihre Funktionen darzustellen. Darüber hinaus verarbeiten wir Ihre Trackingdaten für komfortable Webseiteneinstellungen, zur Erstellung von Statistiken oder für personalisierte (Werbe-) Maßnahmen nur, sofern Sie uns über „Zustimmen“ Ihre Einwilligung hierzu erteilen. Dies schließt auch Datentransfers in Länder außerhalb der EU ohne angemessenes Schutzniveau ein. Unter „Ablehnen“ können Sie nur den Einsatz notwendiger Techniken zulassen. Unter „Anpassen“ können Sie einzelne Verwendungszwecke zulassen. Weitere Informationen, auch zu Ihrem jederzeitigen Widerrufsrecht, finden Sie in unseren
+        - link "Datenschutzhinweisen" [ref=f15e10] [cursor=pointer]:
+          - /url: https://schwarz-digits.de/datenschutz?hidebanner=true
+        - text: . Unser Impressum finden Sie
+        - link "hier" [ref=f15e11] [cursor=pointer]:
+          - /url: https://schwarz-digits.de/impressum?hidebanner=true
+        - text: .
+    - generic [ref=f15e12]:
+      - button "Anpassen" [ref=f15e13] [cursor=pointer]
+      - button "Ablehnen" [ref=f15e14] [cursor=pointer]
+      - button "Akzeptieren" [ref=f15e15] [cursor=pointer]
+  - banner [ref=f15e18]:
+    - generic [ref=f15e20]:
+      - navigation "Brand Navigation" [ref=f15e21]:
+        - list [ref=f15e22]:
+          - listitem [ref=f15e23]:
+            - link "Schwarz Gruppe" [ref=f15e24] [cursor=pointer]:
+              - /url: https://gruppe.schwarz
+      - link "Bookmark" [ref=f15e27] [cursor=pointer]:
+        - /url: "#"
+        - figure [ref=f15e28]
+      - button "Chose your language" [ref=f15e31] [cursor=pointer]:
+        - generic [ref=f15e32]: DE
+    - generic [ref=f15e35]:
+      - link "DigitsLogoNeu" [ref=f15e37] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f15e43]:
+        - navigation "Hamburger Navigation" [ref=f15e44]:
+          - list [ref=f15e45]:
+            - listitem [ref=f15e46]:
+              - link "Digitale Souveränität" [ref=f15e47] [cursor=pointer]:
+                - /url: /digitale-souveraenitaet
+            - listitem [ref=f15e49]:
+              - button "Produktportfolio" [ref=f15e50] [cursor=pointer]
+            - listitem [ref=f15e52]:
+              - link "Branchen" [ref=f15e53] [cursor=pointer]:
+                - /url: /branchen
+            - listitem [ref=f15e55]:
+              - link "Referenzen" [ref=f15e56] [cursor=pointer]:
+                - /url: /referenzen
+            - listitem [ref=f15e58]:
+              - link "Über uns" [ref=f15e59] [cursor=pointer]:
+                - /url: /ueber-uns-neu
+            - listitem [ref=f15e61]:
+              - button "Publikationen" [ref=f15e62] [cursor=pointer]
+            - listitem [ref=f15e64]:
+              - link "Presse" [ref=f15e65] [cursor=pointer]:
+                - /url: /presse
+            - listitem [ref=f15e67]:
+              - button "Karriere" [ref=f15e68] [cursor=pointer]
+        - link "Newsletter" [ref=f15e71] [cursor=pointer]:
+          - /url: https://schwarz-digits.de/#newsletter
+  - generic [ref=f15e75]:
+    - generic [ref=f15e77]:
+      - generic [ref=f15e78]:
+        - heading [level=1] [ref=f15e79]:
+          - text: Backend Developer - Cloud Storage - STACKIT
+          - superscript [ref=f15e80]: (m/w/d)
+        - generic [ref=f15e81]:
+          - button "Jetzt bewerben" [ref=f15e83] [cursor=pointer]
+          - generic [ref=f15e85]:
+            - button "Job merken" [ref=f15e86] [cursor=pointer]:
+              - figure [ref=f15e87]
+            - button "Teilen" [ref=f15e89] [cursor=pointer]:
+              - figure [ref=f15e90]
+            - button "Drucken" [ref=f15e91] [cursor=pointer]:
+              - figure [ref=f15e92]
+      - img "Junge Frau sitzt am Schreibtisch vor 2 Monitoren" [ref=f15e94]
+    - list [ref=f15e98]:
+      - listitem [ref=f15e99]:
+        - article [ref=f15e100]:
+          - figure [ref=f15e102]
+          - generic [ref=f15e103]:
+            - heading "Standort" [level=2] [ref=f15e104]
+            - generic [ref=f15e105]: Am Campus 174177 Bad Friedrichshall
+      - listitem [ref=f15e107]:
+        - article [ref=f15e108]:
+          - figure [ref=f15e110]
+          - generic [ref=f15e111]:
+            - heading "Abteilung / Bereich" [level=2] [ref=f15e112]
+            - generic [ref=f15e113]: IT - Cloud Services
+      - listitem [ref=f15e115]:
+        - article [ref=f15e116]:
+          - figure [ref=f15e118]
+          - generic [ref=f15e119]:
+            - heading "Einstiegslevel" [level=2] [ref=f15e120]
+            - generic [ref=f15e121]: Berufserfahrene
+      - listitem [ref=f15e123]:
+        - article [ref=f15e124]:
+          - figure [ref=f15e126]
+          - generic [ref=f15e127]:
+            - heading "Arbeitsmodell" [level=2] [ref=f15e128]
+            - generic [ref=f15e129]: Vollzeit
+      - listitem [ref=f15e131]:
+        - article [ref=f15e132]:
+          - figure [ref=f15e134]
+          - generic [ref=f15e135]:
+            - heading "Referenznummer" [level=2] [ref=f15e136]
+            - generic [ref=f15e137]: "704"
+    - paragraph [ref=f15e142]: "Schwarz Digits schafft das technologische Fundament für digitale Entscheidungsfreiheit in Europa. Als IT- und Digitalsparte der Schwarz Gruppe entwickeln und verantworten wir einerseits die IT-Infrastrukturen für die Handelssparten Lidl und Kaufland sowie die Schwarz Produktion und PreZero. Gleichzeitig agieren wir als unabhängiger Anbieter am externen Markt, um Unternehmen in ganz Europa bei ihrer digitalen Transformation zu unterstützen. Unsere Kernleistungen bündeln wir in den Bereichen Cloud, Cyber Security, Data & AI, Communication und Workspace. Trage auch du zur digitalen Entscheidungsfreiheit in Europa bei.Bei uns arbeitest du an der Schnittstelle zwischen Agilität und Sicherheit: Du profitierst von den schnellen Entscheidungswegen, genießt echte Gestaltungsspielräume in deinen Projekten und baust dabei auf das stabile Fundament der Schwarz Gruppe."
+    - generic [ref=f15e143]:
+      - generic [ref=f15e144]:
+        - heading "Deine Aufgaben" [level=3] [ref=f15e145]
+        - list [ref=f15e148]:
+          - listitem [ref=f15e149]: "Produktentwicklung: Du gestaltest aktiv die Zukunft maßgeblicher STACKIT Storage Produkte (z.B. Object Storage) über den gesamten Lebenszyklus. Auf Basis von Golang bieten wir zusammen mit Dir hochautomatisierte Selfservices mit REST APIs in einem Kubernetes-basierten Umfeld an"
+          - listitem [ref=f15e150]: "Softwarequalität: Als Backend Developer bist Du Teil eines Teams mit technischer Exzellenz und dem eigenen Anspruch, jeden Tag ein bisschen besser zu werden und unsere Produkte kontinuierlich zu optimieren"
+          - listitem [ref=f15e151]: "Architektur: Du unterstützt die Entwicklung der Softwarearchitektur, die Du in Zusammenarbeit mit Deinem Team erarbeitest und Realität werden lässt – weil Dir wichtig ist, eine langfristig stabile und zuverlässige Lösung zu bauen, die unsere Kunden gerne einsetzen"
+          - listitem [ref=f15e152]: "Integration: Damit sich neue Produkte und Funktionalitäten nahtlos in die STACKIT Produktfamilie integrieren, koordinierst Du die fachlichen und technischen Abstimmungen mit den zuständigen STACKIT Services z.B. zur Integration ins STACKIT Portal, den STACKIT Terraform-Provider oder das zentral STACKIT IAM"
+          - listitem [ref=f15e153]: "Ende-zu-Ende-Verantwortung: Die Identifikation mit unseren Produkten, die wir unseren Kunden bereitstellen, ist uns sehr wichtig. Daher leben wir aktiv eine Ende-zu-Ende-Verantwortung und bekommen hierbei Unterstützung aus vielen internen STACKIT Service Teams zur Veredelung unserer Services"
+      - generic [ref=f15e154]:
+        - heading "Dein Profil" [level=3] [ref=f15e155]
+        - list [ref=f15e158]:
+          - listitem [ref=f15e159]: Du hast Lust, etwas Großes zu bewegen und dabei die Lösung mit modernsten Cloud-Technologien maßgeblich mitzugestalten
+          - listitem [ref=f15e160]: Du hast ausgeprägte Erfahrung im Entwicklungsumfeld mit Golang und verfügst über Kenntnisse mit Cloud Umgebungen und deren Architekturen
+          - listitem [ref=f15e161]: Du verfügst über Kompetenzen in Schnittstellen- und Kommunikationstechnologien (z.B. REST und gRPC), sowie in Datenbanksystemen (z.B. PostgreSQL) und Kubernetes
+          - listitem [ref=f15e162]: Du bewegst dich sicher in den Methoden der professionellen Softwareentwicklung (von Entwicklungsstandards bis hin zu Build- und Release-Management)
+          - listitem [ref=f15e163]: Du hast Spaß dabei, deine Erfahrungen und Dein Wissen mit Deinem Team und anderen Entwicklern zu teilen
+          - listitem [ref=f15e164]: Du besitzt eine schnelle Auffassungsgabe und fühlst Dich wohl im Umgang mit neuen Technologien in einem schnell wachsenden, dynamischen Umfeld
+          - listitem [ref=f15e165]: Du besitzt eine Affinität zur IT-Infrastruktur und Interesse an Storage Services in hochautomatisierten Umgebungen (z.B. CI/CD, Pipelines)
+          - listitem [ref=f15e166]: Deine ausgezeichnete Kommunikationsfähigkeit in Deutsch und Englisch bildet die Basis für eine erfolgreiche Zusammenarbeit in internationalen, agilen Teams
+    - generic [ref=f15e167]:
+      - heading "Unsere Benefits" [level=2] [ref=f15e168]
+      - generic [ref=f15e169]:
+        - button "<p>Ein unabh&auml;ngiges Europa - digital, f&uuml;hrend. Wenn diese Vision dich genauso begeistert wie uns, lass uns die souver&auml;ne Cloud daf&uuml;r gemeinsam bauen.</p>" [ref=f15e172] [cursor=pointer]:
+          - figure [ref=f15e173]
+        - button "<p>Du wirst Teil der f&uuml;hrenden Handelsgruppe Europas, der Schwarz Gruppe und geh&ouml;rst dabei zur IT- und Digitalsparte, Schwarz Digits. Damit profitierst du von der Dynamik eines jungen Unternehmens und der St&auml;rke der etablierten Unternehmensgruppe, die hinter Lidl und Kaufland steckt.</p>" [ref=f15e176] [cursor=pointer]:
+          - figure [ref=f15e177]
+        - 'button "<p>Deine Ideen h&ouml;ren wir gerne - und das auf allen Ebenen: Duz-Kultur und offene T&uuml;ren gestalten die Arbeit abwechslungsreich und produktiv. Dabei f&ouml;rdern wir den Blick &uuml;ber den Tellerrand und die Zusammenarbeit in agilen Strukturen, um gemeinsam innovative L&ouml;sungen zu entwickeln.<br>&nbsp;</p>" [ref=f15e180] [cursor=pointer]':
+          - figure [ref=f15e181]
+        - button "<p>Du wirst Teil eines internationalen Teams, denn wir kommen aus aller Welt und bilden eine echte Einheit. Wir lieben und leben die Cloud. Jeder bringt seine eigenen St&auml;rken ein, und gemeinsam verbessern wir kontinuierlich unser Portfolio.</p>" [ref=f15e184] [cursor=pointer]:
+          - figure [ref=f15e185]
+        - button "<p>Du wirst attraktiv entlohnt, genie&szlig;t 30 Tage Urlaub, bist zeitlich und &ouml;rtlich flexibel und profitierst von einer Vielzahl an starken Sport-, Mobilit&auml;ts- und Gesundheitsangeboten. Dar&uuml;ber hinaus f&ouml;rdern wir deine pers&ouml;nliche und berufliche Entwicklung mit individuellen Weiterbildungsm&ouml;glichkeiten.</p>" [ref=f15e188] [cursor=pointer]:
+          - figure [ref=f15e189]
+        - button "<p>Unsere Cloud-L&ouml;sungen basieren auf Open-Source-Technologien, wodurch wir offene Standards in der Cloud-Entwicklung f&ouml;rdern. Bei uns kannst du dich auf innovative Denkans&auml;tze, eine unterst&uuml;tzende Community und eine moderne IT-Ausstattung verlassen.</p>" [ref=f15e192] [cursor=pointer]:
+          - figure [ref=f15e193]
+    - generic [ref=f15e194]:
+      - heading "Dein Ansprechpartner" [level=2] [ref=f15e195]
+      - generic [ref=f15e197]:
+        - img "Recruiter Foto Heiko" [ref=f15e199]
+        - heading "Heiko Kiefer" [level=3] [ref=f15e200]
+        - paragraph [ref=f15e201]: Recruiter
+        - list [ref=f15e202]:
+          - listitem [ref=f15e203]:
+            - generic [ref=f15e204]: "E-Mail:"
+            - generic [ref=f15e205]: recruiting@mail.schwarz
+    - generic [ref=f15e206]:
+      - heading "Dein Bewerbungsprozess im Überblick" [level=2] [ref=f15e207]
+      - generic [ref=f15e208]:
+        - article [ref=f15e209]:
+          - generic [ref=f15e210]:
+            - generic [ref=f15e211]: "1"
+            - heading "Bewerbung" [level=3] [ref=f15e212]
+          - generic [ref=f15e213]: Wir lieben die Einfachheit. Bewirb dich schnell und unkompliziert digital, gerne auch ohne Registrierung.
+        - article [ref=f15e214]:
+          - generic [ref=f15e215]:
+            - generic [ref=f15e216]: "2"
+            - heading "Checkup" [level=3] [ref=f15e217]
+          - generic [ref=f15e218]: Gemeinsam mit dem zuständigen Fachbereich werfen wir einen Blick in deine Unterlagen.
+        - article [ref=f15e219]:
+          - generic [ref=f15e220]:
+            - generic [ref=f15e221]: "3"
+            - heading "Kennenlernen" [level=3] [ref=f15e222]
+          - generic [ref=f15e223]: Bei einem ersten Kennenlernen liegt der Fokus sowohl auf deiner Persönlichkeit als auch auf deiner fachlichen Eignung.
+        - article [ref=f15e224]:
+          - generic [ref=f15e225]:
+            - generic [ref=f15e226]: "4"
+            - heading "Vertragsangebot" [level=3] [ref=f15e227]
+          - generic [ref=f15e228]: Haben wir uns gegenseitig überzeugt? Dann ist dein Arbeitsvertrag digital per Mail auf dem Weg zu dir.
+        - article [ref=f15e229]:
+          - generic [ref=f15e230]:
+            - generic [ref=f15e231]: "5"
+            - heading "Willkommen" [level=3] [ref=f15e232]
+          - generic [ref=f15e233]: Dein erster Arbeitstag bei uns steht an und dein individuelles Onboarding im Team startet. Wir freuen uns auf dich!
+    - generic [ref=f15e235]:
+      - heading "Diese Stellen könnten auch interessant sein" [level=2] [ref=f15e237]
+      - generic [ref=f15e238]:
+        - button "vorherige Stellen" [disabled] [ref=f15e239]:
+          - figure [ref=f15e240]
+        - generic [ref=f15e241]:
+          - article [ref=f15e243]:
+            - generic [ref=f15e244]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/site-reliability-engineer-sre-cloud-storage-stackit-m-w-d-GT705
+              - generic [ref=f15e245]:
+                - paragraph [ref=f15e246]:
+                  - generic [ref=f15e247]: Berufserfahrene
+                  - generic [ref=f15e248]: Bad Friedrichshall
+                - heading "Site Reliability Engineer / SRE - Cloud Storage - STACKIT (m/w/d) (m/w/d)" [level=3] [ref=f15e249]:
+                  - generic [ref=f15e250]: Site Reliability Engineer / SRE - Cloud Storage - STACKIT (m/w/d)
+                  - generic [ref=f15e251]: (m/w/d)
+          - article [ref=f15e253]:
+            - generic [ref=f15e254]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/lead-architect-manager-cloud-sovereignty-stackit-m-w-d-GT3671
+              - generic [ref=f15e255]:
+                - paragraph [ref=f15e256]:
+                  - generic [ref=f15e257]: Berufserfahrene
+                  - generic [ref=f15e258]: Bad Friedrichshall
+                - heading "Lead Architect / Manager - Cloud Sovereignty STACKIT (m/w/d) (m/w/d)" [level=3] [ref=f15e259]:
+                  - generic [ref=f15e260]: Lead Architect / Manager - Cloud Sovereignty STACKIT (m/w/d)
+                  - generic [ref=f15e261]: (m/w/d)
+          - article [ref=f15e263]:
+            - generic [ref=f15e264]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/lead-backend-developer-cloud-storage-stackit-m-w-d-GT1304
+              - generic [ref=f15e265]:
+                - paragraph [ref=f15e266]:
+                  - generic [ref=f15e267]: Berufserfahrene
+                  - generic [ref=f15e268]: Bad Friedrichshall
+                - heading "Lead Backend Developer - Cloud Storage - STACKIT (m/w/d) (m/w/d)" [level=3] [ref=f15e269]:
+                  - generic [ref=f15e270]: Lead Backend Developer - Cloud Storage - STACKIT (m/w/d)
+                  - generic [ref=f15e271]: (m/w/d)
+          - article [ref=f15e273]:
+            - generic [ref=f15e274]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/learning-experience-manager-stackit-university-m-w-d-GT3851
+              - generic [ref=f15e275]:
+                - paragraph [ref=f15e276]:
+                  - generic [ref=f15e277]: Berufserfahrene
+                  - generic [ref=f15e278]: Bad Friedrichshall
+                - heading "Learning Experience Manager - STACKIT University (m/w/d) (m/w/d)" [level=3] [ref=f15e279]:
+                  - generic [ref=f15e280]: Learning Experience Manager - STACKIT University (m/w/d)
+                  - generic [ref=f15e281]: (m/w/d)
+          - article [ref=f15e283]:
+            - generic [ref=f15e284]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/senior-site-reliability-engineer-sre-core-messaging-infrastructure-stackit-m-w-d-GT3944
+              - generic [ref=f15e285]:
+                - paragraph [ref=f15e286]:
+                  - generic [ref=f15e287]: Berufserfahrene
+                  - generic [ref=f15e288]: Bad Friedrichshall
+                - heading "Senior Site Reliability Engineer (SRE) - Core Messaging Infrastructure - STACKIT (m/w/d) (m/w/d)" [level=3] [ref=f15e289]:
+                  - generic [ref=f15e290]: Senior Site Reliability Engineer (SRE) - Core Messaging Infrastructure - STACKIT (m/w/d)
+                  - generic [ref=f15e291]: (m/w/d)
+          - article [ref=f15e293]:
+            - generic [ref=f15e294]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/senior-software-engineer-iaas-platform-stackit-m-w-d-GT3628
+              - generic [ref=f15e295]:
+                - paragraph [ref=f15e296]:
+                  - generic [ref=f15e297]: Berufserfahrene
+                  - generic [ref=f15e298]: Bad Friedrichshall
+                - heading "Senior Software Engineer - IaaS Platform - STACKIT (m/w/d) (m/w/d)" [level=3] [ref=f15e299]:
+                  - generic [ref=f15e300]: Senior Software Engineer - IaaS Platform - STACKIT (m/w/d)
+                  - generic [ref=f15e301]: (m/w/d)
+          - article [ref=f15e303]:
+            - generic [ref=f15e304]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/senior-cloud-service-manager-m-w-d-GT3773
+              - generic [ref=f15e305]:
+                - paragraph [ref=f15e306]:
+                  - generic [ref=f15e307]: Berufserfahrene
+                  - generic [ref=f15e308]: Bad Friedrichshall
+                - heading "(Senior) Cloud Service Manager (m/w/d) (m/w/d)" [level=3] [ref=f15e309]:
+                  - generic [ref=f15e310]: (Senior) Cloud Service Manager (m/w/d)
+                  - generic [ref=f15e311]: (m/w/d)
+          - article [ref=f15e313]:
+            - generic [ref=f15e314]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/senior-kubernetes-lifecycle-security-engineer-distributed-cloud-stackit-m-w-d-GT4065
+              - generic [ref=f15e315]:
+                - paragraph [ref=f15e316]:
+                  - generic [ref=f15e317]: Berufserfahrene
+                  - generic [ref=f15e318]: Bad Friedrichshall
+                - heading "(Senior) Kubernetes Lifecycle & Security Engineer / Distributed Cloud - STACKIT (m/w/d) (m/w/d)" [level=3] [ref=f15e319]:
+                  - generic [ref=f15e320]: (Senior) Kubernetes Lifecycle & Security Engineer / Distributed Cloud - STACKIT (m/w/d)
+                  - generic [ref=f15e321]: (m/w/d)
+          - article [ref=f15e323]:
+            - generic [ref=f15e324]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/senior-observability-engineer-distributed-cloud-stackit-m-w-d-GT3489
+              - generic [ref=f15e325]:
+                - paragraph [ref=f15e326]:
+                  - generic [ref=f15e327]: Berufserfahrene
+                  - generic [ref=f15e328]: Bad Friedrichshall
+                - heading "(Senior) Observability Engineer / Distributed Cloud - STACKIT (m/w/d) (m/w/d)" [level=3] [ref=f15e329]:
+                  - generic [ref=f15e330]: (Senior) Observability Engineer / Distributed Cloud - STACKIT (m/w/d)
+                  - generic [ref=f15e331]: (m/w/d)
+          - article [ref=f15e333]:
+            - generic [ref=f15e334]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/solution-architect-consultant-distributed-cloud-sdc-stackit-m-w-d-GT1885
+              - generic [ref=f15e335]:
+                - paragraph [ref=f15e336]:
+                  - generic [ref=f15e337]: Berufserfahrene
+                  - generic [ref=f15e338]: Heilbronn
+                - heading "Solution Architect / Consultant - Distributed Cloud (SDC) - STACKIT (m/w/d) (m/w/d)" [level=3] [ref=f15e339]:
+                  - generic [ref=f15e340]: Solution Architect / Consultant - Distributed Cloud (SDC) - STACKIT (m/w/d)
+                  - generic [ref=f15e341]: (m/w/d)
+        - button "weitere Stellen" [ref=f15e342] [cursor=pointer]:
+          - figure [ref=f15e343]
+  - contentinfo [ref=f15e345]:
+    - generic [ref=f15e347]:
+      - generic [ref=f15e348]:
+        - generic [ref=f15e349]:
+          - generic [ref=f15e350]: © 2026 Schwarz Digits
+          - navigation "Social media" [ref=f15e352]:
+            - menu [ref=f15e353]:
+              - menuitem [ref=f15e354]:
+                - link "LinkedIn" [ref=f15e355] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/schwarz-digits
+                  - figure [ref=f15e356]
+              - menuitem [ref=f15e357]:
+                - link "YouTube" [ref=f15e358] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@SchwarzDigits
+                  - figure [ref=f15e359]
+              - menuitem [ref=f15e360]:
+                - link "Instagram" [ref=f15e361] [cursor=pointer]:
+                  - /url: https://www.instagram.com/schwarzdigits?igsh=OW1mZjN6MW03d2Ji
+                  - figure [ref=f15e362]
+        - navigation "Brand Navigation" [ref=f15e364]:
+          - menu [ref=f15e365]:
+            - menuitem [ref=f15e366]:
+              - link "Cookie Bestimmungen" [ref=f15e367] [cursor=pointer]:
+                - /url: /cookie-bestimmungen
+            - menuitem [ref=f15e368]:
+              - link "Datenschutz" [ref=f15e369] [cursor=pointer]:
+                - /url: /datenschutz
+            - menuitem [ref=f15e370]:
+              - link "Impressum" [ref=f15e371] [cursor=pointer]:
+                - /url: /impressum
+            - menuitem [ref=f15e372]:
+              - link "Compliance" [ref=f15e373] [cursor=pointer]:
+                - /url: /compliance
+      - generic:
+        - navigation "Brand Navigation":
+          - menu

@@ -1,0 +1,44 @@
+*Bechtle -- Junior Software Entwickler* (Neckarsulm)
+https://jobs.bechtle.com/job/Junior-Software-Entwickler-%28wmd%29/19439-de_DE/
+Stack: Java, JavaScript, SQL, Docker
+Fit: Mittel
+
+*Bechtle -- Softwareentwickler Microservice Frontend* (Neckarsulm)
+https://jobs.bechtle.com/job/Softwareentwickler-Microservice-Frontend-%28wmd%29/82050-de_DE/
+Stack: Next.js, React, TypeScript, Monorepos, CI/CD
+Fit: Sehr stark
+
+*Bechtle -- Software Engineer Fullstack* (Neckarsulm)
+https://jobs.bechtle.com/job/Software-Engineer-Fullstack-%28wmd%29/11519-de_DE/
+Stack: Java, TypeScript, SQL, Spring Boot, Vue.js, Docker
+Fit: Stark
+
+*Bechtle PLM -- Software Developer* (Walluf)
+https://jobs.bechtle.com/job/Software-Developer-%28wmd%29/81985-de_DE/
+Stack: C#, JavaScript, MS SQL, Azure DevOps, SOLIDWORKS
+Fit: Mittel
+
+*STACKIT -- Junior AI Platform Software Engineer* (Heilbronn)
+https://schwarz-digits.de/jobsearch/hr/junior-ai-platform-software-engineer-stackit-m-w-d-GT990
+Stack: Go, Kubernetes, MLOps, Airflow, mlflow, REST
+Fit: Sehr stark
+
+*Schwarz Digits -- Software Engineer Fullstack* (Bad Friedrichshall)
+https://schwarz-digits.de/jobsearch/hr/software-engineer-fullstack-m-w-d-GT2271
+Stack: Go, TypeScript, Vue.js, Container, Cloud
+Fit: Stark
+
+*Schwarz Digits -- Fullstack Engineer Go/Vue Purchasing* (Bad Friedrichshall)
+https://schwarz-digits.de/jobsearch/hr/fullstack-engineer-go-vue-purchasing-applications-m-w-d-GT655
+Stack: Go, Vue, MongoDB, PostgreSQL, REST
+Fit: Mittel
+
+*STACKIT -- Backend Developer Cloud Storage* (Bad Friedrichshall)
+https://schwarz-digits.de/jobsearch/hr/backend-developer-cloud-storage-stackit-m-w-d-GT704
+Stack: Go, Kubernetes, gRPC, PostgreSQL, Terraform
+Fit: Mittel
+
+*Schwarz Digits -- Fullstack Engineer Health & Performance* (Bad Friedrichshall)
+https://schwarz-digits.de/jobsearch/hr/fullstack-engineer-health-performance-m-w-d-GT2787
+Stack: Go, Vue.js, MongoDB, PostgreSQL, Kubernetes
+Fit: Mittel

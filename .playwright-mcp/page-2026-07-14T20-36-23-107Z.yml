@@ -1,0 +1,332 @@
+- generic [active] [ref=f14e1]:
+  - generic [ref=f14e3]:
+    - generic [ref=f14e4]:
+      - 'heading "Bevor es weitergeht: Zur Verarbeitung Ihrer Daten" [level=2] [ref=f14e5]'
+      - paragraph [ref=f14e8]:
+        - link "Wir" [ref=f14e9] [cursor=pointer]:
+          - /url: https://schwarz-digits.de/datenschutz?hidebanner=true
+        - text: verarbeiten auf unserer Webseite Ihre Daten mittels verschiedener Techniken (u.a. Cookies), sofern dies technisch notwendig ist, um die Webseite und ihre Funktionen darzustellen. Darüber hinaus verarbeiten wir Ihre Trackingdaten für komfortable Webseiteneinstellungen, zur Erstellung von Statistiken oder für personalisierte (Werbe-) Maßnahmen nur, sofern Sie uns über „Zustimmen“ Ihre Einwilligung hierzu erteilen. Dies schließt auch Datentransfers in Länder außerhalb der EU ohne angemessenes Schutzniveau ein. Unter „Ablehnen“ können Sie nur den Einsatz notwendiger Techniken zulassen. Unter „Anpassen“ können Sie einzelne Verwendungszwecke zulassen. Weitere Informationen, auch zu Ihrem jederzeitigen Widerrufsrecht, finden Sie in unseren
+        - link "Datenschutzhinweisen" [ref=f14e10] [cursor=pointer]:
+          - /url: https://schwarz-digits.de/datenschutz?hidebanner=true
+        - text: . Unser Impressum finden Sie
+        - link "hier" [ref=f14e11] [cursor=pointer]:
+          - /url: https://schwarz-digits.de/impressum?hidebanner=true
+        - text: .
+    - generic [ref=f14e12]:
+      - button "Anpassen" [ref=f14e13] [cursor=pointer]
+      - button "Ablehnen" [ref=f14e14] [cursor=pointer]
+      - button "Akzeptieren" [ref=f14e15] [cursor=pointer]
+  - banner [ref=f14e18]:
+    - generic [ref=f14e20]:
+      - navigation "Brand Navigation" [ref=f14e21]:
+        - list [ref=f14e22]:
+          - listitem [ref=f14e23]:
+            - link "Schwarz Gruppe" [ref=f14e24] [cursor=pointer]:
+              - /url: https://gruppe.schwarz
+      - link "Bookmark" [ref=f14e27] [cursor=pointer]:
+        - /url: "#"
+        - figure [ref=f14e28]
+      - button "Chose your language" [ref=f14e31] [cursor=pointer]:
+        - generic [ref=f14e32]: DE
+    - generic [ref=f14e35]:
+      - link "DigitsLogoNeu" [ref=f14e37] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f14e43]:
+        - navigation "Hamburger Navigation" [ref=f14e44]:
+          - list [ref=f14e45]:
+            - listitem [ref=f14e46]:
+              - link "Digitale Souveränität" [ref=f14e47] [cursor=pointer]:
+                - /url: /digitale-souveraenitaet
+            - listitem [ref=f14e49]:
+              - button "Produktportfolio" [ref=f14e50] [cursor=pointer]
+            - listitem [ref=f14e52]:
+              - link "Branchen" [ref=f14e53] [cursor=pointer]:
+                - /url: /branchen
+            - listitem [ref=f14e55]:
+              - link "Referenzen" [ref=f14e56] [cursor=pointer]:
+                - /url: /referenzen
+            - listitem [ref=f14e58]:
+              - link "Über uns" [ref=f14e59] [cursor=pointer]:
+                - /url: /ueber-uns-neu
+            - listitem [ref=f14e61]:
+              - button "Publikationen" [ref=f14e62] [cursor=pointer]
+            - listitem [ref=f14e64]:
+              - link "Presse" [ref=f14e65] [cursor=pointer]:
+                - /url: /presse
+            - listitem [ref=f14e67]:
+              - button "Karriere" [ref=f14e68] [cursor=pointer]
+        - link "Newsletter" [ref=f14e71] [cursor=pointer]:
+          - /url: https://schwarz-digits.de/#newsletter
+  - generic [ref=f14e75]:
+    - generic [ref=f14e77]:
+      - generic [ref=f14e78]:
+        - heading [level=1] [ref=f14e79]:
+          - text: Fullstack Engineer - GO / VUE Purchasing Applications
+          - superscript [ref=f14e80]: (m/w/d)
+        - generic [ref=f14e81]:
+          - button "Jetzt bewerben" [ref=f14e83] [cursor=pointer]
+          - generic [ref=f14e85]:
+            - button "Job merken" [ref=f14e86] [cursor=pointer]:
+              - figure [ref=f14e87]
+            - button "Teilen" [ref=f14e89] [cursor=pointer]:
+              - figure [ref=f14e90]
+            - button "Drucken" [ref=f14e91] [cursor=pointer]:
+              - figure [ref=f14e92]
+      - img "Ein Mann und eine Frau sitzen im Freien auf einer Treppe und schauen zusammen auf ein Laptop" [ref=f14e94]
+    - list [ref=f14e98]:
+      - listitem [ref=f14e99]:
+        - article [ref=f14e100]:
+          - figure [ref=f14e102]
+          - generic [ref=f14e103]:
+            - heading "Standort" [level=2] [ref=f14e104]
+            - generic [ref=f14e105]: Am Campus 174177 Bad Friedrichshall
+      - listitem [ref=f14e107]:
+        - article [ref=f14e108]:
+          - figure [ref=f14e110]
+          - generic [ref=f14e111]:
+            - heading "Abteilung / Bereich" [level=2] [ref=f14e112]
+            - generic [ref=f14e113]: IT - Software Engineering
+      - listitem [ref=f14e115]:
+        - article [ref=f14e116]:
+          - figure [ref=f14e118]
+          - generic [ref=f14e119]:
+            - heading "Einstiegslevel" [level=2] [ref=f14e120]
+            - generic [ref=f14e121]: Berufserfahrene
+      - listitem [ref=f14e123]:
+        - article [ref=f14e124]:
+          - figure [ref=f14e126]
+          - generic [ref=f14e127]:
+            - heading "Arbeitsmodell" [level=2] [ref=f14e128]
+            - generic [ref=f14e129]: Vollzeit
+      - listitem [ref=f14e131]:
+        - article [ref=f14e132]:
+          - figure [ref=f14e134]
+          - generic [ref=f14e135]:
+            - heading "Referenznummer" [level=2] [ref=f14e136]
+            - generic [ref=f14e137]: "655"
+    - paragraph [ref=f14e142]: "Schwarz Digits schafft das technologische Fundament für digitale Entscheidungsfreiheit in Europa. Als IT- und Digitalsparte der Schwarz Gruppe entwickeln und verantworten wir einerseits die IT-Infrastrukturen für die Handelssparten Lidl und Kaufland sowie die Schwarz Produktion und PreZero. Gleichzeitig agieren wir als unabhängiger Anbieter am externen Markt, um Unternehmen in ganz Europa bei ihrer digitalen Transformation zu unterstützen. Unsere Kernleistungen bündeln wir in den Bereichen Cloud, Cyber Security, Data & AI, Communication und Workspace. Trage auch du zur digitalen Entscheidungsfreiheit in Europa bei.Bei uns arbeitest du an der Schnittstelle zwischen Agilität und Sicherheit: Du profitierst von den schnellen Entscheidungswegen, genießt echte Gestaltungsspielräume in deinen Projekten und baust dabei auf das stabile Fundament der Schwarz Gruppe."
+    - generic [ref=f14e143]:
+      - generic [ref=f14e144]:
+        - heading "Deine Aufgaben" [level=3] [ref=f14e145]
+        - list [ref=f14e148]:
+          - listitem [ref=f14e149]: Du bist verantwortlich für Beratung, Planung, Entwicklung, Testing und Support für unsere Produkte im Einkauf
+          - listitem [ref=f14e150]: Du erarbeitest und dokumentierst Lösungsarchitekturen und -konzepte
+          - listitem [ref=f14e151]: Du steuerst interne und externe Entwickler und koordinierst die Abläufe
+          - listitem [ref=f14e152]: Du stellst den kontinuierlichen Go Live neuer Softwarereleases gemeinsam mit deinem Team sicher
+          - listitem [ref=f14e153]: Du bringst dich aktiv ein in die Aufbereitung und Vermittlung von Wissen
+      - generic [ref=f14e154]:
+        - heading "Dein Profil" [level=3] [ref=f14e155]
+        - list [ref=f14e158]:
+          - listitem [ref=f14e159]: Du hast sehr Gute mehrjährige Praktische Kenntnisse in Go (optional Kotlin), Vue, Datenbanken(z.B. Mongo, Postgree), Git und Schnittstellentechnologien (REST API)
+          - listitem [ref=f14e160]: Du hast ein sehr Gutes Verständnis in Service-, Container- und Cloud-Architekturen & Technologien
+          - listitem [ref=f14e161]: Du hast Gute Englischkenntnisse(du kannst dich in Meetings und fachl. Diskussionen austauschen), optimalerweise Deutschkenntnisse
+          - listitem [ref=f14e162]: Du hast gute Kommunikationsskills und bist offen, dein Wissen als Mentor weiterzutragen
+          - listitem [ref=f14e163]: Du hast Ideen und kannst dafür Begeistern
+          - listitem [ref=f14e164]: Du hast ein Studium in der Informatik, Software Engineering oder vergleichbar
+    - generic [ref=f14e165]:
+      - heading "Unsere Benefits" [level=2] [ref=f14e166]
+      - generic [ref=f14e167]:
+        - button "<p>Deine Arbeitszeiten gestaltest du flexibel und kannst diese in Absprache mit deiner F&uuml;hrungskraft an deine Aufgaben anpassen. So bestimmst du selbst, wie deine gesunde Work-Life-Balance aussieht.</p>" [ref=f14e170] [cursor=pointer]:
+          - figure [ref=f14e171]
+        - button "<p>Unsere Mitarbeitenden liegen uns sehr am Herzen. Du wirst Teil einer wertsch&auml;tzenden und offenen Unternehmenskultur mit flachen Hierarchien und Duz-Kultur.</p>" [ref=f14e174] [cursor=pointer]:
+          - figure [ref=f14e175]
+        - button "<p>Du erh&auml;ltst deinen pers&ouml;nlichen Dienstwagen der Marke BMW inklusive Tankkarte und kannst diesen jederzeit auch privat nutzen. Alternativ steht dir ein monatliches Mobilit&auml;tsbudget zur Verf&uuml;gung.&nbsp;</p>" [ref=f14e178] [cursor=pointer]:
+          - figure [ref=f14e179]
+        - button "<p>Deine Gesundheit ist uns wichtig. Bei uns hast du vielf&auml;ltige M&ouml;glichkeiten, dich fit zu halten. Nutze kostenlos unsere eigenen Fitnessstudios oder genie&szlig;e verg&uuml;nstigte Fitnessangebote im Raum Heilbronn.</p>" [ref=f14e182] [cursor=pointer]:
+          - figure [ref=f14e183]
+        - button "<p>Mit vielf&auml;ltigen Weiterbildungsm&ouml;glichkeiten unterst&uuml;tzen wir dich individuell dabei, dich &nbsp;kontinuierlich fachlich sowie pers&ouml;nlich zu entfalten.&nbsp;</p>" [ref=f14e186] [cursor=pointer]:
+          - figure [ref=f14e187]
+        - button "<p>Mit unserem Partner Corporate Benefits kannst du dich monatlich &uuml;ber Rabatte in den unterschiedlichsten Kategorien von Dienstleistungen &uuml;ber Bekleidung bis hin zu Hotels freuen. Au&szlig;erdem kannst du als Mitarbeiter verg&uuml;nstigt unsere einzigartigen Restaurants genie&szlig;en.</p>" [ref=f14e190] [cursor=pointer]:
+          - figure [ref=f14e191]
+    - generic [ref=f14e192]:
+      - heading "Dein Ansprechpartner" [level=2] [ref=f14e193]
+      - generic [ref=f14e195]:
+        - img "Portrait Lara" [ref=f14e197]
+        - heading "Lara Schlimgen" [level=3] [ref=f14e198]
+        - paragraph [ref=f14e199]: Recruiterin
+        - list [ref=f14e200]:
+          - listitem [ref=f14e201]:
+            - generic [ref=f14e202]: "E-Mail:"
+            - generic [ref=f14e203]: recruiting@mail.schwarz
+    - generic [ref=f14e204]:
+      - heading "Dein Bewerbungsprozess im Überblick" [level=2] [ref=f14e205]
+      - generic [ref=f14e206]:
+        - article [ref=f14e207]:
+          - generic [ref=f14e208]:
+            - generic [ref=f14e209]: "1"
+            - heading "Bewerbung" [level=3] [ref=f14e210]
+          - generic [ref=f14e211]: Wir lieben die Einfachheit. Bewirb dich schnell und unkompliziert digital, gerne auch ohne Registrierung.
+        - article [ref=f14e212]:
+          - generic [ref=f14e213]:
+            - generic [ref=f14e214]: "2"
+            - heading "Checkup" [level=3] [ref=f14e215]
+          - generic [ref=f14e216]: Gemeinsam mit dem zuständigen Fachbereich werfen wir einen Blick in deine Unterlagen.
+        - article [ref=f14e217]:
+          - generic [ref=f14e218]:
+            - generic [ref=f14e219]: "3"
+            - heading "Kennenlernen" [level=3] [ref=f14e220]
+          - generic [ref=f14e221]: Bei einem ersten Kennenlernen liegt der Fokus sowohl auf deiner Persönlichkeit als auch auf deiner fachlichen Eignung.
+        - article [ref=f14e222]:
+          - generic [ref=f14e223]:
+            - generic [ref=f14e224]: "4"
+            - heading "Vertragsangebot" [level=3] [ref=f14e225]
+          - generic [ref=f14e226]: Haben wir uns gegenseitig überzeugt? Dann ist dein Arbeitsvertrag digital per Mail auf dem Weg zu dir.
+        - article [ref=f14e227]:
+          - generic [ref=f14e228]:
+            - generic [ref=f14e229]: "5"
+            - heading "Willkommen" [level=3] [ref=f14e230]
+          - generic [ref=f14e231]: Dein erster Arbeitstag bei uns steht an und dein individuelles Onboarding im Team startet. Wir freuen uns auf dich!
+    - generic [ref=f14e233]:
+      - heading "Diese Stellen könnten auch interessant sein" [level=2] [ref=f14e235]
+      - generic [ref=f14e236]:
+        - button "vorherige Stellen" [disabled] [ref=f14e237]:
+          - figure [ref=f14e238]
+        - generic [ref=f14e239]:
+          - article [ref=f14e241]:
+            - generic [ref=f14e242]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/initiativbewerbung-it-entwicklung-GT1268
+              - generic [ref=f14e243]:
+                - paragraph [ref=f14e244]:
+                  - generic [ref=f14e245]: Berufserfahrene
+                  - generic [ref=f14e246]: Bad Friedrichshall
+                - heading "Initiativbewerbung IT Entwicklung (m/w/d)" [level=3] [ref=f14e247]:
+                  - generic [ref=f14e248]: Initiativbewerbung IT Entwicklung
+                  - generic [ref=f14e249]: (m/w/d)
+          - article [ref=f14e251]:
+            - generic [ref=f14e252]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/sap-abap-developer-ewm-m-w-d-GT845
+              - generic [ref=f14e253]:
+                - paragraph [ref=f14e254]:
+                  - generic [ref=f14e255]: Berufserfahrene
+                  - generic [ref=f14e256]: Bad Friedrichshall
+                - heading "SAP ABAP Developer - EWM (m/w/d) (m/w/d)" [level=3] [ref=f14e257]:
+                  - generic [ref=f14e258]: SAP ABAP Developer - EWM (m/w/d)
+                  - generic [ref=f14e259]: (m/w/d)
+          - article [ref=f14e261]:
+            - generic [ref=f14e262]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/sap-abap-developer-m-w-d-GT666
+              - generic [ref=f14e263]:
+                - paragraph [ref=f14e264]:
+                  - generic [ref=f14e265]: Berufserfahrene
+                  - generic [ref=f14e266]: Bad Friedrichshall
+                - heading "SAP ABAP Developer (m/w/d) (m/w/d)" [level=3] [ref=f14e267]:
+                  - generic [ref=f14e268]: SAP ABAP Developer (m/w/d)
+                  - generic [ref=f14e269]: (m/w/d)
+          - article [ref=f14e271]:
+            - generic [ref=f14e272]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/solution-architect-servicenow-risk-assessment-m-w-d-GT3718
+              - generic [ref=f14e273]:
+                - paragraph [ref=f14e274]:
+                  - generic [ref=f14e275]: Berufserfahrene
+                  - generic [ref=f14e276]: Bad Friedrichshall
+                - heading "Solution Architect ServiceNow (Risk Assessment) (m/w/d) (m/w/d)" [level=3] [ref=f14e277]:
+                  - generic [ref=f14e278]: Solution Architect ServiceNow (Risk Assessment) (m/w/d)
+                  - generic [ref=f14e279]: (m/w/d)
+          - article [ref=f14e281]:
+            - generic [ref=f14e282]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/servicenow-developer-itsm-csm-m-w-d-GT3389
+              - generic [ref=f14e283]:
+                - paragraph [ref=f14e284]:
+                  - generic [ref=f14e285]: Berufserfahrene
+                  - generic [ref=f14e286]: Bad Friedrichshall
+                - heading "ServiceNow Developer - ITSM / CSM (m/w/d) (m/w/d)" [level=3] [ref=f14e287]:
+                  - generic [ref=f14e288]: ServiceNow Developer - ITSM / CSM (m/w/d)
+                  - generic [ref=f14e289]: (m/w/d)
+          - article [ref=f14e291]:
+            - generic [ref=f14e292]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/senior-ai-assisted-software-engineer-m-w-d-fokus-backend-go-kotlin-GT3486
+              - generic [ref=f14e293]:
+                - paragraph [ref=f14e294]:
+                  - generic [ref=f14e295]: Berufserfahrene
+                  - generic [ref=f14e296]: Bad Friedrichshall
+                - heading "(Senior) AI-Assisted Software Engineer (m/w/d) - Fokus Backend (Go / Kotlin) (m/w/d)" [level=3] [ref=f14e297]:
+                  - generic [ref=f14e298]: (Senior) AI-Assisted Software Engineer (m/w/d) - Fokus Backend (Go / Kotlin)
+                  - generic [ref=f14e299]: (m/w/d)
+          - article [ref=f14e301]:
+            - generic [ref=f14e302]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/sap-alm-spezialist-m-w-d-schwerpunkt-focused-run-und-cloud-alm-GT3267
+              - generic [ref=f14e303]:
+                - paragraph [ref=f14e304]:
+                  - generic [ref=f14e305]: Berufserfahrene
+                  - generic [ref=f14e306]: Bad Friedrichshall
+                - heading "SAP ALM Spezialist (m/w/d) - Schwerpunkt Focused Run und Cloud ALM (m/w/d)" [level=3] [ref=f14e307]:
+                  - generic [ref=f14e308]: SAP ALM Spezialist (m/w/d) - Schwerpunkt Focused Run und Cloud ALM
+                  - generic [ref=f14e309]: (m/w/d)
+          - article [ref=f14e311]:
+            - generic [ref=f14e312]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/fullstack-engineer-health-performance-m-w-d-GT2787
+              - generic [ref=f14e313]:
+                - paragraph [ref=f14e314]:
+                  - generic [ref=f14e315]: Berufserfahrene
+                  - generic [ref=f14e316]: Bad Friedrichshall
+                - heading "Fullstack Engineer Health & Performance (m/w/d) (m/w/d)" [level=3] [ref=f14e317]:
+                  - generic [ref=f14e318]: Fullstack Engineer Health & Performance (m/w/d)
+                  - generic [ref=f14e319]: (m/w/d)
+          - article [ref=f14e321]:
+            - generic [ref=f14e322]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/sap-abap-developer-gross-und-aussenhandel-m-w-d-GT2484
+              - generic [ref=f14e323]:
+                - paragraph [ref=f14e324]:
+                  - generic [ref=f14e325]: Berufserfahrene
+                  - generic [ref=f14e326]: Bad Friedrichshall
+                - heading "SAP ABAP Developer - Groß- und Außenhandel (m/w/d) (m/w/d)" [level=3] [ref=f14e327]:
+                  - generic [ref=f14e328]: SAP ABAP Developer - Groß- und Außenhandel (m/w/d)
+                  - generic [ref=f14e329]: (m/w/d)
+          - article [ref=f14e331]:
+            - generic [ref=f14e332]:
+              - link "link":
+                - /url: https://schwarz-digits.de/jobsearch/hr/sap-abap-developer-m-w-d-master-data-mdm-mdg-GT3777
+              - generic [ref=f14e333]:
+                - paragraph [ref=f14e334]:
+                  - generic [ref=f14e335]: Berufserfahrene
+                  - generic [ref=f14e336]: Bad Friedrichshall
+                - heading "SAP ABAP Developer (m/w/d) - Master Data (MDM/MDG) (m/w/d)" [level=3] [ref=f14e337]:
+                  - generic [ref=f14e338]: SAP ABAP Developer (m/w/d) - Master Data (MDM/MDG)
+                  - generic [ref=f14e339]: (m/w/d)
+        - button "weitere Stellen" [ref=f14e340] [cursor=pointer]:
+          - figure [ref=f14e341]
+  - contentinfo [ref=f14e343]:
+    - generic [ref=f14e345]:
+      - generic [ref=f14e346]:
+        - generic [ref=f14e347]:
+          - generic [ref=f14e348]: © 2026 Schwarz Digits
+          - navigation "Social media" [ref=f14e350]:
+            - menu [ref=f14e351]:
+              - menuitem [ref=f14e352]:
+                - link "LinkedIn" [ref=f14e353] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/schwarz-digits
+                  - figure [ref=f14e354]
+              - menuitem [ref=f14e355]:
+                - link "YouTube" [ref=f14e356] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@SchwarzDigits
+                  - figure [ref=f14e357]
+              - menuitem [ref=f14e358]:
+                - link "Instagram" [ref=f14e359] [cursor=pointer]:
+                  - /url: https://www.instagram.com/schwarzdigits?igsh=OW1mZjN6MW03d2Ji
+                  - figure [ref=f14e360]
+        - navigation "Brand Navigation" [ref=f14e362]:
+          - menu [ref=f14e363]:
+            - menuitem [ref=f14e364]:
+              - link "Cookie Bestimmungen" [ref=f14e365] [cursor=pointer]:
+                - /url: /cookie-bestimmungen
+            - menuitem [ref=f14e366]:
+              - link "Datenschutz" [ref=f14e367] [cursor=pointer]:
+                - /url: /datenschutz
+            - menuitem [ref=f14e368]:
+              - link "Impressum" [ref=f14e369] [cursor=pointer]:
+                - /url: /impressum
+            - menuitem [ref=f14e370]:
+              - link "Compliance" [ref=f14e371] [cursor=pointer]:
+                - /url: /compliance
+      - generic:
+        - navigation "Brand Navigation":
+          - menu

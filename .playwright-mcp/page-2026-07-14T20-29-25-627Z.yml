@@ -1,0 +1,767 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - navigation [ref=f1e3]:
+      - generic [ref=f1e4]:
+        - link "Zurück zur Stellen Übersicht" [ref=f1e5] [cursor=pointer]:
+          - /url: https://jobs.bechtle.com/default/content/search/?locale=de_DE
+        - button "Menü öffnen" [ref=f1e11] [cursor=pointer]
+      - generic [ref=f1e19]:
+        - generic [ref=f1e20]:
+          - button "België" [ref=f1e21] [cursor=pointer]
+          - generic:
+            - link "Nederlands" [ref=f1e30] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/be/content/search/?locale=nl_NL&addresses%2Fcountry=België
+            - link "Français" [ref=f1e31] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/be/content/search/?locale=fr_FR&addresses%2Fcountry=Belgique
+            - link "English" [ref=f1e32] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/be/content/search/?locale=en_US&addresses%2Fcountry=Belgium
+        - generic [ref=f1e33]:
+          - button "Česko" [ref=f1e34] [cursor=pointer]
+          - generic:
+            - link "Čeština" [ref=f1e43] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/cz/content/search/?locale=cs_CZ&addresses%2Fcountry=Česká+republika
+            - link "English" [ref=f1e44] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/cz/content/search/?locale=en_US&addresses%2Fcountry=Czech+Republic
+        - generic [ref=f1e45]:
+          - button "Deutschland" [ref=f1e46] [cursor=pointer]
+          - generic:
+            - link "Deutsch" [ref=f1e55] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/default/content/search/?locale=de_DE&addresses%2Fcountry=Deutschland
+            - link "English" [ref=f1e56] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/default/content/search/?locale=en_US&addresses%2Fcountry=Germany
+        - generic [ref=f1e57]:
+          - button "España" [ref=f1e58] [cursor=pointer]
+          - generic:
+            - link "Español" [ref=f1e541] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/es/content/search/?locale=es_ES&addresses%2Fcountry=España
+            - link "English" [ref=f1e542] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/es/content/search/?locale=en_US&addresses%2Fcountry=Spain
+        - generic [ref=f1e543]:
+          - button "France" [ref=f1e544] [cursor=pointer]
+          - generic:
+            - link "Français" [ref=f1e553] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/fr/content/search/?locale=fr_FR&addresses%2Fcountry=France
+            - link "English" [ref=f1e554] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/fr/content/search/?locale=en_US&addresses%2Fcountry=France
+        - generic [ref=f1e555]:
+          - button "Great Britain" [ref=f1e556] [cursor=pointer]
+          - link "English" [ref=f1e570] [cursor=pointer]:
+            - /url: https://jobs.bechtle.com/gb/content/search/?locale=en_US&addresses%2Fcountry=United+Kingdom
+        - generic [ref=f1e571]:
+          - button "Éire" [ref=f1e572] [cursor=pointer]
+          - link "English" [ref=f1e581] [cursor=pointer]:
+            - /url: https://jobs.bechtle.com/ie/content/search/?locale=en_US&addresses%2Fcountry=Ireland
+        - generic [ref=f1e582]:
+          - button "Italia" [ref=f1e583] [cursor=pointer]
+          - generic:
+            - link "Italiano" [ref=f1e592] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/it/content/search/?locale=it_IT&addresses%2Fcountry=Italia
+            - link "English" [ref=f1e593] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/it/content/search/?locale=en_US&addresses%2Fcountry=Italy
+        - generic [ref=f1e594]:
+          - button "Magyarország" [ref=f1e595] [cursor=pointer]
+          - generic:
+            - link "Magyar" [ref=f1e604] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/hu/content/search/?locale=hu_HU&addresses%2Fcountry=Magyarország
+            - link "English" [ref=f1e605] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/hu/content/search/?locale=en_US&addresses%2Fcountry=Hungary
+        - generic [ref=f1e606]:
+          - button "Nederland" [ref=f1e607] [cursor=pointer]
+          - generic:
+            - link "Nederlands" [ref=f1e616] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/nl/content/search/?locale=nl_NL&addresses%2Fcountry=Nederland
+            - link "English" [ref=f1e617] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/nl/content/search/?locale=en_US&addresses%2Fcountry=Netherlands
+        - generic [ref=f1e618]:
+          - button "Österreich" [ref=f1e619] [cursor=pointer]
+          - generic:
+            - link "Deutsch" [ref=f1e628] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/at/content/search/?locale=de_DE&addresses%2Fcountry=Österreich
+            - link "English" [ref=f1e629] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/at/content/search/?locale=en_US&addresses%2Fcountry=Austria
+        - generic [ref=f1e630]:
+          - button "Polska" [ref=f1e631] [cursor=pointer]
+          - generic:
+            - link "Polski" [ref=f1e639] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/pl/content/search/?locale=pl_PL&addresses%2Fcountry=Polska
+            - link "English" [ref=f1e640] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/pl/content/search/?locale=en_US&addresses%2Fcountry=Poland
+        - generic [ref=f1e641]:
+          - button "Portugal" [ref=f1e642] [cursor=pointer]
+          - generic:
+            - link "Português" [ref=f1e875] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/pt/content/search/?locale=pt_PT&addresses%2Fcountry=Portugal
+            - link "English" [ref=f1e876] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/pt/content/search/?locale=en_US&addresses%2Fcountry=Portugal
+        - generic [ref=f1e877]:
+          - button "Schweiz" [ref=f1e878] [cursor=pointer]
+          - generic:
+            - link "Deutsch" [ref=f1e886] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/ch/content/search/?locale=de_DE&addresses%2Fcountry=Schweiz
+            - link "Français" [ref=f1e887] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/ch/content/search/?locale=fr_FR&addresses%2Fcountry=Suisse
+            - link "English" [ref=f1e888] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/ch/content/search/?locale=en_US&addresses%2Fcountry=Switzerland
+    - region "Cookie Einstellungen" [ref=f1e890]:
+      - generic [ref=f1e891]:
+        - paragraph [ref=f1e892]: Wir verwenden Cookies, um unsere Webseite nutzerfreundlich zu gestalten und fortlaufend zu verbessern. Neben technisch notwendigen Diensten (Art. 6 Abs. 1 lit. f EU-DS-GVO, §25 Abs. 2 TTDSG) möchten wir dazu Dienste von Drittanbietern nutzen, die uns helfen, unser Werbeangebot zu verbessern und die statistische Nutzung unserer Internetseite auszuwerten. Um diese Dienste verwenden zu dürfen, benötigen wir Ihre Einwilligung (Art. 6 Abs. 1 lit. a EU-DS-GVO, §25 Abs. 1 TTDSG).
+        - paragraph [ref=f1e893]: Diese können Sie einfach durch einen Klick auf das Feld „Alle akzeptieren“ erteilen. Sollte Sie damit nicht eiverstanden sein, können Sie die Verwendung technisch nicht notwendiger Dienste durch einen Klick auf „Alle ablehnen“ verhindern. Selbstverständlich können Sie einzelne Dienste auch individuell konfigurieren.
+        - button "Privatsphäre-Einstellungen" [ref=f1e894] [cursor=pointer]
+        - generic [ref=f1e895]:
+          - button "Alle ablehnen" [ref=f1e896] [cursor=pointer]
+          - button "Alle akzeptieren" [ref=f1e897] [cursor=pointer]
+    - main [ref=f1e899]:
+      - generic [ref=f1e904]:
+        - generic [ref=f1e906]:
+          - 'img "Zwei lächelnde Personen - eine Frau und ein Mann - stehen vor einem leuchtend grünen Hintergrund. Zwei Hände im Vordergrund formen ein Parallelogramm und damit symbolisch das Bechtle Logo. Im Bild steht der Text: \"Eng vernetzt. Mit weitem Horizont\" Bereit?\"" [ref=f1e907]'
+          - 'img "Drei lächelnde Personen - zwei Frauen und ein Mann - stehen vor einem leuchtend grünen Hintergrund. Zwei Hände im Vordergrund formen ein Parallelogramm und damit symbolisch das Bechtle Logo. Im Bild steht der Text: \"Eng vernetzt. Mit weitem Horizont\" Bereit?\"" [ref=f1e908]'
+          - 'img "Drei lächelnde Personen - zwei Frauen und ein Mann - stehen vor einem leuchtend grünen Hintergrund. Zwei Hände im Vordergrund formen ein Parallelogramm und damit symbolisch das Bechtle Logo. Im Bild steht der Text: \"Eng vernetzt. Mit weitem Horizont\" Bereit?\"" [ref=f1e909]'
+        - generic [ref=f1e911]:
+          - generic [ref=f1e912]:
+            - textbox "Suchbegriff eingeben" [ref=f1e917]
+            - generic [ref=f1e919]:
+              - button "Standort" [ref=f1e920] [cursor=pointer]
+              - generic [ref=f1e924]:
+                - list:
+                  - listitem [ref=f1e925]:
+                    - button "Belgien" [ref=f1e926] [cursor=pointer]
+                    - list [ref=f1e930]:
+                      - listitem [ref=f1e931]:
+                        - generic [ref=f1e932] [cursor=pointer]: Brussels
+                      - listitem [ref=f1e936]:
+                        - generic [ref=f1e937] [cursor=pointer]: Merelbeke- Melle
+                  - listitem [ref=f1e941]:
+                    - button "Deutschland" [ref=f1e942] [cursor=pointer]
+                    - list [ref=f1e946]:
+                      - listitem [ref=f1e947]:
+                        - generic [ref=f1e948] [cursor=pointer]: Baunatal
+                      - listitem [ref=f1e952]:
+                        - generic [ref=f1e953] [cursor=pointer]: Beckum
+                      - listitem [ref=f1e957]:
+                        - generic [ref=f1e958] [cursor=pointer]: Berlin
+                      - listitem [ref=f1e962]:
+                        - generic [ref=f1e963] [cursor=pointer]: Bielefeld
+                      - listitem [ref=f1e967]:
+                        - generic [ref=f1e968] [cursor=pointer]: Bisingen
+                      - listitem [ref=f1e972]:
+                        - generic [ref=f1e973] [cursor=pointer]: Bochum
+                      - listitem [ref=f1e977]:
+                        - generic [ref=f1e978] [cursor=pointer]: Bonn
+                      - listitem [ref=f1e982]:
+                        - generic [ref=f1e983] [cursor=pointer]: Braunschweig
+                      - listitem [ref=f1e987]:
+                        - generic [ref=f1e988] [cursor=pointer]: Bremen
+                      - listitem [ref=f1e992]:
+                        - generic [ref=f1e993] [cursor=pointer]: Chemnitz
+                      - listitem [ref=f1e997]:
+                        - generic [ref=f1e998] [cursor=pointer]: Darmstadt
+                      - listitem [ref=f1e1002]:
+                        - generic [ref=f1e1003] [cursor=pointer]: Deutschland
+                      - listitem [ref=f1e1007]:
+                        - generic [ref=f1e1008] [cursor=pointer]: Dietzenbach
+                      - listitem [ref=f1e1012]:
+                        - generic [ref=f1e1013] [cursor=pointer]: Donauwörth
+                      - listitem [ref=f1e1017]:
+                        - generic [ref=f1e1018] [cursor=pointer]: Dortmund
+                      - listitem [ref=f1e1022]:
+                        - generic [ref=f1e1023] [cursor=pointer]: Dresden
+                      - listitem [ref=f1e1027]:
+                        - generic [ref=f1e1028] [cursor=pointer]: Düsseldorf
+                      - listitem [ref=f1e1032]:
+                        - generic [ref=f1e1033] [cursor=pointer]: Essen
+                      - listitem [ref=f1e1037]:
+                        - generic [ref=f1e1038] [cursor=pointer]: Ettlingen
+                      - listitem [ref=f1e1042]:
+                        - generic [ref=f1e1043] [cursor=pointer]: Frankfurt am Main
+                      - listitem [ref=f1e1047]:
+                        - generic [ref=f1e1048] [cursor=pointer]: Freiburg im Breisgau
+                      - listitem [ref=f1e1052]:
+                        - generic [ref=f1e1053] [cursor=pointer]: Friedrichshafen
+                      - listitem [ref=f1e1057]:
+                        - generic [ref=f1e1058] [cursor=pointer]: Gaildorf
+                      - listitem [ref=f1e1062]:
+                        - generic [ref=f1e1063] [cursor=pointer]: Gilching
+                      - listitem [ref=f1e1067]:
+                        - generic [ref=f1e1068] [cursor=pointer]: Gütersloh
+                      - listitem [ref=f1e1072]:
+                        - generic [ref=f1e1073] [cursor=pointer]: Hamburg
+                      - listitem [ref=f1e1077]:
+                        - generic [ref=f1e1078] [cursor=pointer]: Hannover
+                      - listitem [ref=f1e1082]:
+                        - generic [ref=f1e1083] [cursor=pointer]: Hille
+                      - listitem [ref=f1e1087]:
+                        - generic [ref=f1e1088] [cursor=pointer]: Hof
+                      - listitem [ref=f1e1092]:
+                        - generic [ref=f1e1093] [cursor=pointer]: Immenstaad am Bodensee
+                      - listitem [ref=f1e1097]:
+                        - generic [ref=f1e1098] [cursor=pointer]: Karlsfeld
+                      - listitem [ref=f1e1102]:
+                        - generic [ref=f1e1103] [cursor=pointer]: Kiel
+                      - listitem [ref=f1e1107]:
+                        - generic [ref=f1e1108] [cursor=pointer]: Koblenz
+                      - listitem [ref=f1e1112]:
+                        - generic [ref=f1e1113] [cursor=pointer]: Köln
+                      - listitem [ref=f1e1117]:
+                        - generic [ref=f1e1118] [cursor=pointer]: Langenau
+                      - listitem [ref=f1e1122]:
+                        - generic [ref=f1e1123] [cursor=pointer]: Leipzig
+                      - listitem [ref=f1e1127]:
+                        - generic [ref=f1e1128] [cursor=pointer]: Ludwigsburg
+                      - listitem [ref=f1e1132]:
+                        - generic [ref=f1e1133] [cursor=pointer]: Magdeburg
+                      - listitem [ref=f1e1137]:
+                        - generic [ref=f1e1138] [cursor=pointer]: Mannheim
+                      - listitem [ref=f1e1142]:
+                        - generic [ref=f1e1143] [cursor=pointer]: Memmingen
+                      - listitem [ref=f1e1147]:
+                        - generic [ref=f1e1148] [cursor=pointer]: Meschede
+                      - listitem [ref=f1e1152]:
+                        - generic [ref=f1e1153] [cursor=pointer]: München
+                      - listitem [ref=f1e1157]:
+                        - generic [ref=f1e1158] [cursor=pointer]: Münster
+                      - listitem [ref=f1e1162]:
+                        - generic [ref=f1e1163] [cursor=pointer]: Neckarsulm
+                      - listitem [ref=f1e1167]:
+                        - generic [ref=f1e1168] [cursor=pointer]: Neu-Ulm
+                      - listitem [ref=f1e1172]:
+                        - generic [ref=f1e1173] [cursor=pointer]: Nürnberg
+                      - listitem [ref=f1e1177]:
+                        - generic [ref=f1e1178] [cursor=pointer]: Oberhausen
+                      - listitem [ref=f1e1182]:
+                        - generic [ref=f1e1183] [cursor=pointer]: Offenburg
+                      - listitem [ref=f1e1187]:
+                        - generic [ref=f1e1188] [cursor=pointer]: Oldenburg
+                      - listitem [ref=f1e1192]:
+                        - generic [ref=f1e1193] [cursor=pointer]: Osnabrück
+                      - listitem [ref=f1e1197]:
+                        - generic [ref=f1e1198] [cursor=pointer]: Ottersberg
+                      - listitem [ref=f1e1202]:
+                        - generic [ref=f1e1203] [cursor=pointer]: Paderborn
+                      - listitem [ref=f1e1207]:
+                        - generic [ref=f1e1208] [cursor=pointer]: Radolfzell am Bodensee
+                      - listitem [ref=f1e1212]:
+                        - generic [ref=f1e1213] [cursor=pointer]: Regensburg
+                      - listitem [ref=f1e1217]:
+                        - generic [ref=f1e1218] [cursor=pointer]: Remote Working
+                      - listitem [ref=f1e1222]:
+                        - generic [ref=f1e1223] [cursor=pointer]: Rostock
+                      - listitem [ref=f1e1227]:
+                        - generic [ref=f1e1228] [cursor=pointer]: Rottenburg
+                      - listitem [ref=f1e1232]:
+                        - generic [ref=f1e1233] [cursor=pointer]: Saarbrücken
+                      - listitem [ref=f1e1237]:
+                        - generic [ref=f1e1238] [cursor=pointer]: Salzgitter
+                      - listitem [ref=f1e1242]:
+                        - generic [ref=f1e1243] [cursor=pointer]: Sankt Augustin
+                      - listitem [ref=f1e1247]:
+                        - generic [ref=f1e1248] [cursor=pointer]: Schloß Holte-Stukenbrock
+                      - listitem [ref=f1e1252]:
+                        - generic [ref=f1e1253] [cursor=pointer]: Schwabach
+                      - listitem [ref=f1e1257]:
+                        - generic [ref=f1e1258] [cursor=pointer]: Seligenstadt
+                      - listitem [ref=f1e1262]:
+                        - generic [ref=f1e1263] [cursor=pointer]: Siegen
+                      - listitem [ref=f1e1267]:
+                        - generic [ref=f1e1268] [cursor=pointer]: Solingen
+                      - listitem [ref=f1e1272]:
+                        - generic [ref=f1e1273] [cursor=pointer]: St. Augustin
+                      - listitem [ref=f1e1277]:
+                        - generic [ref=f1e1278] [cursor=pointer]: Stuttgart
+                      - listitem [ref=f1e1282]:
+                        - generic [ref=f1e1283] [cursor=pointer]: Unterschleißheim
+                      - listitem [ref=f1e1287]:
+                        - generic [ref=f1e1288] [cursor=pointer]: Villingen-Schwenningen
+                      - listitem [ref=f1e1292]:
+                        - generic [ref=f1e1293] [cursor=pointer]: Vöhringen
+                      - listitem [ref=f1e1297]:
+                        - generic [ref=f1e1298] [cursor=pointer]: Walluf
+                      - listitem [ref=f1e1302]:
+                        - generic [ref=f1e1303] [cursor=pointer]: Weimar
+                      - listitem [ref=f1e1307]:
+                        - generic [ref=f1e1308] [cursor=pointer]: Weissach
+                      - listitem [ref=f1e1312]:
+                        - generic [ref=f1e1313] [cursor=pointer]: Wetzlar
+                      - listitem [ref=f1e1317]:
+                        - generic [ref=f1e1318] [cursor=pointer]: Wiesbaden
+                      - listitem [ref=f1e1322]:
+                        - generic [ref=f1e1323] [cursor=pointer]: Wismar
+                      - listitem [ref=f1e1327]:
+                        - generic [ref=f1e1328] [cursor=pointer]: Wolfsburg
+                      - listitem [ref=f1e1332]:
+                        - generic [ref=f1e1333] [cursor=pointer]: Würselen
+                      - listitem [ref=f1e1337]:
+                        - generic [ref=f1e1338] [cursor=pointer]: Würzburg
+                  - listitem [ref=f1e1342]:
+                    - button "Frankreich" [ref=f1e1343] [cursor=pointer]
+                    - list [ref=f1e1347]:
+                      - listitem [ref=f1e1348]:
+                        - generic [ref=f1e1349] [cursor=pointer]: Illkirch-Graffenstaden
+                      - listitem [ref=f1e1353]:
+                        - generic [ref=f1e1354] [cursor=pointer]: Paris
+                  - listitem [ref=f1e1358]:
+                    - button "Großbritannien" [ref=f1e1359] [cursor=pointer]
+                    - list [ref=f1e1363]:
+                      - listitem [ref=f1e1364]:
+                        - generic [ref=f1e1365] [cursor=pointer]: Chippenham
+                      - listitem [ref=f1e1369]:
+                        - generic [ref=f1e1370] [cursor=pointer]: Manchester
+                  - listitem [ref=f1e1374]:
+                    - button "Niederlande" [ref=f1e1375] [cursor=pointer]
+                    - list [ref=f1e1379]:
+                      - listitem [ref=f1e1380]:
+                        - generic [ref=f1e1381] [cursor=pointer]: Eindhoven
+                      - listitem [ref=f1e1385]:
+                        - generic [ref=f1e1386] [cursor=pointer]: Hoofddorp
+                      - listitem [ref=f1e1390]:
+                        - generic [ref=f1e1391] [cursor=pointer]: Maastricht
+                      - listitem [ref=f1e1395]:
+                        - generic [ref=f1e1396] [cursor=pointer]: Pelt
+                      - listitem [ref=f1e1400]:
+                        - generic [ref=f1e1401] [cursor=pointer]: Utrecht
+                  - listitem [ref=f1e1405]:
+                    - button "Österreich" [ref=f1e1406] [cursor=pointer]
+                    - list [ref=f1e1410]:
+                      - listitem [ref=f1e1411]:
+                        - generic [ref=f1e1412] [cursor=pointer]: Gleisdorf
+                      - listitem [ref=f1e1416]:
+                        - generic [ref=f1e1417] [cursor=pointer]: Götzis
+                      - listitem [ref=f1e1421]:
+                        - generic [ref=f1e1422] [cursor=pointer]: Graz
+                      - listitem [ref=f1e1426]:
+                        - generic [ref=f1e1427] [cursor=pointer]: Innsbruck
+                      - listitem [ref=f1e1431]:
+                        - generic [ref=f1e1432] [cursor=pointer]: Klagenfurt am Wörthersee
+                      - listitem [ref=f1e1436]:
+                        - generic [ref=f1e1437] [cursor=pointer]: Linz
+                      - listitem [ref=f1e1441]:
+                        - generic [ref=f1e1442] [cursor=pointer]: Remote Working
+                      - listitem [ref=f1e1446]:
+                        - generic [ref=f1e1447] [cursor=pointer]: St. Pölten
+                      - listitem [ref=f1e1451]:
+                        - generic [ref=f1e1452] [cursor=pointer]: Traun
+                      - listitem [ref=f1e1456]:
+                        - generic [ref=f1e1457] [cursor=pointer]: Wels
+                      - listitem [ref=f1e1461]:
+                        - generic [ref=f1e1462] [cursor=pointer]: Wien
+                      - listitem [ref=f1e1466]:
+                        - generic [ref=f1e1467] [cursor=pointer]: Wiener Neudorf
+                  - listitem [ref=f1e1471]:
+                    - button "Schweiz" [ref=f1e1472] [cursor=pointer]
+                    - list [ref=f1e1476]:
+                      - listitem [ref=f1e1477]:
+                        - generic [ref=f1e1478] [cursor=pointer]: Basel
+                      - listitem [ref=f1e1482]:
+                        - generic [ref=f1e1483] [cursor=pointer]: Bern
+                      - listitem [ref=f1e1487]:
+                        - generic [ref=f1e1488] [cursor=pointer]: Dübendorf
+                      - listitem [ref=f1e1492]:
+                        - generic [ref=f1e1493] [cursor=pointer]: Mägenwil
+                      - listitem [ref=f1e1497]:
+                        - generic [ref=f1e1498] [cursor=pointer]: Rotkreuz
+                      - listitem [ref=f1e1502]:
+                        - generic [ref=f1e1503] [cursor=pointer]: St. Gallen
+                  - listitem [ref=f1e1507]:
+                    - button "Spanien" [ref=f1e1508] [cursor=pointer]
+                    - list [ref=f1e1512]:
+                      - listitem [ref=f1e1513]:
+                        - generic [ref=f1e1514] [cursor=pointer]: Sevilla
+                  - listitem [ref=f1e1518]:
+                    - button "Tschechische Republik" [ref=f1e1519] [cursor=pointer]
+                    - list [ref=f1e1523]:
+                      - listitem [ref=f1e1524]:
+                        - generic [ref=f1e1525] [cursor=pointer]: Prag
+                  - listitem [ref=f1e1529]:
+                    - button "Ungarn" [ref=f1e1530] [cursor=pointer]
+                    - list [ref=f1e1534]:
+                      - listitem [ref=f1e1535]:
+                        - generic [ref=f1e1536] [cursor=pointer]: Budapest
+                      - listitem [ref=f1e1540]:
+                        - generic [ref=f1e1541] [cursor=pointer]: Remote Working
+            - generic [ref=f1e1546]:
+              - button "Einstiegslevel" [ref=f1e1547] [cursor=pointer]
+              - generic [ref=f1e1551]:
+                - list:
+                  - listitem [ref=f1e1552]:
+                    - generic [ref=f1e1553] [cursor=pointer]: Abschlussarbeit
+                  - listitem [ref=f1e1557]:
+                    - generic [ref=f1e1558] [cursor=pointer]: Ausbildungsplatz
+                  - listitem [ref=f1e1562]:
+                    - generic [ref=f1e1563] [cursor=pointer]: Aushilfstätigkeit
+                  - listitem [ref=f1e1567]:
+                    - generic [ref=f1e1568] [cursor=pointer]: Berufseinstieg
+                  - listitem [ref=f1e1572]:
+                    - generic [ref=f1e1573] [cursor=pointer]: Dualer Studienplatz
+                  - listitem [ref=f1e1577]:
+                    - generic [ref=f1e1578] [cursor=pointer]: Fachposition
+                  - listitem [ref=f1e1582]:
+                    - generic [ref=f1e1583] [cursor=pointer]: Führungsposition
+                  - listitem [ref=f1e1587]:
+                    - generic [ref=f1e1588] [cursor=pointer]: Praktikum
+                  - listitem [ref=f1e1592]:
+                    - generic [ref=f1e1593] [cursor=pointer]: Quereinstiegsprogramm
+                  - listitem [ref=f1e1597]:
+                    - generic [ref=f1e1598] [cursor=pointer]: Schüler:innenpraktikum
+                  - listitem [ref=f1e1602]:
+                    - generic [ref=f1e1603] [cursor=pointer]: Traineeprogramm
+                  - listitem [ref=f1e1607]:
+                    - generic [ref=f1e1608] [cursor=pointer]: Werkstudent:innentätigkeit
+            - generic [ref=f1e1613]:
+              - button "Tätigkeitsbereich" [ref=f1e1614] [cursor=pointer]
+              - generic [ref=f1e1618]:
+                - list:
+                  - listitem [ref=f1e1619]:
+                    - generic [ref=f1e1620] [cursor=pointer]: Einkauf
+                  - listitem [ref=f1e1624]:
+                    - generic [ref=f1e1625] [cursor=pointer]: IT
+                  - listitem [ref=f1e1629]:
+                    - generic [ref=f1e1630] [cursor=pointer]: Logistik
+                  - listitem [ref=f1e1634]:
+                    - generic [ref=f1e1635] [cursor=pointer]: Marketing
+                  - listitem [ref=f1e1639]:
+                    - generic [ref=f1e1640] [cursor=pointer]: Produktmanagement
+                  - listitem [ref=f1e1644]:
+                    - generic [ref=f1e1645] [cursor=pointer]: Projektmanagement
+                  - listitem [ref=f1e1649]:
+                    - generic [ref=f1e1650] [cursor=pointer]: Vertrieb
+                  - listitem [ref=f1e1654]:
+                    - generic [ref=f1e1655] [cursor=pointer]: Zentrale Services
+            - generic [ref=f1e1660]:
+              - button "Gesellschaft" [ref=f1e1661] [cursor=pointer]
+              - generic [ref=f1e1665]:
+                - list:
+                  - listitem [ref=f1e1666]:
+                    - generic [ref=f1e1667] [cursor=pointer]: ARP Nederland B.V.
+                  - listitem [ref=f1e1671]:
+                    - generic [ref=f1e1672] [cursor=pointer]: Bechtle AG
+                  - listitem [ref=f1e1676]:
+                    - generic [ref=f1e1677] [cursor=pointer]: Bechtle Austria GmbH
+                  - listitem [ref=f1e1681]:
+                    - generic [ref=f1e1682] [cursor=pointer]: Bechtle B.V.
+                  - listitem [ref=f1e1686]:
+                    - generic [ref=f1e1687] [cursor=pointer]: Bechtle Clouds GmbH
+                  - listitem [ref=f1e1691]:
+                    - generic [ref=f1e1692] [cursor=pointer]: Bechtle Comsoft SAS
+                  - listitem [ref=f1e1696]:
+                    - generic [ref=f1e1697] [cursor=pointer]: Bechtle direct Kft.
+                  - listitem [ref=f1e1701]:
+                    - generic [ref=f1e1702] [cursor=pointer]: Bechtle direct GmbH
+                  - listitem [ref=f1e1706]:
+                    - generic [ref=f1e1707] [cursor=pointer]: Bechtle direct SAS
+                  - listitem [ref=f1e1711]:
+                    - generic [ref=f1e1712] [cursor=pointer]: Bechtle Financial Services AG
+                  - listitem [ref=f1e1716]:
+                    - generic [ref=f1e1717] [cursor=pointer]: Bechtle GmbH - IT Systemhaus Hannover/Gütersloh
+                  - listitem [ref=f1e1721]:
+                    - generic [ref=f1e1722] [cursor=pointer]: Bechtle GmbH & Co. KG Chemnitz
+                  - listitem [ref=f1e1726]:
+                    - generic [ref=f1e1727] [cursor=pointer]: Bechtle GmbH & Co. KG IT-Systemhaus Darmstadt
+                  - listitem [ref=f1e1731]:
+                    - generic [ref=f1e1732] [cursor=pointer]: Bechtle GmbH & Co. KG Mannheim
+                  - listitem [ref=f1e1736]:
+                    - generic [ref=f1e1737] [cursor=pointer]: Bechtle GmbH & Co. KG Neckarsulm
+                  - listitem [ref=f1e1741]:
+                    - generic [ref=f1e1742] [cursor=pointer]: Bechtle GmbH & Co. KG Regensburg
+                  - listitem [ref=f1e1746]:
+                    - generic [ref=f1e1747] [cursor=pointer]: Bechtle GmbH & Co.KG Bonn/Köln
+                  - listitem [ref=f1e1751]:
+                    - generic [ref=f1e1752] [cursor=pointer]: Bechtle GmbH Berlin
+                  - listitem [ref=f1e1756]:
+                    - generic [ref=f1e1757] [cursor=pointer]: Bechtle GmbH Bodensee
+                  - listitem [ref=f1e1761]:
+                    - generic [ref=f1e1762] [cursor=pointer]: Bechtle GmbH Frankfurt am Main
+                  - listitem [ref=f1e1766]:
+                    - generic [ref=f1e1767] [cursor=pointer]: Bechtle GmbH Freiburg im Breisgau
+                  - listitem [ref=f1e1771]:
+                    - generic [ref=f1e1772] [cursor=pointer]: Bechtle GmbH Hamburg
+                  - listitem [ref=f1e1776]:
+                    - generic [ref=f1e1777] [cursor=pointer]: Bechtle GmbH IT-Systemhaus Bremen
+                  - listitem [ref=f1e1781]:
+                    - generic [ref=f1e1782] [cursor=pointer]: Bechtle GmbH IT-Systemhaus Rheinland
+                  - listitem [ref=f1e1786]:
+                    - generic [ref=f1e1787] [cursor=pointer]: Bechtle GmbH IT-Systemhaus Stuttgart/Rottenburg
+                  - listitem [ref=f1e1791]:
+                    - generic [ref=f1e1792] [cursor=pointer]: Bechtle GmbH IT-Systemhaus Westfalen-Niederrhein
+                  - listitem [ref=f1e1796]:
+                    - generic [ref=f1e1797] [cursor=pointer]: Bechtle GmbH Karlsruhe/Offenburg
+                  - listitem [ref=f1e1801]:
+                    - generic [ref=f1e1802] [cursor=pointer]: Bechtle GmbH Nürnberg/Würzburg
+                  - listitem [ref=f1e1806]:
+                    - generic [ref=f1e1807] [cursor=pointer]: Bechtle GmbH Saarbrücken
+                  - listitem [ref=f1e1811]:
+                    - generic [ref=f1e1812] [cursor=pointer]: Bechtle GmbH Weimar
+                  - listitem [ref=f1e1816]:
+                    - generic [ref=f1e1817] [cursor=pointer]: Bechtle Holding Schweiz AG
+                  - listitem [ref=f1e1821]:
+                    - generic [ref=f1e1822] [cursor=pointer]: Bechtle International Division GmbH (BID)
+                  - listitem [ref=f1e1826]:
+                    - generic [ref=f1e1827] [cursor=pointer]: Bechtle International Operations Holding AG
+                  - listitem [ref=f1e1831]:
+                    - generic [ref=f1e1832] [cursor=pointer]: Bechtle Logistik & Service GmbH
+                  - listitem [ref=f1e1836]:
+                    - generic [ref=f1e1837] [cursor=pointer]: Bechtle Ltd.
+                  - listitem [ref=f1e1841]:
+                    - generic [ref=f1e1842] [cursor=pointer]: Bechtle Managed Services GmbH
+                  - listitem [ref=f1e1846]:
+                    - generic [ref=f1e1847] [cursor=pointer]: Bechtle Managed Services s.r.o.
+                  - listitem [ref=f1e1851]:
+                    - generic [ref=f1e1852] [cursor=pointer]: Bechtle Management B.V.
+                  - listitem [ref=f1e1856]:
+                    - generic [ref=f1e1857] [cursor=pointer]: Bechtle Management E.u.r.l.
+                  - listitem [ref=f1e1861]:
+                    - generic [ref=f1e1862] [cursor=pointer]: Bechtle Management GmbH
+                  - listitem [ref=f1e1866]:
+                    - generic [ref=f1e1867] [cursor=pointer]: Bechtle NV
+                  - listitem [ref=f1e1871]:
+                    - generic [ref=f1e1872] [cursor=pointer]: Bechtle PLM Austria GmbH
+                  - listitem [ref=f1e1876]:
+                    - generic [ref=f1e1877] [cursor=pointer]: Bechtle PLM Deutschland GmbH
+                  - listitem [ref=f1e1881]:
+                    - generic [ref=f1e1882] [cursor=pointer]: Bechtle Schweiz AG
+                  - listitem [ref=f1e1886]:
+                    - generic [ref=f1e1887] [cursor=pointer]: Bechtle-Comsoft GmbH
+                  - listitem [ref=f1e1891]:
+                    - generic [ref=f1e1892] [cursor=pointer]: Bücker IT-Security GmbH
+                  - listitem [ref=f1e1896]:
+                    - generic [ref=f1e1897] [cursor=pointer]: Cadmes Systems B.V.
+                  - listitem [ref=f1e1901]:
+                    - generic [ref=f1e1902] [cursor=pointer]: KubeOps GmbH
+                  - listitem [ref=f1e1906]:
+                    - generic [ref=f1e1907] [cursor=pointer]: Planet AI
+                  - listitem [ref=f1e1911]:
+                    - generic [ref=f1e1912] [cursor=pointer]: PQR B.V.
+                  - listitem [ref=f1e1916]:
+                    - generic [ref=f1e1917] [cursor=pointer]: smartpoint dataformers GmbH
+                  - listitem [ref=f1e1921]:
+                    - generic [ref=f1e1922] [cursor=pointer]: SOLUTIA INNOVAWORLD TECHNOLOGIES, S.L.
+            - button "Job finden" [ref=f1e1927] [cursor=pointer]
+          - button "Filter zurücksetzen" [ref=f1e1929] [cursor=pointer]
+        - generic [ref=f1e1932]:
+          - generic [ref=f1e1933]:
+            - heading "Karriere bei Bechtle." [level=1] [ref=f1e1934]
+            - paragraph [ref=f1e1935]: Du willst viel bewegen? Dann kannst du bei uns alles erreichen. Bei Bechtle findest du vielfältige Möglichkeiten, deine Talente einzubringen.Wir bieten dir spannende Aufgaben und die Chance, gemeinsam mit uns die IT-Zukunft zu gestalten. Bereit für Bechtle?
+          - generic [ref=f1e1937]:
+            - generic [ref=f1e1938]:
+              - link "Neu Bechtle GmbH Nürnberg/Würzburg Zu Favoriten hinzufügen IT Support Security Engineer - Managed Services (w/m/d) Nürnberg DE, Würzburg DE IT Fachposition" [ref=f1e1940] [cursor=pointer]:
+                - /url: https://jobs.bechtle.com/job-invite/80577/?locale=de_DE
+                - generic [ref=f1e1941]:
+                  - generic [ref=f1e1942]:
+                    - generic [ref=f1e1943]: Neu
+                    - paragraph [ref=f1e1944]: Bechtle GmbH Nürnberg/Würzburg
+                    - generic "Zu Favoriten hinzufügen" [ref=f1e1946]:
+                      - button "Zu Favoriten hinzufügen" [ref=f1e1947]
+                  - generic [ref=f1e1951]:
+                    - heading "IT Support Security Engineer - Managed Services (w/m/d)" [level=2] [ref=f1e1952]
+                    - generic [ref=f1e1957]:
+                      - generic [ref=f1e1958]: Nürnberg DE,
+                      - generic [ref=f1e1959]: Würzburg DE
+                    - generic [ref=f1e1960]:
+                      - paragraph [ref=f1e1961]: IT
+                      - paragraph [ref=f1e1962]: Fachposition
+              - link "Neu Bechtle AG Zu Favoriten hinzufügen (Pflicht-) Praktikum bei Bechtle Neckarsulm DE Zentrale Services Praktikum" [ref=f1e1964] [cursor=pointer]:
+                - /url: https://jobs.bechtle.com/job-invite/47944/?locale=de_DE
+                - generic [ref=f1e1965]:
+                  - generic [ref=f1e1966]:
+                    - generic [ref=f1e1967]: Neu
+                    - paragraph [ref=f1e1968]: Bechtle AG
+                    - generic "Zu Favoriten hinzufügen" [ref=f1e1970]:
+                      - button "Zu Favoriten hinzufügen" [ref=f1e1971]
+                  - generic [ref=f1e1975]:
+                    - heading "(Pflicht-) Praktikum bei Bechtle" [level=2] [ref=f1e1976]
+                    - generic [ref=f1e1977]: Neckarsulm DE
+                    - generic [ref=f1e1983]:
+                      - paragraph [ref=f1e1984]: Zentrale Services
+                      - paragraph [ref=f1e1985]: Praktikum
+              - link "Neu PQR B.V. Zu Favoriten hinzufügen Communicatieadviseur Utrecht NL Vertrieb Fachposition" [ref=f1e1987] [cursor=pointer]:
+                - /url: https://jobs.bechtle.com/job-invite/82851/?locale=de_DE
+                - generic [ref=f1e1988]:
+                  - generic [ref=f1e1989]:
+                    - generic [ref=f1e1990]: Neu
+                    - paragraph [ref=f1e1991]: PQR B.V.
+                    - generic "Zu Favoriten hinzufügen" [ref=f1e1993]:
+                      - button "Zu Favoriten hinzufügen" [ref=f1e1994]
+                  - generic [ref=f1e1998]:
+                    - heading "Communicatieadviseur" [level=2] [ref=f1e1999]
+                    - generic [ref=f1e2000]: Utrecht NL
+                    - generic [ref=f1e2006]:
+                      - paragraph [ref=f1e2007]: Vertrieb
+                      - paragraph [ref=f1e2008]: Fachposition
+              - link "Neu Bechtle GmbH & Co.KG Bonn/Köln Zu Favoriten hinzufügen Senior Cloud Solution Architect (w/m/d) Bonn DE IT Fachposition" [ref=f1e2010] [cursor=pointer]:
+                - /url: https://jobs.bechtle.com/job-invite/82847/?locale=de_DE
+                - generic [ref=f1e2011]:
+                  - generic [ref=f1e2012]:
+                    - generic [ref=f1e2013]: Neu
+                    - paragraph [ref=f1e2014]: Bechtle GmbH & Co.KG Bonn/Köln
+                    - generic "Zu Favoriten hinzufügen" [ref=f1e2016]:
+                      - button "Zu Favoriten hinzufügen" [ref=f1e2017]
+                  - generic [ref=f1e2021]:
+                    - heading "Senior Cloud Solution Architect (w/m/d)" [level=2] [ref=f1e2022]
+                    - generic [ref=f1e2023]: Bonn DE
+                    - generic [ref=f1e2029]:
+                      - paragraph [ref=f1e2030]: IT
+                      - paragraph [ref=f1e2031]: Fachposition
+              - link "Neu Bechtle Logistik & Service GmbH Zu Favoriten hinzufügen Business Development Manager - Secure Networking (w/m/d) Neckarsulm DE + 2 mehr Bielefeld DE Hamburg DE Produktmanagement Fachposition" [ref=f1e2033] [cursor=pointer]:
+                - /url: https://jobs.bechtle.com/job-invite/82848/?locale=de_DE
+                - generic [ref=f1e2034]:
+                  - generic [ref=f1e2035]:
+                    - generic [ref=f1e2036]: Neu
+                    - paragraph [ref=f1e2037]: Bechtle Logistik & Service GmbH
+                    - generic "Zu Favoriten hinzufügen" [ref=f1e2039]:
+                      - button "Zu Favoriten hinzufügen" [ref=f1e2040]
+                  - generic [ref=f1e2044]:
+                    - heading "Business Development Manager - Secure Networking (w/m/d)" [level=2] [ref=f1e2045]
+                    - generic [ref=f1e2050]:
+                      - generic [ref=f1e2051]: Neckarsulm DE
+                      - button "+ 2 mehr" [ref=f1e2052]
+                      - list [ref=f1e2053]:
+                        - listitem [ref=f1e2054]: Bielefeld DE
+                        - listitem [ref=f1e2055]: Hamburg DE
+                    - generic [ref=f1e2056]:
+                      - paragraph [ref=f1e2057]: Produktmanagement
+                      - paragraph [ref=f1e2058]: Fachposition
+              - link "Neu PQR B.V. Zu Favoriten hinzufügen Marketing Manager Utrecht NL Vertrieb Führungsposition" [ref=f1e2060] [cursor=pointer]:
+                - /url: https://jobs.bechtle.com/job-invite/82849/?locale=de_DE
+                - generic [ref=f1e2061]:
+                  - generic [ref=f1e2062]:
+                    - generic [ref=f1e2063]: Neu
+                    - paragraph [ref=f1e2064]: PQR B.V.
+                    - generic "Zu Favoriten hinzufügen" [ref=f1e2066]:
+                      - button "Zu Favoriten hinzufügen" [ref=f1e2067]
+                  - generic [ref=f1e2071]:
+                    - heading "Marketing Manager" [level=2] [ref=f1e2072]
+                    - generic [ref=f1e2073]: Utrecht NL
+                    - generic [ref=f1e2079]:
+                      - paragraph [ref=f1e2080]: Vertrieb
+                      - paragraph [ref=f1e2081]: Führungsposition
+              - link "Neu PQR B.V. Zu Favoriten hinzufügen Strategisch IT Architect Utrecht NL Vertrieb Quereinstiegsprogramm" [ref=f1e2083] [cursor=pointer]:
+                - /url: https://jobs.bechtle.com/job-invite/82811/?locale=de_DE
+                - generic [ref=f1e2084]:
+                  - generic [ref=f1e2085]:
+                    - generic [ref=f1e2086]: Neu
+                    - paragraph [ref=f1e2087]: PQR B.V.
+                    - generic "Zu Favoriten hinzufügen" [ref=f1e2089]:
+                      - button "Zu Favoriten hinzufügen" [ref=f1e2090]
+                  - generic [ref=f1e2094]:
+                    - heading "Strategisch IT Architect" [level=2] [ref=f1e2095]
+                    - generic [ref=f1e2096]: Utrecht NL
+                    - generic [ref=f1e2102]:
+                      - paragraph [ref=f1e2103]: Vertrieb
+                      - paragraph [ref=f1e2104]: Quereinstiegsprogramm
+              - link "Neu Bechtle International Operations Holding AG Zu Favoriten hinzufügen Power BI Specialist & Data Analyst (w/m/d) Neckarsulm DE Projektmanagement Fachposition" [ref=f1e2106] [cursor=pointer]:
+                - /url: https://jobs.bechtle.com/job-invite/82846/?locale=de_DE
+                - generic [ref=f1e2107]:
+                  - generic [ref=f1e2108]:
+                    - generic [ref=f1e2109]: Neu
+                    - paragraph [ref=f1e2110]: Bechtle International Operations Holding AG
+                    - generic "Zu Favoriten hinzufügen" [ref=f1e2112]:
+                      - button "Zu Favoriten hinzufügen" [ref=f1e2113]
+                  - generic [ref=f1e2117]:
+                    - heading "Power BI Specialist & Data Analyst (w/m/d)" [level=2] [ref=f1e2118]
+                    - generic [ref=f1e2119]: Neckarsulm DE
+                    - generic [ref=f1e2125]:
+                      - paragraph [ref=f1e2126]: Projektmanagement
+                      - paragraph [ref=f1e2127]: Fachposition
+              - link "Neu Bechtle Logistik & Service GmbH Zu Favoriten hinzufügen Product Manager Lenovo (w/m/d) Neckarsulm DE Produktmanagement Fachposition" [ref=f1e2129] [cursor=pointer]:
+                - /url: https://jobs.bechtle.com/job-invite/82731/?locale=de_DE
+                - generic [ref=f1e2130]:
+                  - generic [ref=f1e2131]:
+                    - generic [ref=f1e2132]: Neu
+                    - paragraph [ref=f1e2133]: Bechtle Logistik & Service GmbH
+                    - generic "Zu Favoriten hinzufügen" [ref=f1e2135]:
+                      - button "Zu Favoriten hinzufügen" [ref=f1e2136]
+                  - generic [ref=f1e2140]:
+                    - heading "Product Manager Lenovo (w/m/d)" [level=2] [ref=f1e2141]
+                    - generic [ref=f1e2142]: Neckarsulm DE
+                    - generic [ref=f1e2148]:
+                      - paragraph [ref=f1e2149]: Produktmanagement
+                      - paragraph [ref=f1e2150]: Fachposition
+              - link "Neu Bechtle GmbH & Co.KG Bonn/Köln Zu Favoriten hinzufügen Werkstudent interne Datenpflege & Assetmanagement (w/m/d) Bonn DE Zentrale Services Werkstudent:innentätigkeit" [ref=f1e2152] [cursor=pointer]:
+                - /url: https://jobs.bechtle.com/job-invite/82838/?locale=de_DE
+                - generic [ref=f1e2153]:
+                  - generic [ref=f1e2154]:
+                    - generic [ref=f1e2155]: Neu
+                    - paragraph [ref=f1e2156]: Bechtle GmbH & Co.KG Bonn/Köln
+                    - generic "Zu Favoriten hinzufügen" [ref=f1e2158]:
+                      - button "Zu Favoriten hinzufügen" [ref=f1e2159]
+                  - generic [ref=f1e2163]:
+                    - heading "Werkstudent interne Datenpflege & Assetmanagement (w/m/d)" [level=2] [ref=f1e2164]
+                    - generic [ref=f1e2165]: Bonn DE
+                    - generic [ref=f1e2171]:
+                      - paragraph [ref=f1e2172]: Zentrale Services
+                      - paragraph [ref=f1e2173]: Werkstudent:innentätigkeit
+              - link "Neu Bechtle Managed Services GmbH Zu Favoriten hinzufügen Studentische Hilfskraft - Bereich Lager & Technik (w/m/d) Neckarsulm DE IT Aushilfstätigkeit" [ref=f1e2175] [cursor=pointer]:
+                - /url: https://jobs.bechtle.com/job-invite/82467/?locale=de_DE
+                - generic [ref=f1e2176]:
+                  - generic [ref=f1e2177]:
+                    - generic [ref=f1e2178]: Neu
+                    - paragraph [ref=f1e2179]: Bechtle Managed Services GmbH
+                    - generic "Zu Favoriten hinzufügen" [ref=f1e2181]:
+                      - button "Zu Favoriten hinzufügen" [ref=f1e2182]
+                  - generic [ref=f1e2186]:
+                    - heading "Studentische Hilfskraft - Bereich Lager & Technik (w/m/d)" [level=2] [ref=f1e2187]
+                    - generic [ref=f1e2188]: Neckarsulm DE
+                    - generic [ref=f1e2194]:
+                      - paragraph [ref=f1e2195]: IT
+                      - paragraph [ref=f1e2196]: Aushilfstätigkeit
+              - link "Neu Bechtle Managed Services GmbH Zu Favoriten hinzufügen IT Mitarbeiter Staging / Wiping (w/m/d) Neckarsulm DE IT Fachposition" [ref=f1e2198] [cursor=pointer]:
+                - /url: https://jobs.bechtle.com/job-invite/78305/?locale=de_DE
+                - generic [ref=f1e2199]:
+                  - generic [ref=f1e2200]:
+                    - generic [ref=f1e2201]: Neu
+                    - paragraph [ref=f1e2202]: Bechtle Managed Services GmbH
+                    - generic "Zu Favoriten hinzufügen" [ref=f1e2204]:
+                      - button "Zu Favoriten hinzufügen" [ref=f1e2205]
+                  - generic [ref=f1e2209]:
+                    - heading "IT Mitarbeiter Staging / Wiping (w/m/d)" [level=2] [ref=f1e2210]
+                    - generic [ref=f1e2211]: Neckarsulm DE
+                    - generic [ref=f1e2217]:
+                      - paragraph [ref=f1e2218]: IT
+                      - paragraph [ref=f1e2219]: Fachposition
+            - 'button "{0} weitere Jobs anzeigen" [ref=f1e2221] [cursor=pointer]': Mehr Jobs anzeigen.
+        - generic [ref=f1e2224]:
+          - heading "Das könnte dich auch interessieren." [level=2] [ref=f1e2225]
+          - generic [ref=f1e2226]:
+            - generic [ref=f1e2227]:
+              - img "Eine lächelnde Frau sitzt mit einem Tablet in einer Büroumgebung." [ref=f1e2228]
+              - generic [ref=f1e2229]:
+                - heading "Ergreife die Initiative" [level=3] [ref=f1e2230]
+                - paragraph [ref=f1e2231]: Kein passendes Angebot gefunden? Dann freuen wir uns auf deine Initiativbewerbung unter Angabe deines Wunschbereichs.
+                - link "Jetzt bewerben" [ref=f1e2233] [cursor=pointer]:
+                  - /url: https://bechtle-production.p78quickapply.com/comp78sfrecruitingp78quickapplyui/index.html?Reqid=42719&sap-language=de_DE&sap-theme=bechtlequickapplytheme&sap-ui-versionedLibCss=true&utm_source=p78QuickApply&utm_campaign=p78QuickApply#/Attachment
+            - generic [ref=f1e2236]:
+              - img "Zwei Männer und eine Frau unterhalten sich an einem Tisch während sie einen Kaffee trinken." [ref=f1e2237]
+              - generic [ref=f1e2238]:
+                - heading "Dein Weg zu uns" [level=3] [ref=f1e2239]
+                - paragraph [ref=f1e2240]: Lerne unseren schlanken Bewerbungsprozess kennen und erhalte Bewerbungstipps aus erster Hand.
+                - link "Mehr erfahren" [ref=f1e2242] [cursor=pointer]:
+                  - /url: https://www.bechtle.com/karriere/bewerbung-und-einstieg
+            - generic [ref=f1e2245]:
+              - img "Eine Frau mit einem Laptop im Arm schaut lächelnd in die Kamera." [ref=f1e2246]
+              - generic [ref=f1e2247]:
+                - heading "Noch Fragen?" [level=3] [ref=f1e2248]
+                - paragraph [ref=f1e2249]: Wir sind immer für dich da und helfen dir gerne persönlich weiter, wenn du mehr zu deiner Karriere bei Bechtle wissen möchtest.
+                - link "Kontaktiere uns" [ref=f1e2251] [cursor=pointer]:
+                  - /url: https://www.bechtle.com/karriere/kontakt
+        - generic [ref=f1e2257]:
+          - button "Job Alert" [ref=f1e2259] [cursor=pointer]
+          - link "Favoriten" [ref=f1e2263] [cursor=pointer]:
+            - /url: https://jobs.bechtle.com/default/content/favorites/?locale=de_DE
+          - button "Profil" [ref=f1e2268] [cursor=pointer]
+        - button [ref=f1e2275] [cursor=pointer]
+    - generic [ref=f1e2280]:
+      - generic [ref=f1e2281]:
+        - generic [ref=f1e2282]:
+          - link "Instagram" [ref=f1e2284] [cursor=pointer]:
+            - /url: https://www.instagram.com/bechtlekarriere/
+          - link "LinkedIn" [ref=f1e2290] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/bechtle
+          - link "Xing" [ref=f1e2296] [cursor=pointer]:
+            - /url: https://www.xing.com/companies/bechtleag
+          - link "Youtube" [ref=f1e2302] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/BechtleAG
+        - generic [ref=f1e2307]:
+          - button "Über Bechtle" [ref=f1e2308] [cursor=pointer]
+          - button "Impressum" [ref=f1e2309] [cursor=pointer]
+          - button "Datenschutzerklärung" [ref=f1e2310] [cursor=pointer]
+          - button "Cookie Consent Manager" [ref=f1e2311] [cursor=pointer]
+      - generic [ref=f1e2312]: © 2026 - Bechtle AG
+  - generic: Ja Nein   Ja Nein Ja Nein   Ja Nein Ja Nein   Ja Nein Ja Nein

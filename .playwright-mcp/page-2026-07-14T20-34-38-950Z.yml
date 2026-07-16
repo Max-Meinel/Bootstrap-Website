@@ -1,0 +1,327 @@
+- generic [active] [ref=f12e1]:
+  - banner [ref=f12e4]:
+    - generic [ref=f12e6]:
+      - navigation "Brand Navigation" [ref=f12e7]:
+        - list [ref=f12e8]:
+          - listitem [ref=f12e9]:
+            - link "Schwarz Gruppe" [ref=f12e10] [cursor=pointer]:
+              - /url: https://gruppe.schwarz
+      - link "Bookmark" [ref=f12e13] [cursor=pointer]:
+        - /url: "#"
+        - figure [ref=f12e14]
+    - generic [ref=f12e17]:
+      - link "DigitsLogoNeu" [ref=f12e19] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f12e25]:
+        - navigation "Hamburger Navigation" [ref=f12e26]:
+          - list [ref=f12e27]:
+            - listitem [ref=f12e28]:
+              - link "Digitale Souveränität" [ref=f12e29] [cursor=pointer]:
+                - /url: /digitale-souveraenitaet
+            - listitem [ref=f12e31]:
+              - button "Produktportfolio" [ref=f12e32] [cursor=pointer]
+            - listitem [ref=f12e34]:
+              - link "Branchen" [ref=f12e35] [cursor=pointer]:
+                - /url: /branchen
+            - listitem [ref=f12e37]:
+              - link "Referenzen" [ref=f12e38] [cursor=pointer]:
+                - /url: /referenzen
+            - listitem [ref=f12e40]:
+              - link "Über uns" [ref=f12e41] [cursor=pointer]:
+                - /url: /ueber-uns-neu
+            - listitem [ref=f12e43]:
+              - button "Publikationen" [ref=f12e44] [cursor=pointer]
+            - listitem [ref=f12e46]:
+              - link "Presse" [ref=f12e47] [cursor=pointer]:
+                - /url: /presse
+            - listitem [ref=f12e49]:
+              - button "Karriere" [ref=f12e50] [cursor=pointer]
+        - link "Newsletter" [ref=f12e53] [cursor=pointer]:
+          - /url: https://schwarz-digits.de/#newsletter
+  - generic [ref=f12e57]:
+    - link "Zur Stellenübersicht" [ref=f12e58] [cursor=pointer]:
+      - /url: https://schwarz-digits.de/jobsearch
+      - figure [ref=f12e60]
+    - generic [ref=f12e62]:
+      - generic [ref=f12e63]:
+        - heading [level=1] [ref=f12e64]:
+          - text: Junior AI Platform Software Engineer - STACKIT
+          - superscript [ref=f12e65]: (m/w/d)
+        - generic [ref=f12e66]:
+          - button "Jetzt bewerben" [ref=f12e68] [cursor=pointer]
+          - generic [ref=f12e70]:
+            - button "Job merken" [ref=f12e71] [cursor=pointer]:
+              - figure [ref=f12e72]
+            - button "Teilen" [ref=f12e74] [cursor=pointer]:
+              - figure [ref=f12e75]
+            - button "Drucken" [ref=f12e76] [cursor=pointer]:
+              - figure [ref=f12e77]
+      - img "Junge Frau sitzt am Schreibtisch vor 2 Monitoren" [ref=f12e79]
+    - list [ref=f12e83]:
+      - listitem [ref=f12e84]:
+        - article [ref=f12e85]:
+          - figure [ref=f12e87]
+          - generic [ref=f12e88]:
+            - heading "Standort" [level=2] [ref=f12e89]
+            - generic [ref=f12e90]: Schönbeinstraße 5-674076 Heilbronn
+      - listitem [ref=f12e92]:
+        - article [ref=f12e93]:
+          - figure [ref=f12e95]
+          - generic [ref=f12e96]:
+            - heading "Abteilung / Bereich" [level=2] [ref=f12e97]
+            - generic [ref=f12e98]: IT - Cloud Services
+      - listitem [ref=f12e100]:
+        - article [ref=f12e101]:
+          - figure [ref=f12e103]
+          - generic [ref=f12e104]:
+            - heading "Einstiegslevel" [level=2] [ref=f12e105]
+            - generic [ref=f12e106]: Berufseinsteiger
+      - listitem [ref=f12e108]:
+        - article [ref=f12e109]:
+          - figure [ref=f12e111]
+          - generic [ref=f12e112]:
+            - heading "Arbeitsmodell" [level=2] [ref=f12e113]
+            - generic [ref=f12e114]: Vollzeit
+      - listitem [ref=f12e116]:
+        - article [ref=f12e117]:
+          - figure [ref=f12e119]
+          - generic [ref=f12e120]:
+            - heading "Referenznummer" [level=2] [ref=f12e121]
+            - generic [ref=f12e122]: "990"
+    - paragraph [ref=f12e127]: "Schwarz Digits schafft das technologische Fundament für digitale Entscheidungsfreiheit in Europa. Als IT- und Digitalsparte der Schwarz Gruppe entwickeln und verantworten wir einerseits die IT-Infrastrukturen für die Handelssparten Lidl und Kaufland sowie die Schwarz Produktion und PreZero. Gleichzeitig agieren wir als unabhängiger Anbieter am externen Markt, um Unternehmen in ganz Europa bei ihrer digitalen Transformation zu unterstützen. Unsere Kernleistungen bündeln wir in den Bereichen Cloud, Cyber Security, Data & AI, Communication und Workspace. Trage auch du zur digitalen Entscheidungsfreiheit in Europa bei.Bei uns arbeitest du an der Schnittstelle zwischen Agilität und Sicherheit: Du profitierst von den schnellen Entscheidungswegen, genießt echte Gestaltungsspielräume in deinen Projekten und baust dabei auf das stabile Fundament der Schwarz Gruppe."
+    - generic [ref=f12e128]:
+      - generic [ref=f12e129]:
+        - heading "Deine Aufgaben" [level=3] [ref=f12e130]
+        - list [ref=f12e133]:
+          - listitem [ref=f12e134]: Du entwickelst eine Data und AI Platform als souveränen Cloud Service
+          - listitem [ref=f12e135]: Du erweiterst die Systemarchitektur und identifizierst relevante Open Source Projekte
+          - listitem [ref=f12e136]: Du entwickelst REST APIs über welche unsere Kunden den Servicelifecycle steuern
+          - listitem [ref=f12e137]: Du entwickelst Kubernetes Operatoren, um den Life Cycle von Cloud Services zu automatisieren
+          - listitem [ref=f12e138]: "Du übernimmst Verantwortung im agilen Produktteam: You Build It - You Run It!"
+          - listitem [ref=f12e139]: Du führst kompetent tiefgreifende Ursachenanalysen durch und identifizierst nachhaltige Lösungen, die du direkt implementierst
+      - generic [ref=f12e140]:
+        - heading "Dein Profil" [level=3] [ref=f12e141]
+        - list [ref=f12e144]:
+          - listitem [ref=f12e145]: Du überzeugst uns mit fundierten Kenntnissen in der Programmierung mit Golang oder vergleichbare Programmiersprachen
+          - listitem [ref=f12e146]: Dabei liegen deine Schwerpunkte in der Softwareentwicklung und Kubernetes und du fühlst dich in Cloud-Umgebungen bereits jetzt zuhause
+          - listitem [ref=f12e147]: Begriffe wie MLOps und Produkte und Services wie Airflow, mlflow oder kserve sind keine Fremdwörter für dich
+          - listitem [ref=f12e148]: Du brennst dafür neue Technologien zu durchdringen und kannst diese in der Praxis umsetzen
+          - listitem [ref=f12e149]: Du hast Spaß daran, dein Wissen mit anderen Teammitgliedern zu teilen
+    - generic [ref=f12e150]:
+      - heading "Unsere Benefits" [level=2] [ref=f12e151]
+      - generic [ref=f12e152]:
+        - button "<p>Ein unabh&auml;ngiges Europa - digital, f&uuml;hrend. Wenn diese Vision dich genauso begeistert wie uns, lass uns die souver&auml;ne Cloud daf&uuml;r gemeinsam bauen.</p>" [ref=f12e155] [cursor=pointer]:
+          - figure [ref=f12e156]
+        - button "<p>Du wirst Teil der f&uuml;hrenden Handelsgruppe Europas, der Schwarz Gruppe und geh&ouml;rst dabei zur IT- und Digitalsparte, Schwarz Digits. Damit profitierst du von der Dynamik eines jungen Unternehmens und der St&auml;rke der etablierten Unternehmensgruppe, die hinter Lidl und Kaufland steckt.</p>" [ref=f12e159] [cursor=pointer]:
+          - figure [ref=f12e160]
+        - 'button "<p>Deine Ideen h&ouml;ren wir gerne - und das auf allen Ebenen: Duz-Kultur und offene T&uuml;ren gestalten die Arbeit abwechslungsreich und produktiv. Dabei f&ouml;rdern wir den Blick &uuml;ber den Tellerrand und die Zusammenarbeit in agilen Strukturen, um gemeinsam innovative L&ouml;sungen zu entwickeln.<br>&nbsp;</p>" [ref=f12e163] [cursor=pointer]':
+          - figure [ref=f12e164]
+        - button "<p>Du wirst Teil eines internationalen Teams, denn wir kommen aus aller Welt und bilden eine echte Einheit. Wir lieben und leben die Cloud. Jeder bringt seine eigenen St&auml;rken ein, und gemeinsam verbessern wir kontinuierlich unser Portfolio.</p>" [ref=f12e167] [cursor=pointer]:
+          - figure [ref=f12e168]
+        - button "<p>Du wirst attraktiv entlohnt, genie&szlig;t 30 Tage Urlaub, bist zeitlich und &ouml;rtlich flexibel und profitierst von einer Vielzahl an starken Sport-, Mobilit&auml;ts- und Gesundheitsangeboten. Dar&uuml;ber hinaus f&ouml;rdern wir deine pers&ouml;nliche und berufliche Entwicklung mit individuellen Weiterbildungsm&ouml;glichkeiten.</p>" [ref=f12e171] [cursor=pointer]:
+          - figure [ref=f12e172]
+        - button "<p>Unsere Cloud-L&ouml;sungen basieren auf Open-Source-Technologien, wodurch wir offene Standards in der Cloud-Entwicklung f&ouml;rdern. Bei uns kannst du dich auf innovative Denkans&auml;tze, eine unterst&uuml;tzende Community und eine moderne IT-Ausstattung verlassen.</p>" [ref=f12e175] [cursor=pointer]:
+          - figure [ref=f12e176]
+    - generic [ref=f12e177]:
+      - heading "Dein Ansprechpartner" [level=2] [ref=f12e178]
+      - generic [ref=f12e180]:
+        - img "Recruiter Foto Heiko" [ref=f12e182]
+        - heading "Heiko Kiefer" [level=3] [ref=f12e183]
+        - paragraph [ref=f12e184]: Recruiter
+        - list [ref=f12e185]:
+          - listitem [ref=f12e186]:
+            - generic [ref=f12e187]: "E-Mail:"
+            - generic [ref=f12e188]: recruiting@mail.schwarz
+    - generic [ref=f12e189]:
+      - heading "Dein Bewerbungsprozess im Überblick" [level=2] [ref=f12e190]
+      - generic [ref=f12e191]:
+        - article [ref=f12e192]:
+          - generic [ref=f12e193]:
+            - generic [ref=f12e194]: "1"
+            - heading "Bewerbung" [level=3] [ref=f12e195]
+          - generic [ref=f12e196]: Wir lieben die Einfachheit. Bewirb dich schnell und unkompliziert digital, gerne auch ohne Registrierung.
+        - article [ref=f12e197]:
+          - generic [ref=f12e198]:
+            - generic [ref=f12e199]: "2"
+            - heading "Checkup" [level=3] [ref=f12e200]
+          - generic [ref=f12e201]: Gemeinsam mit dem zuständigen Fachbereich werfen wir einen Blick in deine Unterlagen.
+        - article [ref=f12e202]:
+          - generic [ref=f12e203]:
+            - generic [ref=f12e204]: "3"
+            - heading "Kennenlernen" [level=3] [ref=f12e205]
+          - generic [ref=f12e206]: Bei einem ersten Kennenlernen liegt der Fokus sowohl auf deiner Persönlichkeit als auch auf deiner fachlichen Eignung.
+        - article [ref=f12e207]:
+          - generic [ref=f12e208]:
+            - generic [ref=f12e209]: "4"
+            - heading "Vertragsangebot" [level=3] [ref=f12e210]
+          - generic [ref=f12e211]: Haben wir uns gegenseitig überzeugt? Dann ist dein Arbeitsvertrag digital per Mail auf dem Weg zu dir.
+        - article [ref=f12e212]:
+          - generic [ref=f12e213]:
+            - generic [ref=f12e214]: "5"
+            - heading "Willkommen" [level=3] [ref=f12e215]
+          - generic [ref=f12e216]: Dein erster Arbeitstag bei uns steht an und dein individuelles Onboarding im Team startet. Wir freuen uns auf dich!
+    - generic [ref=f12e218]:
+      - heading "Diese Stellen könnten auch interessant sein" [level=2] [ref=f12e220]
+      - generic [ref=f12e221]:
+        - button "Previous slide" [disabled] [ref=f12e222]:
+          - figure [ref=f12e223]
+        - generic [ref=f12e226]:
+          - generic:
+            - group "1 / 10" [ref=f12e227]:
+              - article [ref=f12e228]:
+                - generic [ref=f12e229]:
+                  - link "link":
+                    - /url: https://schwarz-digits.de/jobsearch/hr/servicetechniker-fuer-serverhardware-m-w-d-GT1811
+                  - generic [ref=f12e230]:
+                    - paragraph [ref=f12e231]:
+                      - generic [ref=f12e232]: Berufseinsteiger
+                      - generic [ref=f12e233]: Heilbronn
+                    - heading "Servicetechniker für Serverhardware (m/w/d) (m/w/d)" [level=3] [ref=f12e234]:
+                      - generic [ref=f12e235]: Servicetechniker für Serverhardware (m/w/d)
+                      - generic [ref=f12e236]: (m/w/d)
+            - group "2 / 10" [ref=f12e237]:
+              - article [ref=f12e238]:
+                - generic [ref=f12e239]:
+                  - link "link":
+                    - /url: https://schwarz-digits.de/jobsearch/hr/junior-it-systemadministrator-rechenzentrum-m-w-d-GT3243
+                  - generic [ref=f12e240]:
+                    - paragraph [ref=f12e241]:
+                      - generic [ref=f12e242]: Berufseinsteiger
+                      - generic [ref=f12e243]: Heilbronn
+                    - heading "(Junior) IT Systemadministrator Rechenzentrum (m/w/d) (m/w/d)" [level=3] [ref=f12e244]:
+                      - generic [ref=f12e245]: (Junior) IT Systemadministrator Rechenzentrum (m/w/d)
+                      - generic [ref=f12e246]: (m/w/d)
+            - group "3 / 10" [ref=f12e247]:
+              - article [ref=f12e248]:
+                - generic [ref=f12e249]:
+                  - link "link":
+                    - /url: https://schwarz-digits.de/jobsearch/hr/junior-cloud-engineer-m-w-d-stackit-cloud-accelerator-program-start-01-10-2026-GT3305
+                  - generic [ref=f12e250]:
+                    - paragraph [ref=f12e251]:
+                      - generic [ref=f12e252]: Berufseinsteiger
+                      - generic [ref=f12e253]: Heilbronn
+                    - heading "Junior Cloud Engineer (m/w/d) - STACKIT Cloud-Accelerator Program (Start 01.10.2026) (m/w/d)" [level=3] [ref=f12e254]:
+                      - generic [ref=f12e255]: Junior Cloud Engineer (m/w/d) - STACKIT Cloud-Accelerator Program (Start 01.10.2026)
+                      - generic [ref=f12e256]: (m/w/d)
+            - group "4 / 10" [ref=f12e257]:
+              - article [ref=f12e258]:
+                - generic [ref=f12e259]:
+                  - link "link":
+                    - /url: https://schwarz-digits.de/jobsearch/hr/servicetechniker-fuer-serverhardware-m-w-d-GT1811
+                  - generic [ref=f12e260]:
+                    - paragraph [ref=f12e261]:
+                      - generic [ref=f12e262]: Berufseinsteiger
+                      - generic [ref=f12e263]: Heilbronn
+                    - heading "Servicetechniker für Serverhardware (m/w/d) (m/w/d)" [level=3] [ref=f12e264]:
+                      - generic [ref=f12e265]: Servicetechniker für Serverhardware (m/w/d)
+                      - generic [ref=f12e266]: (m/w/d)
+            - group "5 / 10" [ref=f12e267]:
+              - article [ref=f12e268]:
+                - generic [ref=f12e269]:
+                  - link "link":
+                    - /url: https://schwarz-digits.de/jobsearch/hr/junior-it-systemadministrator-rechenzentrum-m-w-d-GT3243
+                  - generic [ref=f12e270]:
+                    - paragraph [ref=f12e271]:
+                      - generic [ref=f12e272]: Berufseinsteiger
+                      - generic [ref=f12e273]: Heilbronn
+                    - heading "(Junior) IT Systemadministrator Rechenzentrum (m/w/d) (m/w/d)" [level=3] [ref=f12e274]:
+                      - generic [ref=f12e275]: (Junior) IT Systemadministrator Rechenzentrum (m/w/d)
+                      - generic [ref=f12e276]: (m/w/d)
+            - group "6 / 10" [ref=f12e277]:
+              - article [ref=f12e278]:
+                - generic [ref=f12e279]:
+                  - link "link":
+                    - /url: https://schwarz-digits.de/jobsearch/hr/junior-cloud-engineer-m-w-d-stackit-cloud-accelerator-program-start-01-10-2026-GT3305
+                  - generic [ref=f12e280]:
+                    - paragraph [ref=f12e281]:
+                      - generic [ref=f12e282]: Berufseinsteiger
+                      - generic [ref=f12e283]: Heilbronn
+                    - heading "Junior Cloud Engineer (m/w/d) - STACKIT Cloud-Accelerator Program (Start 01.10.2026) (m/w/d)" [level=3] [ref=f12e284]:
+                      - generic [ref=f12e285]: Junior Cloud Engineer (m/w/d) - STACKIT Cloud-Accelerator Program (Start 01.10.2026)
+                      - generic [ref=f12e286]: (m/w/d)
+            - group "7 / 10" [ref=f12e287]:
+              - article [ref=f12e288]:
+                - generic [ref=f12e289]:
+                  - link "link":
+                    - /url: https://schwarz-digits.de/jobsearch/hr/domain-solutions-customer-support-domain-dns-ssl-m-w-d-GT3260
+                  - generic [ref=f12e290]:
+                    - paragraph [ref=f12e291]:
+                      - generic [ref=f12e292]: Berufseinsteiger
+                      - generic [ref=f12e293]: Bad Friedrichshall
+                    - heading "Domain Solutions Customer Support (Domain, DNS & SSL) (m/w/d) (m/w/d)" [level=3] [ref=f12e294]:
+                      - generic [ref=f12e295]: Domain Solutions Customer Support (Domain, DNS & SSL) (m/w/d)
+                      - generic [ref=f12e296]: (m/w/d)
+            - group "8 / 10" [ref=f12e297]:
+              - article [ref=f12e298]:
+                - generic [ref=f12e299]:
+                  - link "link":
+                    - /url: https://schwarz-digits.de/jobsearch/hr/solution-architect-consultant-distributed-cloud-sdc-stackit-m-w-d-GT1885
+                  - generic [ref=f12e300]:
+                    - paragraph [ref=f12e301]:
+                      - generic [ref=f12e302]: Berufserfahrene
+                      - generic [ref=f12e303]: Heilbronn
+                    - heading "Solution Architect / Consultant - Distributed Cloud (SDC) - STACKIT (m/w/d) (m/w/d)" [level=3] [ref=f12e304]:
+                      - generic [ref=f12e305]: Solution Architect / Consultant - Distributed Cloud (SDC) - STACKIT (m/w/d)
+                      - generic [ref=f12e306]: (m/w/d)
+            - group "9 / 10" [ref=f12e307]:
+              - article [ref=f12e308]:
+                - generic [ref=f12e309]:
+                  - link "link":
+                    - /url: https://schwarz-digits.de/jobsearch/hr/cloud-solution-architect-stackit-m-w-d-GT1085
+                  - generic [ref=f12e310]:
+                    - paragraph [ref=f12e311]:
+                      - generic [ref=f12e312]: Berufserfahrene
+                      - generic [ref=f12e313]: Heilbronn
+                    - heading "Cloud Solution Architect - STACKIT (m/w/d) (m/w/d)" [level=3] [ref=f12e314]:
+                      - generic [ref=f12e315]: Cloud Solution Architect - STACKIT (m/w/d)
+                      - generic [ref=f12e316]: (m/w/d)
+            - group "10 / 10" [ref=f12e317]:
+              - article [ref=f12e318]:
+                - generic [ref=f12e319]:
+                  - link "link":
+                    - /url: https://schwarz-digits.de/jobsearch/hr/initiativbewerbung-stackit-GT1255
+                  - generic [ref=f12e320]:
+                    - paragraph [ref=f12e321]:
+                      - generic [ref=f12e322]: Berufserfahrene
+                      - generic [ref=f12e323]: Heilbronn
+                    - heading "Initiativbewerbung STACKIT (m/w/d)" [level=3] [ref=f12e324]:
+                      - generic [ref=f12e325]: Initiativbewerbung STACKIT
+                      - generic [ref=f12e326]: (m/w/d)
+        - button "Next slide" [ref=f12e327] [cursor=pointer]:
+          - figure [ref=f12e328]
+  - contentinfo [ref=f12e335]:
+    - generic [ref=f12e337]:
+      - generic [ref=f12e338]:
+        - generic [ref=f12e339]:
+          - generic [ref=f12e340]: © 2026 Schwarz Digits
+          - navigation "Social media" [ref=f12e342]:
+            - menu [ref=f12e343]:
+              - menuitem [ref=f12e344]:
+                - link "LinkedIn" [ref=f12e345] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/schwarz-digits
+                  - figure [ref=f12e346]
+              - menuitem [ref=f12e347]:
+                - link "YouTube" [ref=f12e348] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@SchwarzDigits
+                  - figure [ref=f12e349]
+              - menuitem [ref=f12e350]:
+                - link "Instagram" [ref=f12e351] [cursor=pointer]:
+                  - /url: https://www.instagram.com/schwarzdigits?igsh=OW1mZjN6MW03d2Ji
+                  - figure [ref=f12e352]
+        - navigation "Brand Navigation" [ref=f12e354]:
+          - menu [ref=f12e355]:
+            - menuitem [ref=f12e356]:
+              - link "Cookie Bestimmungen" [ref=f12e357] [cursor=pointer]:
+                - /url: /cookie-bestimmungen
+            - menuitem [ref=f12e358]:
+              - link "Datenschutz" [ref=f12e359] [cursor=pointer]:
+                - /url: /datenschutz
+            - menuitem [ref=f12e360]:
+              - link "Impressum" [ref=f12e361] [cursor=pointer]:
+                - /url: /impressum
+            - menuitem [ref=f12e362]:
+              - link "Compliance" [ref=f12e363] [cursor=pointer]:
+                - /url: /compliance
+      - generic:
+        - navigation "Brand Navigation":
+          - menu

@@ -1,0 +1,133 @@
+- generic [active] [ref=f3e1]:
+  - heading "Softwareentwickler - Microservice Frontend (w/m/d)" [level=1] [ref=f3e2]
+  - generic [ref=f3e3]:
+    - navigation [ref=f3e4]:
+      - generic [ref=f3e5]:
+        - link "Zurück zur Stellen Übersicht" [ref=f3e6] [cursor=pointer]:
+          - /url: https://jobs.bechtle.com/default/content/search/?locale=de_DE
+        - button "Menü öffnen" [ref=f3e12] [cursor=pointer]
+      - generic [ref=f3e20]:
+        - generic [ref=f3e21]:
+          - button "België" [ref=f3e22] [cursor=pointer]
+          - generic:
+            - link "Nederlands" [ref=f3e31] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/be/content/search/?locale=nl_NL&addresses%2Fcountry=België
+            - link "Français" [ref=f3e32] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/be/content/search/?locale=fr_FR&addresses%2Fcountry=Belgique
+            - link "English" [ref=f3e33] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/be/content/search/?locale=en_US&addresses%2Fcountry=Belgium
+        - generic [ref=f3e34]:
+          - button "Česko" [ref=f3e35] [cursor=pointer]
+          - generic:
+            - link "Čeština" [ref=f3e44] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/cz/content/search/?locale=cs_CZ&addresses%2Fcountry=Česká+republika
+            - link "English" [ref=f3e45] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/cz/content/search/?locale=en_US&addresses%2Fcountry=Czech+Republic
+        - generic [ref=f3e46]:
+          - button "Deutschland" [ref=f3e47] [cursor=pointer]
+          - generic:
+            - link "Deutsch" [ref=f3e56] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/default/content/search/?locale=de_DE&addresses%2Fcountry=Deutschland
+            - link "English" [ref=f3e57] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/default/content/search/?locale=en_US&addresses%2Fcountry=Germany
+        - generic [ref=f3e58]:
+          - button "España" [ref=f3e59] [cursor=pointer]
+          - generic:
+            - link "Español" [ref=f3e542] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/es/content/search/?locale=es_ES&addresses%2Fcountry=España
+            - link "English" [ref=f3e543] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/es/content/search/?locale=en_US&addresses%2Fcountry=Spain
+        - generic [ref=f3e544]:
+          - button "France" [ref=f3e545] [cursor=pointer]
+          - generic:
+            - link "Français" [ref=f3e554] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/fr/content/search/?locale=fr_FR&addresses%2Fcountry=France
+            - link "English" [ref=f3e555] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/fr/content/search/?locale=en_US&addresses%2Fcountry=France
+        - generic [ref=f3e556]:
+          - button "Great Britain" [ref=f3e557] [cursor=pointer]
+          - link "English" [ref=f3e571] [cursor=pointer]:
+            - /url: https://jobs.bechtle.com/gb/content/search/?locale=en_US&addresses%2Fcountry=United+Kingdom
+        - generic [ref=f3e572]:
+          - button "Éire" [ref=f3e573] [cursor=pointer]
+          - link "English" [ref=f3e582] [cursor=pointer]:
+            - /url: https://jobs.bechtle.com/ie/content/search/?locale=en_US&addresses%2Fcountry=Ireland
+        - generic [ref=f3e583]:
+          - button "Italia" [ref=f3e584] [cursor=pointer]
+          - generic:
+            - link "Italiano" [ref=f3e593] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/it/content/search/?locale=it_IT&addresses%2Fcountry=Italia
+            - link "English" [ref=f3e594] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/it/content/search/?locale=en_US&addresses%2Fcountry=Italy
+        - generic [ref=f3e595]:
+          - button "Magyarország" [ref=f3e596] [cursor=pointer]
+          - generic:
+            - link "Magyar" [ref=f3e605] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/hu/content/search/?locale=hu_HU&addresses%2Fcountry=Magyarország
+            - link "English" [ref=f3e606] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/hu/content/search/?locale=en_US&addresses%2Fcountry=Hungary
+        - generic [ref=f3e607]:
+          - button "Nederland" [ref=f3e608] [cursor=pointer]
+          - generic:
+            - link "Nederlands" [ref=f3e617] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/nl/content/search/?locale=nl_NL&addresses%2Fcountry=Nederland
+            - link "English" [ref=f3e618] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/nl/content/search/?locale=en_US&addresses%2Fcountry=Netherlands
+        - generic [ref=f3e619]:
+          - button "Österreich" [ref=f3e620] [cursor=pointer]
+          - generic:
+            - link "Deutsch" [ref=f3e629] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/at/content/search/?locale=de_DE&addresses%2Fcountry=Österreich
+            - link "English" [ref=f3e630] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/at/content/search/?locale=en_US&addresses%2Fcountry=Austria
+        - generic [ref=f3e631]:
+          - button "Polska" [ref=f3e632] [cursor=pointer]
+          - generic:
+            - link "Polski" [ref=f3e640] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/pl/content/search/?locale=pl_PL&addresses%2Fcountry=Polska
+            - link "English" [ref=f3e641] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/pl/content/search/?locale=en_US&addresses%2Fcountry=Poland
+        - generic [ref=f3e642]:
+          - button "Portugal" [ref=f3e643] [cursor=pointer]
+          - generic:
+            - link "Português" [ref=f3e876] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/pt/content/search/?locale=pt_PT&addresses%2Fcountry=Portugal
+            - link "English" [ref=f3e877] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/pt/content/search/?locale=en_US&addresses%2Fcountry=Portugal
+        - generic [ref=f3e878]:
+          - button "Schweiz" [ref=f3e879] [cursor=pointer]
+          - generic:
+            - link "Deutsch" [ref=f3e887] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/ch/content/search/?locale=de_DE&addresses%2Fcountry=Schweiz
+            - link "Français" [ref=f3e888] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/ch/content/search/?locale=fr_FR&addresses%2Fcountry=Suisse
+            - link "English" [ref=f3e889] [cursor=pointer]:
+              - /url: https://jobs.bechtle.com/ch/content/search/?locale=en_US&addresses%2Fcountry=Switzerland
+    - region "Cookie Einstellungen" [ref=f3e891]:
+      - generic [ref=f3e892]:
+        - paragraph [ref=f3e893]: Wir verwenden Cookies, um unsere Webseite nutzerfreundlich zu gestalten und fortlaufend zu verbessern. Neben technisch notwendigen Diensten (Art. 6 Abs. 1 lit. f EU-DS-GVO, §25 Abs. 2 TTDSG) möchten wir dazu Dienste von Drittanbietern nutzen, die uns helfen, unser Werbeangebot zu verbessern und die statistische Nutzung unserer Internetseite auszuwerten. Um diese Dienste verwenden zu dürfen, benötigen wir Ihre Einwilligung (Art. 6 Abs. 1 lit. a EU-DS-GVO, §25 Abs. 1 TTDSG).
+        - paragraph [ref=f3e894]: Diese können Sie einfach durch einen Klick auf das Feld „Alle akzeptieren“ erteilen. Sollte Sie damit nicht eiverstanden sein, können Sie die Verwendung technisch nicht notwendiger Dienste durch einen Klick auf „Alle ablehnen“ verhindern. Selbstverständlich können Sie einzelne Dienste auch individuell konfigurieren.
+        - button "Privatsphäre-Einstellungen" [ref=f3e895] [cursor=pointer]
+        - generic [ref=f3e896]:
+          - button "Alle ablehnen" [ref=f3e897] [cursor=pointer]
+          - button "Alle akzeptieren" [ref=f3e898] [cursor=pointer]
+    - main [ref=f3e900]:
+      - region "Stellenbeschreibung" [ref=f3e906]
+    - generic [ref=f3e912]:
+      - generic [ref=f3e913]:
+        - generic [ref=f3e914]:
+          - link "Instagram" [ref=f3e916] [cursor=pointer]:
+            - /url: https://www.instagram.com/bechtlekarriere/
+          - link "LinkedIn" [ref=f3e922] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/bechtle
+          - link "Xing" [ref=f3e928] [cursor=pointer]:
+            - /url: https://www.xing.com/companies/bechtleag
+          - link "Youtube" [ref=f3e934] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/BechtleAG
+        - generic [ref=f3e939]:
+          - button "Über Bechtle" [ref=f3e940] [cursor=pointer]
+          - button "Impressum" [ref=f3e941] [cursor=pointer]
+          - button "Datenschutzerklärung" [ref=f3e942] [cursor=pointer]
+          - button "Cookie Consent Manager" [ref=f3e943] [cursor=pointer]
+      - generic [ref=f3e944]: © 2026 - Bechtle AG
+  - generic: Ja Nein   Ja Nein Ja Nein   Ja Nein Ja Nein   Ja Nein Ja Nein

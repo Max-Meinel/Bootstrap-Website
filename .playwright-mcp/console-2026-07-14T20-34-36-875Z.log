@@ -1,0 +1,34 @@
+[    1613ms] [INFO] 2026-07-14 22:34:38 Device API logging initialized - DEVICE @ https://hrplattformprod-rocketapply-prod-scos-rocketapply.cfapps.eu20.hana.ondemand.com/app/resources/sap-ui-core.js:1124
+[    1937ms] [INFO] 
+IFRAME-RESIZER
+
+Iframe-Resizer 5 is now available via the following two packages:
+
+ * @iframe-resizer/parent
+ * @iframe-resizer/child
+
+Additionally their are also new versions of iframe-resizer for React, Vue, and jQuery.
+
+Version 5 of iframe-resizer has been extensively rewritten to use modern browser APIs, which has enabled significantly better performance and greater accuracy in the detection of content resizing events.
+
+Please see https://iframe-resizer.com/upgrade for more details.
+ @ https://schwarz-digits.de/assets-digits/index-D_4G03M8.js:2
+[    1941ms] [INFO] 
+IFRAME-RESIZER
+
+Iframe-Resizer 5 is now available via the following two packages:
+
+ * @iframe-resizer/parent
+ * @iframe-resizer/child
+
+Additionally their are also new versions of iframe-resizer for React, Vue, and jQuery.
+
+Version 5 of iframe-resizer has been extensively rewritten to use modern browser APIs, which has enabled significantly better performance and greater accuracy in the detection of content resizing events.
+
+Please see https://iframe-resizer.com/upgrade for more details.
+ @ https://schwarz-digits.de/assets-digits/index-D_4G03M8.js:42
+[    2045ms] [ERROR] Hydration completed but contains mismatches. @ https://schwarz-digits.de/assets-digits/index-D_4G03M8.js:0
+[    2139ms] [LOG] scmp-sdk: server styles successfully applied with ID #scmp-sdk-custom-css. @ https://sdk.cmp.schwarz/scmp-sdk.js:75
+[    2240ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://hrplattformprod-rocketapply-prod-scos-rocketapply.cfapps.eu20.hana.ondemand.com/app/i18n/i18n_en_GB.properties:0
+[    2311ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://hrplattformprod-rocketapply-prod-scos-rocketapply.cfapps.eu20.hana.ondemand.com/app/i18n/i18n_en_GB.properties:0
+[    2710ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://hrplattformprod-rocketapply-prod-scos-rocketapply.cfapps.eu20.hana.ondemand.com/app/i18n/i18n_en_GB.properties:0
