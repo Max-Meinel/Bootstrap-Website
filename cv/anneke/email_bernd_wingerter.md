@@ -1,4 +1,4 @@
-Hi Bernd,
+Hi Bernd, hi Simon,
 
 ich wollte dich noch vor deinem Urlaub kurz auf den aktuellen Stand bringen.
 
@@ -12,7 +12,7 @@ Seitdem habe ich mich weiter beworben, und hier ein Überblick über die einzeln
 - Business Data Cloud, Rene Wittmer (454116): Interview lief sehr gut, danach Stelle komplett gestrichen im Rahmen einer Reorganisation
 - BTP PM RIG, Arne Stich (448901): Interview lief gut, "not selected" in SuccessFactors ohne Erklärung. Erst deutlich später erfahren, dass auch diese Stelle wegen einer Reorganisation geschlossen wurde
 - Security & Compliance Associate, Dominika Grabowska-Steinhauer (454837): Absage nach einem Interview, das aus meiner Sicht sehr gut lief. Drei Nachfragen nach konkretem Feedback, zuletzt sehr freundlich formuliert. Bis heute keine verwertbare Antwort
-- Fünf Sovereign Cloud Stellen (457760, 457484, 457768, 453796, 454272): Simon Nichterlein hat mir diese Stellen freundlicherweise empfohlen und angeboten, meine Bewerbungen intern weiterzugeben. Ich habe für jede Stelle ein individuelles Anschreiben geschrieben. Vier Absagen innerhalb weniger Stunden nach der Bewerbung. Nur 454272 ist noch offen
+- Fünf Sovereign Cloud Stellen (457760, 457484, 457768, 453796, 454272): Simon hat mir diese Stellen freundlicherweise empfohlen und angeboten, meine Bewerbungen intern weiterzugeben. Vier Absagen innerhalb weniger Stunden nach der Bewerbung. Nur 454272 ist noch offen
 - Empfehlungen von Jeanine Stein (454347, 454414): bei beiden Absage ohne Rückmeldung
 - Zwei AI Core Stellen (457154, 457091): Anneke hat den Mail-Thread persönlich an Christian Deller weitergeleitet, um mich intern zu unterstützen. Die Senior-Stelle wurde trotzdem sofort abgelehnt, auf die Associate-Stelle bis heute keine Rückmeldung
 
